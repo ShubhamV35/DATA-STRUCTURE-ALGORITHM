@@ -1,0 +1,4243 @@
+%PDF-1.4
+%Óëéá
+1 0 obj
+<</Title (Python beginner sheet)
+/Producer (Skia/PDF m128 Google Docs Renderer)>>
+endobj
+3 0 obj
+<</ca 1
+/BM /Normal>>
+endobj
+5 0 obj
+<</CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 1.9656863
+/ML 10
+/SA true
+/BM /Normal>>
+endobj
+6 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 599.12573 190.26463 614.24982]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/solve-me-first/problem)>>>>
+endobj
+7 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 584.00171 164.929779 599.12573]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/solve-me-first/problem)>>>>
+endobj
+8 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 599.12573 330.25507 614.24982]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/e.js/4n750R)>>>>
+endobj
+9 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 584.00171 293.76801 599.12573]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/e.js/4n750R)>>>>
+endobj
+10 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 599.12573 441.03781 614.24982]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1HtTmbYszUZ3MUS9kVwcrxoR9CJOfSyvp/view?usp=drivesdk)>>>>
+endobj
+11 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 599.12573 564.55682 614.24982]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/how-to-take-integer-input-in-python/)>>>>
+endobj
+12 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 584.00171 551.37555 599.12573]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/how-to-take-integer-input-in-python/)>>>>
+endobj
+13 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 568.87762 537.38892 584.00171]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/how-to-take-integer-input-in-python/)>>>>
+endobj
+14 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 546.12268 206.9532 561.2467]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)>>>>
+endobj
+15 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 530.9986 164.929779 546.12268]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)>>>>
+endobj
+16 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 546.12268 331.62723 561.2467]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/LCSbNP)>>>>
+endobj
+17 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 530.9986 257.86902 546.12268]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/LCSbNP)>>>>
+endobj
+18 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 546.12268 406.74411 561.2467]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1lPaxo5obJKHx-sEpXXWE4_VonloPolIA/view?usp=share_link)>>>>
+endobj
+19 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 530.9986 391.89923 546.12268]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1lPaxo5obJKHx-sEpXXWE4_VonloPolIA/view?usp=share_link)>>>>
+endobj
+20 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 546.12268 546.03522 561.2467]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/loops-in-python/)>>>>
+endobj
+21 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 530.9986 537.38892 546.12268]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/loops-in-python/)>>>>
+endobj
+22 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 508.24359 209.05121 523.36768]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)>>>>
+endobj
+23 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 508.24359 332.27356 523.36768]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/8Zsp2X)>>>>
+endobj
+24 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 493.11954 256.15778 508.24359]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/8Zsp2X)>>>>
+endobj
+25 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 508.24359 425.55188 523.36768]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1BD7yYx6vk5e8uAuPQGmdXlzyG3UWnDuP/view?usp=share_link)>>>>
+endobj
+26 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 508.24359 538.20483 523.36768]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-if-else/)>>>>
+endobj
+27 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 493.11954 505.20911 508.24359]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-if-else/)>>>>
+endobj
+28 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 477.99548 537.38892 493.11954]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-if-else/)>>>>
+endobj
+29 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 455.24048 194.35464 470.36453]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)>>>>
+endobj
+30 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 440.11642 164.929779 455.24048]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)>>>>
+endobj
+31 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 455.24048 332.27356 470.36453]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/4OhZzu)>>>>
+endobj
+32 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 440.11642 257.01074 455.24048]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/4OhZzu)>>>>
+endobj
+33 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 455.24048 437.16501 470.36453]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1u-vQenCW8syDAMSCVYhrWl2wx_ogkHGJ/view?usp=share_link)>>>>
+endobj
+34 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 455.24048 572.90112 470.36453]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/what-is-the-maximum-possible-value-of-an-integer-in-python/)>>>>
+endobj
+35 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 440.11642 561.42047 455.24048]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/what-is-the-maximum-possible-value-of-an-integer-in-python/)>>>>
+endobj
+36 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 424.99237 566.03497 440.11642]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/what-is-the-maximum-possible-value-of-an-integer-in-python/)>>>>
+endobj
+37 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 409.86829 537.38892 424.99234]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/what-is-the-maximum-possible-value-of-an-integer-in-python/)>>>>
+endobj
+38 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 387.11328 217.13586 402.23734]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)>>>>
+endobj
+39 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 371.98926 164.929779 387.11331]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)>>>>
+endobj
+40 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 387.11328 331.45239 402.23734]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/pTNEwa)>>>>
+endobj
+41 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 371.98926 258.84915 387.11331]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/pTNEwa)>>>>
+endobj
+42 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 387.11328 451.63373 402.23734]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1fGNR9ujIM2K1Ko4tDT4dOYTJbSV3U_BY/view?usp=share_link)>>>>
+endobj
+43 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 371.98926 362.42139 387.11331]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1fGNR9ujIM2K1Ko4tDT4dOYTJbSV3U_BY/view?usp=share_link)>>>>
+endobj
+44 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 387.11328 551.11591 402.23734]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-matrix/)>>>>
+endobj
+45 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 371.98926 537.38892 387.11331]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-matrix/)>>>>
+endobj
+46 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 349.23425 167.610565 364.35831]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)>>>>
+endobj
+47 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 334.11017 164.929779 349.23422]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)>>>>
+endobj
+48 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 349.23425 331.91861 364.35831]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/hHqtqD)>>>>
+endobj
+49 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 334.11017 255.63858 349.23422]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/hHqtqD)>>>>
+endobj
+50 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 349.23425 431.32135 364.35831]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1ZCapWEHhQVWewvrnh0WgiRW5pQ0AA3cq/view?usp=share_link)>>>>
+endobj
+51 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 349.23425 567.11047 364.35831]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/precision-handling-python/)>>>>
+endobj
+52 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 334.11017 505.20911 349.23422]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/precision-handling-python/)>>>>
+endobj
+53 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 318.98611 537.38892 334.11017]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/precision-handling-python/)>>>>
+endobj
+54 0 obj
+<</Filter /FlateDecode
+/Length 3886>> stream
+xœí]ÝÎÜ¸½ÿžb®D© (d“½Þ6@ í.Pttûþ@©ñØ–mÑ¦í™±¿Í$À"+{l‰"É#J†‹¦¿€þ^þþëÛß”Ó1`D¸^ëÿ/EeMLÚR+Ý—ü÷/?^šüöËÛ4—_þ÷–Á_@;ùíŸo?¿ý4óT°Aað.6ªhB‚üp}½‹Þü£ø§ooüj/Êä?öòíç7èñAéü’ÆFù–õr -ÄË·\þD—õŸ/ßþõFï‹£ß5í×ö/ßæ_C3Iƒ	Â×™p},Xe“·¾{sM»VhƒM¡¸òYÔï”×1%+ìˆí5õÄøØ¿E/L†ºu2Òúö…&b¤?ã(¯!†îŠýz½âT´hŒNýOR÷°€Ö¿ˆ¢ÎƒM
+ å^ì—ýÔ\Ae %pqÜ—–&»˜SVÂþc~(8-U;gÛ®èDídÞ]W"weK÷gÄôù6•)„ }Ì¾ƒö
+x“ìlX’’É£B²k¡”¬k§Ò;>„µFh,õÕy±~î¨Á:$BaçkB–Ô­2Ç¬éÙ$…Å¤)€à‹ì±–&‡\ƒxJ9µ“ƒp5—Ä8Áë,?¥AÔ§­ò!iñÐm;ë	,ÝÝû6^ÏùY—á’s¨€Ôîè…dƒ÷
+Y‡y|Èp*Oæ²~BHþ¾væ#ù—(7_÷±k…CÉã`ÕpÆYtNÎy7q¶‹îÝEêáŒ¸ûì,°øZr)’ùÍN›@¡#¸¬ÅÆSð@4O#\G¼ Ž{ô˜ãæ¿ýáòŸ3°ZÙÓ“RV@ûx30¾ò#yŸê nB#ŒÚtíæŽ^¥äb¯¦K–yC
+	åÑ Dòæ6Ù¸J6Ôeå¬!§üTáÎµ›øe5¦Xä 71@ aè3‘þ–ô	Š+_Û—À@/iŒío((õŠ—h™iG"väÄ„žéKå·¡î§E}À/C}@Ô×™wwP¤Žë>UÐ·h©£]œô¼%Ô¡Ð”ùoaªiàòÈù3&*ç¢¯š3aôšùË!¶žŒu©µ§è	Ò<¤³8…5ë!¡u¤	1Õ$G¶™}H °‰“ðšb3
+hŸ+9îx)`j­%Y¼A‰ä6¼‡Õ_ÖZùgraï'Ñ¶âó 
+ó¿¡4M4E˜Á¸qÂâbªÍƒƒŸ0Õ·e>·Bs6†ˆE@ÀzI!Ê¹Ì¦R/Å¡­,LNi„4{1ÀOãH4XbÒ~w ‚
+NCxƒkùè±N-¬ÁÌ"x,¤´§áÚé‹Šyd£–§…Údœ„-”r'/6Ë„ïK!s)ALÕòÞƒç 7PgBÖ†’PEþ6 “¦¢_EÄG¯˜‰ÜT°/¶bâ§Öƒš¹ËY?ŸÛiUÙAÔd¥–Q³ÇCì!Á’w–ÏHöBL‘	1º‘WÊ\LŒ½á—7f¸;þJç­66`üp½B*Fý'•„\ü•Gð9«–.ø§q¬	k03¯×­Y:sÈ5–Ìº:y$ºlU£+‘j	ŒÏ(Qh„þéµ‚Ù…Üo ²Ww…Ç°›µÖ2ì	mO°Ä£õ¬›~,ÛK.<$Š$IR
+¥2Š=‘uzÖï-›(8‹‰.zsqHóCJ¾Š°8T¹g?Š4À’Ñ’©Å{®–Ík²W˜¡hÑÞ-Eq‹3zLJ(5>ªç×bùñâÛ+iÀi²6Ê‡§r¶æPo»AŽ|8Ç—)W»½¢LUœ5-u^€ñ.Xr4»Ñx¦¨cCÑ–e` ÞRGh½®RN¬Ì¨yèHJqhwëÑÃ``Æ¾ù+,¤ÍÖt$K$ÿ
+%3Ê&³OM…DŠ°‰¤»“D£É‘|£¹ ûáLsvð«hÁÁ€ÎCòpÈf†<–ï-
+
+¨¼‰ÎH±œ_™áéØ+3t¬¨H3€T&Šk|y¶–÷ŠÂeùè2«‰âˆq%™ˆ6—e’öLöwC&î¦ž¸9˜^¤áï‘4¬HEøRhå¡øÂáðŽ”-•ei(ÃQsSë6f•u÷ÔÜ¡Ö=õž)ìðQÑï2ì­—~TØ1g3Å\i33ëŸK±LH´š©æó~³KHN-Ð¯³À"»=Ô¿²kû<ºóW–Ü«€ªÉÌIn{¹W“ùx/^Qçø\®FR+àB +…¬Õ”Ì¡î÷EÉÜ“’ñŽb*ÀÊ–‚Â5”LÞêa°Ñ‰S2£Ñ””L7œi]·h<E[èéÈ|Ï¸{&6Ú«Ã¦˜”!ÀñÖÒí;c——‚’
+¤Ò½M3)$/ÖmLkIß³‘Md@Í$¶Uk/2àû àS¯Ê"­Œ†Bhoáîü–¤åSV÷ #'5<Ÿ†ö]Ðûî+uD.¯H_.ï.ïýø™")žèa_¥CR^•©‡<½·éˆ‰s¼XŒ¿˜ÙF²¡ì#÷—ºo`dEK9(£ä›þÜ/Ýf¯‡ú‹³|,êQÉÁ<¬¬#å³’õ_Â{çLÆû`MØË!šUoœ}Æn¯0MÁ!ôÃ™&L«„Ápž®âVdæÔš‚‰Z\°Æî`Þ² .,ùÔbwÆÖ%óI—Ðie¤uQ‹Ïyd‡'O’EqîÊ"c<ùÉäðUÄqDÇNêóãCaèÅÚ|/¬M K¡•G¢³¡…WÖšç‡N%)sÊYÅá+”ÍÔ´7S6Ç·,Æ 1cÖŠ‹ðùsåvúogHlP|žŸ×o([˜×?ttÄT‰½¹øÏ{³43køžC•Ø4ò"óƒ0œ~Ýié,ºÅš"È‡ø;”:ÈJ+")Aì?Õ÷‹qù$Š¢Ä«q¼=ñÓÐõ’l Ÿ>¸LŸòT² P—Q‡º¼™Ð‰ø%Œõµ{;-4³ƒwòBöä>·`yÐ¥s—&àIÖi±mòì°ìø!Zy$ýÜ_Ð¸’y5òùèî˜b·÷°¿s‰Öwš,G<q;ä@£Êïóû÷–ŸŒÜ†@a“Eñ	ÛÒ­yßm"ƒygn(¼Ò:øgþþ9ó˜÷Ðƒ«pæVTAÜqæ1©à±Ñ‰sæ£„¶äÌ»áìåÌËá<]ÅÙ£6ù¨†XG°‰÷Y
+MÅ	 Fî<¶È‚µÐ™+2ß™ßðòcÉaá—24—&Kœµ¬$Û©¯yÌ.÷Ù¾¿
+ZóHüz‘íß	ÙîŒ]z­<]Øµ¸c“Ù#¢¿QãÚ'–Ýï–\Ç´jÙ¼Æó½@–?+2™’&ÜÇÒfFù{Œ9VàJ_T'Ûìy¨ÁßyabÀ~Ùó‘ün¨‘íuóéáqD9GËŸö¼á;@[Ê©…_ÊÙ»·ø¨*ÉcÓ‚ãsGÆ‡ò*¥cíHüuE’¤lÊ[hTâÁ„O¦ |ºÑì>0žóÀò†áb¬µy7"ˆ”à¡pÃŠÆÞÎƒŽ×ÄŠ?†¹š±H^Ú…CÖˆ^DÈ^».rÎ#íúÅ„|'Lˆ]¹Yôœð2ó]e^)ÙßàhoCO†L¬{sÝá¡Ö½a¯ã~¯íè—¢4æEé›ü¥qõ_õ€h †k—NT¸Ûejâº]¦'<·pP|²P8¸êðµ½ÔBryæ’ü[ ë£±Æ{J¶ül½EI÷E¯‚õ Ýuu·½¯‡º¿ï€Î¡YŒ©ùÈø‹Õy¬Îi¾è²Z¨˜ùrŠ!Ö#$sù•`	nM>Z°oþ÷Û_÷=¸qgã"ÁsÌÉìi‚)››Îœé;h×|Pà yÒ@žHÚÁS`#ç®`M:SÊÓd«¶A§ª<Ïò§F#²Ð´J(0>äƒ FÒ<Ï·n€Ñ0ad])*œvþA_g™ô¤T…|.>iHœhÂƒ¾®QéŒ³È´©3Žr‰`Üõ°°¶¹Ÿ×Ó|<¡‚›Îkº­ÑLW´È!sÃ±˜Èù¥Ä¼¶Ö óØ³Þk€Ù
+É)ƒq0wñ]Ì›4óB„BM˜g9Z{Š–NbþöE@gVÈr×ÑÏ£¾ô’L×O{æïÍU$y–#’kÈÝÉ’â"
+í½]£—»Î¾­¡wkå¼‹ó4›Náåä˜­\“#ÏC+Z«8uè1”œêGPâÔ`:}°š6Ñ‹3PYÀå-‹}k©=õo‚T0úÉk¹©4Ït\\ ú!X‚.‹4=+b×ñb5¸j"Òœë`ª:e«ŠV@ \«ks¯Ž<D©‚V1d“Êê™}¿Ë]«<ÀÛ°·hÚVÏŠ¯k®Aç‘'ÁÔ€³æ8eÂÜu H8oÒô^ùØ[ÏH˜g9{c
+œfÆ@ï°i"Ë3ºPƒÍ^ò7Å¨W+´a×Þø*j¶¶•òA]˜¦Úð }Ê5ÔôÎ£»†H¨ ëfÑº¢3ë7}Ö2t¬Bø­¹áîé«À¦)ô,GH¾h•Cø†‚ÊJŽî’Maš¤7ÍU?pQ5{abë¬æ®m%µ½•f>—€4Ï†ª0Ï±¥cš£÷¢ÌY®‰±X”»
+ö§)z+HKj®)YEŽç¨¬¯w+É‚ÑKrWÉt¼;†¼ciž¥$¶ógi’3HyE¯p·|¦i^˜ë—ŒkèyUwô6Í5Ä<´±õ¶âF½2iîª?«â÷MœCº`,Í“~MƒÞN5ƒ£þ“0'²<QÑO-èí”Ì$/ÃùÊ°«£Š›7eR¥2<¨(¡Š›ÆÔ`3·ö3Ë¢Ž4Êã.`œŠ0²ß“j^Nñ+==Ÿ™¡LÒM¼]4úSÄä›E¨	(E‰¹SÅÝ}ãðn OÔ[ÜÜ·ï5!Ó^Qý­]ÓðN2a@\qkß6¼7ÒÛò8Êôm£±åø#ÛÌ5EŽ¬†2½_çf—ÊæÑò«&KJƒûûÖÑí"Í¹C3¸½oÝŽd©‰ÒÜÞ·Žn'9( `bØ™¾ut»MZELÆnï[G·;ï(éqvx{ß:ºÂEÖ†é[•þ?òÇl
+endstream
+endobj
+56 0 obj
+<</CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW .25
+/ML 10
+/SA true
+/BM /Normal>>
+endobj
+57 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 661.84399 567.62848 678.59595]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=tNm_NNSB3_w)>>>>
+endobj
+58 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 723.9682 164.394684 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)>>>>
+endobj
+59 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 708.84412 164.929779 723.9682]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)>>>>
+endobj
+60 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 723.9682 325.65112 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/W5tNCG)>>>>
+endobj
+61 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 708.84412 268.65036 723.9682]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/W5tNCG)>>>>
+endobj
+62 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 723.9682 422.34131 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1dj4mgz56LONZ5bU6QhGDLubyaLFWy0pj/view?usp=share_link)>>>>
+endobj
+63 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [467.73132 723.9682 526.2738 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)>>>>
+endobj
+64 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 708.84412 571.9104 723.9682]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)>>>>
+endobj
+65 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 693.72003 537.38892 708.84412]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/)>>>>
+endobj
+66 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 639.08899 187.83286 654.21307]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)>>>>
+endobj
+67 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 623.96497 164.929779 639.08905]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)>>>>
+endobj
+68 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 639.08899 332.27356 654.21307]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/8CUOQb)>>>>
+endobj
+69 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 623.96497 262.21866 639.08905]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/8CUOQb)>>>>
+endobj
+70 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 639.08899 437.19681 654.21307]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1CjLQuUHfjOXCOB6RH5OIe3KhHFaRrUPs/view?usp=share_link)>>>>
+endobj
+71 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 639.08899 552.86951 654.21307]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/max-min-python/)>>>>
+endobj
+72 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 623.96497 505.20911 639.08905]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/max-min-python/)>>>>
+endobj
+73 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 608.84082 537.38892 623.9649]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/max-min-python/)>>>>
+endobj
+74 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 586.08588 178.96938 601.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)>>>>
+endobj
+75 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 570.96185 214.32796 586.08594]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)>>>>
+endobj
+76 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 586.08588 330.02722 601.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/jPjrM2)>>>>
+endobj
+77 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 570.96185 254.5154 586.08594]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/jPjrM2)>>>>
+endobj
+78 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 586.08588 414.66986 601.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1U19wLFg8TN8PnMnyRV47O-MhQad_QnL5/view?usp=share_link)>>>>
+endobj
+79 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 570.96185 409.92288 586.08594]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1U19wLFg8TN8PnMnyRV47O-MhQad_QnL5/view?usp=share_link)>>>>
+endobj
+80 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 586.08588 556.4245 601.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-program-to-find-smallest-number-in-a-list/)>>>>
+endobj
+81 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 570.96185 569.37268 586.08594]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-program-to-find-smallest-number-in-a-list/)>>>>
+endobj
+82 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 555.83771 508.31372 570.96179]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-program-to-find-smallest-number-in-a-list/)>>>>
+endobj
+83 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 540.71368 537.38892 555.83777]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-program-to-find-smallest-number-in-a-list/)>>>>
+endobj
+84 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 517.95874 197.69766 533.08282]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)>>>>
+endobj
+85 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 502.83463 164.929779 517.95868]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)>>>>
+endobj
+86 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 517.95874 333.17422 533.08282]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/SgrZif)>>>>
+endobj
+87 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 502.83463 250.12869 517.95868]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/SgrZif)>>>>
+endobj
+88 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 517.95874 451.4165 533.08282]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1iqbLaF2Q1c_tuknnkywhqjmiuo9HXHOy/view?usp=share_link)>>>>
+endobj
+89 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 517.95874 531.44989 533.08282]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-slice-function/)>>>>
+endobj
+90 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 502.83463 513.09778 517.95868]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-slice-function/)>>>>
+endobj
+91 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 487.7106 537.38892 502.83466]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-slice-function/)>>>>
+endobj
+92 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 434.70749 215.13857 449.83154]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1V91BJD0SJtBLbUo6aaeH3gZBTO5nEOap/view?usp=sharing)>>>>
+endobj
+93 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 419.5834 211.1333 434.70746]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1V91BJD0SJtBLbUo6aaeH3gZBTO5nEOap/view?usp=sharing)>>>>
+endobj
+94 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 404.45932 209.25781 419.58337]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1V91BJD0SJtBLbUo6aaeH3gZBTO5nEOap/view?usp=sharing)>>>>
+endobj
+95 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 389.3353 210.3598 404.45935]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1V91BJD0SJtBLbUo6aaeH3gZBTO5nEOap/view?usp=sharing)>>>>
+endobj
+96 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 374.21121 152.675613 389.33527]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1V91BJD0SJtBLbUo6aaeH3gZBTO5nEOap/view?usp=sharing)>>>>
+endobj
+97 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 313.71494 212.2247 328.83899]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+98 0 obj
+<</Filter /FlateDecode
+/Length 3912>> stream
+xœí]ÛŽä¶}ï¯Ð³¡Éâ¬w½~N²@>`;fÄyòßç”Z)µ¨¦¤éVÏîŒc»DIÅbÕ©/RÄO
+ÿó‘šç¯§ÿž„•ÁS Õ^K¿bF‡(¨h¨þï¯¿4çüþÛéÇ_tóÛÿN|WP®QÒºæ÷ž~=ýOÕ^è¨,žc¢ÐÆ9§…J5D‚Œ#ïù†¿ÿÐüg#…aFK"Jï•evdÛ
+ìœÿ‘ØùéËéÇÏ¦!%4ÿ™æË¯'•ºý$$ÿ)<I›àš/ü¨'gJš/ÿhþ„ËþÜ|ù÷éç/è÷FI%LTä)ëŽRAH2Ñ„†{ë¥vª¢?x°F;3îÎù¦eº{6¡¼rµk»¨Œð!Hky˜ÏW¬?_‘Bšè´Ãcú+Q¼Á¦+Û+VDï½t1=Ìö·ñ&z—nqÃÃ¬u¶æ-v¸E
+øK÷„~À…å¼Õ¾RJösR„š!uP	­|ŒG)ýtƒx”!S3nÅAøù|AáA’tSQãŠÆÁ*ÆZwW´0’"n«lÕ¿G94SÞë$’­!ÚýÆI)LRÓ±Æiº‘$¡UŒ†
+ã\¸¢{I©§XaPêS{ª>¡Úé•¬|¥ˆÆ÷ý´TT£eÔ_!å¤
+¾FcŠOSªcM+ER_7Œ…×ËÞü¬Ágé$sE’îŠ"úìûà¢•WÎ§þ©Ð±TÞYSã1´êe£I#Èõðr
+éY4q½Zampsžý_IhƒñW2Æc»lt·ð¼×\¢Õ"«¼­…¦¸ívi?ôa‹`ÕøŠgÛ+›³z¤ÒÉÊf¬2òRÙœn‚aOb‚®	[Êgï·žÇ 
+F&Rq*Nt´FÛ—c(ƒÖ,‘Z@ÜÂhcm&þÅ+eK(»ÆkŽáš)„ H‡€Ä¨ÒÊ>ªì‰|+HÊs¨+(Æ^øË÷=ç‚ˆËr-@½š%ðCƒ÷¤k¡ˆÁuŠ§´†Å"2»fAüW˜œQÖ²ŒåÙ
+½Hû#%S“«zLÈ˜ŒŽµi˜’ë¬&h¡4 ¬8"\„fj§…+Å4lÁ©ÆþJ0
+ºœ¬i!‹js×ÞTpT¡‘·÷©Cî:{“S­cZ‘CLúÍje°Â‘¢i5ó‚˜zÀ›ŠysÍ×¢"–¡œü²s2ñwmçZ.šœ¨|ßòù”‘…
+Š,:ÊÏÈ^Ò3Z5é]Š›ÄV¢=ƒ÷ôëå	å)o"³Çvã’þ Ý,·GÏ<V‰ï—vè†¾oÈ„0’ßóé_§_8œôÑ:¯[uÄÈ¥ŸH, Ã8Dc<Àî\íNMN!kX§Œ5`ñë%Iq¤M\Ú¢ic"¤ðÌT/GØÔ ð¤öbòüÊhœæ¨x,Bùô[µ£1z"
++ÛÛÎ<p 3‘ŒC€e+cwíÛ«2cãSþK6A²Ñ´Ïä»C1´}x>¥ÇG+H¶\%"âlÊ¹ÄS„'yâ®7¬R®mžu9G’HäL‰˜	|ô¦nT:vÒ˜%ž9ˆç—äÝSP:sþ‘„s™Í’3b’uö²n$.ôèå¬Á—uyƒ„‰Ø–ñ¯'0¦ìD~/];Ãµ—áWºë%3²yƒáÛ68¶#ä][².:6ó¹‹z ZË,ê¼¤öd\M)u¡&¶¥ˆYÎ}Š¯)'Rl¨n©ð~øé^¾ÐºÖ20<‘á‚NïY“Ï>n Ÿý¡IF&ôÀwþeæàØs"—Ð·4­Cè"j…Äl½ddïðIycz™GzÚ;Äž¯D{>óŸ°?À’vVæ·ÂðÓ³…Íßÿ|âßŸ/-!õ&=/ë÷TjìÿÖÚ†;¥á‹É}9c§Üš;…gzøcÚÕaZ¦€“)»ÔŸÝSvãÝ½4ÛåÉA ä÷º¦X.D”nér-¼#h²éå——Ág“ÅîÃéZ$12ìŸºKBmMÌRYÅŠ‚ÔpX‰¯œ T\T2Ry~Ÿ Üi’æX(xŸ!ügçdVXejy(À§õt'_+¼ÊqYwGÜD^%²é‹€œ¤nÇ¦¦/M;MV…-izðXÓ^¨†¯wó%o¾ð’½îÙ±4Ò‡ê56åùÐkî|Î’ž8¼TC§y
+žF»jâðaÕðš†0ZGéB’þÞùGè,ð¿zjnKÔà«XábÚúêóWµç½‚D¤€â+NmU&üGú¥73íµ Lw«‰1ÕÎ'[õ>/ööæÅ&EšàágB4»‹4Q
+ÁÄj4Ç½Ék4Cwö×hòÝ]ÉS"ƒƒžU€}QÇ¶@ÐBÂTö‰u¾#Á­3Õ³öål`¡Þp­¬P]i!iÛ§<méúÕÈdnLKÓÙ±«ì x¦ÈøÚU^©¶¬Cž­Vµµ¾÷’ÕndÌjG"ã{Åê;©X™Oë*V‡õÂœê§®râ*ª¡4C¢ÊE«ãF/×wV´:Ô¸‹•’o"ìQÎbln·B~oÔ“´àPcÚ²7à®AÏœS8º^x N7Îc8ƒ‘a]½ðHøfK,[ÖZ/¬GúÐ_Ñ;ˆU+·¯-œ¿Zôs.Ôo{-Ç]U[Ù’N‹GÅŠÏ–uåaãDFÇê¼©<û±¡ _†Æ×ÄL[Y)×FD²ÐƒZY”WËm˜	ZˆI*vˆTª7z.5ÓŽPïÛNÚçYtÝ¤ÊU€¹I²ºvÔËªYìß^ÍôQ
+ÖÔÎ‚¬-³“vPa¤8ïuö·^g'‹ÐÐ:„b;/AÌÁkYÕ=¶¬·êq7³|êçîü¨§wC}A_Š`rmóáÕÔ–[¥kçƒËµá-e ëØâÖ²QÅ·7‡gÞJ®ÝfÉ%yƒ0Viz_ryDýz7°d•Â#å½~ýÔ¯uÕ^ÔL+Ä—-õý©w‘Óõóe¥ˆ“øh¨`_š÷æSY5ï…ZÔí"‰ÔÔhU½ªmƒ¼ÝÀan5ëÁÅÚKewr•cM±öØ ù›-Ö–õpu•¡‡•wˆ^_YY@8Ô§”ør®ìç‹ µq_áˆ^/kçòV~BäÉBý~ðÈ›/ühÙn$›~àuDŒ]XSù³îjÇ`„"¥«Kµô¹ï°7^i¥k„´áL§ÊUàƒ$ž®Ro—„0¼7Úšý;€²º–°®òìA·	ª¶ò|“rVÝX^÷ÀuÍc¢õÒËêm›JcÅ/_¶a6¬´µ¥<åä¿.Fñ'ñDÚŽÓ5€ÉÞ‘­Åùó:=b`åÜ»n=]¿Þ”:»¶Âq-+Û;¸ ÜÐ–(åÓ wwU¡^•çíi0n‡KÑ`B;ekC¡ãÈH@´3~‡v½#Ñu$šL¥ø'«Û*$d¦=akÍ„Ð+@ßùôÏÛÖ¬*ÙVëH—§hœB2P±G§\/å;¯©*dÎ“Çaï“éÂ–Iâ0n97u}µ8³Q®â—1aÃÃ˜pe2¦^ó öîÅý×Ýà°~YáÁoÐâ›(-	)ƒa·[sîàÓÒÃÊ»i˜sâuÍÚ%E"ßò1‚Ï|v¾Z¥JÅò,äq¾§Sîz)Y®ìë¥ÃWÊf¡biìê)å+E%/.P®È@ÝtÕÆ£L_ò$êq6
+—BØÂQ9Ÿå(Öäi¸nÝyuõ%µÁ¢O/ƒQÙsñ³³§þhÐnå1ÞT5±Ò«RÓÇ9žŸäà¡y—Ix¡z_Þ[µå°ÿì?¬”½æE(Üáà‚o¶Øtå;p2DÞTÌxïQ¦†6qñéãw—À_Q…ZÖVÖnž0§-J³'ã»I˜ËégqÂõ&Ì7ž?Ô§C-ë¸ÑËöÃ(ä¥Cû>xÞÈ*‘_Ú“¡oôÑËKfà		ÏbfxF “_†cªåcmž„² ¥#yò‘ßÈÌxWEµ8w}ýo†™Aža†‹¼fmNœòy½³Bx„ÒÈÆÊiÁê;0’æ}>Ù¶¢ð…©œwûb/a5Ï¥Ô+Ä®o€u
+à„õpl`„´­=^(Ä>­4Ãi	q´£‹$Ìk«)#§Ñ}œSÜ§ˆeD(tVÐÖò(QëÁsÃ¹ˆsHÎ©ÿxvä9ð<ø ìÀJâ$.”Il½4w~<ä8=âuƒœ—æÃœ=<ÏL5¹Â%MœŠò¡Ž¬½€‡Œ ¼RÉj]ØuâèRº0œÞX¥/tá6oÎA¸óa5;ò<jz®âhÚ0—w¸dç-¹67œ+1›HI´o1Ç ²ºDEÍCÏb›ÍNœü5Ž;ü
+iî:‚k6{qºö³]s¢|”“¯f³×KÌ:âÌ
+Iî:é2ôíåÈÀÌÖïæõòQšð^œK€ÍÒÜuzÌ„f.!Œ¾çÎú˜ÅðÞŸþÀºõq/ë˜˜‹ÂÕ¬?éÈ³þäØc.!Ü!&Pª¸z£UN]áNÖï·™)aØÞnÇ%[ô'ÇîžðAœ[Ï±Bœ»¶ÄÎ•0zyr G½©L¥ù([Q/`<“¥en¬ºå#í.œÁ‡d\ZsÍV[»Bvíf›CÎ^b¸P„íÍšÅÌ>Õž`æ$9¼ÑJÚõ‹/qŠRØë…"^“•¨õ˜¹aE×”x÷Þ’Œ‚lä¯
+Ô¼¬_úsÉ‹ïÝ!‡šÚ8a ®àeý²’K^Œ7òÌ
+™—‡ÄzN6¬N¸ä„´T†?°ÉŸÂµeëgäf´–¤Æˆ|=‰šºúeGMvWäÆ@ÞA¿;gŒ©*MŸ­žÃ#tu“«¬¦9  8ƒ=ëéSTvÍp0jŸÈãö
+¾&‚3jž¨ãÖš£› ØÈÄq[ü´ø•7NÔqë€7rÆ|$ê¤—xûlžXµˆ³æ¶=\:Ú˜“'7À<a£Q)=º!#On /y½…‰£ö‰:in oä¸hŸ7OÔIsh†05OÔIó`%ìÏG?jž¨gü?ƒòž´
+endstream
+endobj
+101 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 723.9682 213.22598 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+102 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 708.84418 214.15843 723.96826]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+103 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 693.72015 214.12134 708.84424]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+104 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 678.59601 214.81009 693.72009]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+105 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 663.47186 136.055908 678.59595]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+106 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 642.60754 182.88113 655.84106]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/10ZssTVcwkRdsoGlZFPHBXvVZa6OROky8/view?usp=sharing)>>>>
+endobj
+107 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 629.3739 169.75229 642.60742]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/10ZssTVcwkRdsoGlZFPHBXvVZa6OROky8/view?usp=sharing)>>>>
+endobj
+108 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 602.90686 182.88113 616.14038]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1BEv_Ew72EPjLBV6XX6d2QvMF-hjfIkAI/view?usp=sharing)>>>>
+endobj
+109 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 589.67322 168.23225 602.90674]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1BEv_Ew72EPjLBV6XX6d2QvMF-hjfIkAI/view?usp=sharing)>>>>
+endobj
+110 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 563.20618 182.88113 576.4397]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/15hLKYt41unWwucyIBHNgR4IzVUKpVAsS/view?usp=sharing)>>>>
+endobj
+111 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 549.97266 172.11575 563.20618]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/15hLKYt41unWwucyIBHNgR4IzVUKpVAsS/view?usp=sharing)>>>>
+endobj
+112 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 643.55273 329.88977 655.84106]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/1VOZDIo5JRa3gbrX4kZExza7JPf-cSMCdlCjku4CZvhI/edit)>>>>
+endobj
+113 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 631.2644 283.19186 643.55273]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/1VOZDIo5JRa3gbrX4kZExza7JPf-cSMCdlCjku4CZvhI/edit)>>>>
+endobj
+114 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 474.28342 204.50555 489.40747]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)>>>>
+endobj
+115 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 459.15927 164.929779 474.28333]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)>>>>
+endobj
+116 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 474.28342 331.29346 489.40747]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/ukDUL7)>>>>
+endobj
+117 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 459.15927 257.36041 474.28333]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/ukDUL7)>>>>
+endobj
+118 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 474.28342 382.23044 489.40747]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/15-n5wYmO4nT7DJ9DpQFSpy5yQOGMu3Oa/view?usp=share_link)>>>>
+endobj
+119 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 459.15927 416.97449 474.28333]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/15-n5wYmO4nT7DJ9DpQFSpy5yQOGMu3Oa/view?usp=share_link)>>>>
+endobj
+120 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 474.28342 559.49731 489.40747]
+/A <</Type /Action
+/S /URI
+/URI (https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/#:~:text=The%20%25%20symbol%20in%20Python%20is,%2C%20*%20%2C%20**%20%2C%20%2F%2F%20.)>>>>
+endobj
+121 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 459.15927 549.80731 474.28333]
+/A <</Type /Action
+/S /URI
+/URI (https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/#:~:text=The%20%25%20symbol%20in%20Python%20is,%2C%20*%20%2C%20**%20%2C%20%2F%2F%20.)>>>>
+endobj
+122 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 444.03525 560.81647 459.1593]
+/A <</Type /Action
+/S /URI
+/URI (https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/#:~:text=The%20%25%20symbol%20in%20Python%20is,%2C%20*%20%2C%20**%20%2C%20%2F%2F%20.)>>>>
+endobj
+123 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 428.91122 545.09216 444.03528]
+/A <</Type /Action
+/S /URI
+/URI (https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/#:~:text=The%20%25%20symbol%20in%20Python%20is,%2C%20*%20%2C%20**%20%2C%20%2F%2F%20.)>>>>
+endobj
+124 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 413.78708 501.88727 428.91113]
+/A <</Type /Action
+/S /URI
+/URI (https://www.freecodecamp.org/news/the-python-modulo-operator-what-does-the-symbol-mean-in-python-solved/#:~:text=The%20%25%20symbol%20in%20Python%20is,%2C%20*%20%2C%20**%20%2C%20%2F%2F%20.)>>>>
+endobj
+125 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 391.03207 204.95587 406.15613]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)>>>>
+endobj
+126 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 375.90817 164.929779 391.03223]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)>>>>
+endobj
+127 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 391.03207 331.59543 406.15613]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/eYB3yu)>>>>
+endobj
+128 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 375.90817 254.72203 391.03223]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/eYB3yu)>>>>
+endobj
+129 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 391.03207 446.87616 406.15613]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1y6h4Oaaa-715o43jbeNFrWLa6Xhv-m4w/view?usp=share_link)>>>>
+endobj
+130 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 338.02902 215.40875 353.15308]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/kangaroo/problem)>>>>
+endobj
+131 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 322.905 164.929779 338.02905]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/kangaroo/problem)>>>>
+endobj
+132 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 338.02902 332.42722 353.15308]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/EbmigR)>>>>
+endobj
+133 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 322.905 253.56178 338.02905]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/EbmigR)>>>>
+endobj
+134 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 338.02902 422.85522 353.15308]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1TVhLghqI_D92s_SCVe7VPto-PCoA8HwQ/view?usp=share_link)>>>>
+endobj
+135 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 338.02902 532.86444 353.15308]
+/A <</Type /Action
+/S /URI
+/URI (https://byjus.com/maths/number-lines/#:~:text=In%20Maths%2C%20number%20lines%20are,extends%20indefinitely%20at%20both%20ends.)>>>>
+endobj
+136 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 322.905 520.95465 338.02905]
+/A <</Type /Action
+/S /URI
+/URI (https://byjus.com/maths/number-lines/#:~:text=In%20Maths%2C%20number%20lines%20are,extends%20indefinitely%20at%20both%20ends.)>>>>
+endobj
+137 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 307.78085 562.40588 322.90491]
+/A <</Type /Action
+/S /URI
+/URI (https://byjus.com/maths/number-lines/#:~:text=In%20Maths%2C%20number%20lines%20are,extends%20indefinitely%20at%20both%20ends.)>>>>
+endobj
+138 0 obj
+<</Filter /FlateDecode
+/Length 3768>> stream
+xœí]ÛŽÜ¸}Ÿ¯èç æ²Èâ¬{Ÿ“Èd³Ù Ùü?Sê–D]J¢Ô¶5‹1`ÌPR«XuêÊ"›nÿÞþKÅÝþñËË_L°9¹ì¨»6þU²aŸ‹eŒâFºÉ¿¿þp»ÿòëÏ/ßýào?ÿïEžÊodC¼ýúÏ—Ÿ^þ‚O%K†¹än\ŒçB¾ecÎ·ìLbË#ÿÃí?”eØG¾gŠM‰‚PdlŒéf<~n&i³‘‘Æ÷Ÿ_¾ûÄ7GÝ5Ï·Ï?½ÐÈ‹wÆÊá³=çxûüfõÎyðjÊ·Ï?Þþhmpº}þ×‘q-å„'WìýJ4!æœ²®Ðãk
+1þÃN÷+Î—©TÏèïá8|ZÉý#¶€äâHãá™˜9rŒã3Ô_¡èwx\I=xIô1?5QýâîJ12Ge¼Pîxc)ÅÀ#iîSOtâDžüœk?wÀÜYH=%Ÿ¯ ™‹=·2Æ]®xïû	²õœÜÈÿd0‰jÙ»ÔûâlâØ€ÊƒýŸïWØ¤œ­hîði¥—£OŽãˆWÿ _6Ùåä+L„~–1xŠ©z$joñÔ#¹”C&õYúÐÏ’­+¹âŒûx,Ù
+!EwX(¨Ââžó±x*º‹Éæ·ïn;e /ú%0ÝêèÈ÷ƒÒçHÎF¯|ß]qÎPšÀhC¾ï§
+øËã3ªÑÑí¡+ÇÐŸêRP/ñ_ššò÷ýü¼¦JeYRÏ,¨ÖRKD¾.[AƒýPunCO?ôÏç5boÃß¨Ó=ßßLI)ÙX‰^5.nðÒ” [ç¦ÿíañÓ`ÜíŸÉÙ¥X‰-ôkÔ±žñ®+ÐÇï{æ{*…ªà…YeýÇ‰KŠSuõòŽ]Â0Ÿà)‹<!”oTCh&E|8bU—"T¶†%XÆS<N˜¸ðØv·µ÷_f%ko°\±û™ð”
+"v“×YË˜v‘˜û‘Ðk)`9ÐBº·$[é—žO"åRiã lˆƒ+¥‘sˆ°ó×ì qd‚N‘Ÿâ‘³&¨ðm<êãàën£_‹¶çÓ8£æá^æà‹HkJ©Ù=‚/EÞ–UðµpŽ"0Büg8”àÊ‹-ú¢€èl€ß@àWG~<Øà\T´^C4ám†ý)°Ÿ±ÕAE"¢§€—» µ4*§®‚‡Œ·WÙ½¬]Ñ¡çqÂ[qÞ?e¦@ŸÏŒ4¿Q?ŒþWÜ_‹ªœØ _×†m1‡Ÿ|•ðÒWÐk
+ðF¶r4)xðé¶"Øˆˆa¤ÚØª+›Š–!¬‰	Á­ñ¾Ÿð•pfi%rï1ædswt+."ÚwO!œòìCnœ!-“Í+1ÍŠ™ÓÑ©I‹‡G¢OƒyþaûÒ‚Çu>XÛh´T}<ª	‰fqOšä}® ‡KáÐûÞÕ3‚IÛä{t¡èè|.
+˜I«´ª’œKéæH™”|4ˆ°‹ç"}),å`ö[‘ŸæäˆaSÍ°>¿H>ƒ[$YÙ¤ÂxQïÄ·fäÔJi#šÇK¡rŽ÷½ñJÈi—6ñg¡ª9ÎS#¬‡|K°´ç–Cpþ }Bx°»% 'Ë4¹•ƒé
+U^éæ•Rà‡kN'¦O¡­Wv66BlÎ>ÜzTYÌ#æøŒ˜éñQr^ÕôÍI&¤lcÔbô¹jùþud“ó-sHãi%Ø(! íšGœQHMah…ÄJž-Ÿ¾ª7Cu lô ¬¾Â+¾Ù©×e§øt²«íÉÊé›™z3S°æ„c>_áßÌÔë2S¡O%}Ž9U¬"š¦’ ]—4%“ôd¢T‡òHçì¦äÝóyd:²b'+/zñT¾â‘%Ïu­ yön²ÆÃùä˜ÈÅEJ%ŸUÒ˜M´PÁ6ûF‘!œeÑ "A¼ó¢hÀz#Ä¼XÜ#0“q,ì[‰£¹¢”C®(yX%ÜO.Øºä{ŒƒødUi(:áUà·C,‡ªC@Ô é6ÉF{| (E!*¾UTÃw†e‰qÍJ5ËêQ,f“X¼ažOwÇÒWúÅÙ0'/Ñ¯žhj¤#^ÍUÐ°±ô«óOQ~†š´ò¡<hg—(ðÂO­ @Õ*ðU0]}vEV{É§jñÙ9ã8zŸ¬={+†ß…†bëÓGjO§YU8ÇyÖn	lHÖG:TßœÌô›wèDÓž˜fµÁáLGJCƒÃæ<³4í€ŽÜ8_½3ìLçÝÆŒ¿h?êÂŸ®3ƒàP¡Ù¥µ…ªi½¹*,â¹xI¿WËGÄn%­áQk0æ½eëll›ªz+ØF/ŽûS›3†ÂO›œÑU_jrôÞ©Ð¯¨½fzÝ›@%Ð	hôn½CO³m§ŒƒÞ•¯#Fý´GZÀhrvÑC¾ÒyÿE7„ƒä¥öE·	zã¹Úª®vïÓ¼mÏg‚dÐKíÆ4h·g  ¹L¹X»ÕöÛWRlá±âã•xÜè®}ýÊšÍUl‘ÞÁ¾Ñú¬n¸x˜©A¿8$ðÂÁ+,õ™ý‘}[‘ 1#¼T¿´&öŽäÁoÀÈ›	/Ò"ž”ˆ?¨WTàl{.q7*†¼Ð«•W3Ó6úlìeÓ÷¿é:ùé¡™¯kÚJì¯´SþÁè™K‹Î•°ìLˆ½Hë¦HÇMhÂŸÇËË¶ŽP]'Í­Ö¶Ú„bË;àóš->;þtEÔÑÕ–C‡ H²Éµúé&­Ñ"— R3 mÛÇ’,¾rÈ¹ÙÒë5ÝÒë;uuç­Kµ­3~D-'ï˜.ÙÇ¨ïÕš½BÁ.js7ß¨­¤,¢ôèy·ì&{^ŠôÿÆ‚…µmGÝm”öY€ú
+pÙûÔ“ÉdCq-[wÕj%Q7WžØŽh?ÌrÞa±ÀK#w–°áÙÅ‚,sðw‘\µX¦Ó¬Æy>¿XPÏô›;dîr”²gS¸·jèktêoðÙjóÎTcç¸ŠKµÞˆ­o_†P¢æ3ð^½c¥ÓÈaÙÚ”kKÏ®'`ðZp@oë	W¬'<m•ªÊí•Vém=áw²žp´!åRû¢öàª}vàoÕzD±¿2?nb#JÎSýW–ú‰	¯ªJø¥ú­[½¯uœ¯ÈIK–]hÎÁÔDø”ÿ²Ï¼Ú:þÕÑËIjð^@é±:þ·ËÎ;´»´[@ô&ibkýh#ò9Q³ÙË!›óí‰ÿºbÚˆ¿uóÌ°åÈaŸ
+þÎ,Çéqé³&M:¼K°ÑµÖªÏX]f´#…¤Y’îgA~]¤œZ6ÕuE_$Òs¸÷S9–UØ˜ÈË³eüPÇoÁO½¬§Ó¬âæ¹H`dÿÃ‘²Êd¦ß<TÔÎ<s¦Tì)ànÍ7iˆ÷­+#gXžèÝh¬XÈvPi[k§³ÊýÝäq~'­1Pky¸ä<˜nË%GÎ¾•\ž¶XUr{¥Åz+¹üNJ.îhÉåJû²›N®ùKUôú1¢³…ž±â²TïÓ—kÕ[7®_vâÄY™øÖ¯¼ÚjÆ1§«o!ìo#„ÝÌÆóÜ+­¬Ú ·k*žœ`ðñsõGNxñÆó;G1F9Á%Ør‰Æê!¯ŽS=P;SÐR­ò—íI?Ó<z»j:Œaë.½qêöç&X˜}sæ¸×8»Zq¹ôËO‚€ßdÙ‘3øM¢L¬~yqÀ1Uþûåo_ï;2–´ ÷Ÿ%´CAÎGÛi9ñKZœ·°ÁsZ£í´œ8àN4(Ç@¥£%r.Ô£í´œ9ï}IL'b"™,÷ºjôNÌk;Êr>	¤ÅåNºrâ‚w^â™qø KOu8§¦cc*‚{á‰œ#»ã‡áÔ?<oÉšœA-Xó>@ÌñÃÕ–Ä°s”;996ÉW¨n'æøq]sZä,“c™1f>@Ëñãœ–ÄXDŽ©“R§\ÙÂòŽÃ£¾šc€º)¼ÃcT¢MEŽë÷0HŒaÖÀXIvÕè?Ÿ;4eAÒ)uâ¥î |9d^5l×ž`±4Í>QñbšE÷¢œ\\¶ôÄf¨%-°‰¸°I5Ðîëá5€^»9ˆŠ‰4qˆfv>µ'{…˜Ÿ1"¤—ÖÙùZvCß‘ Ã0A6KÆv›Om(^2B–CBÞ”VyùZv¾>Ðà2û^î•¦Ë1EÈˆpó©m+ÄŒüLNò‚_gŸÜ‚F˜ÂtìŠ3/Ô£h9¾ûiAL”£ã
+1ø`)‚ŠZÃ¨9¾]f…‘â‰˜¤ýK+ôÕèª»vÓÅÜ§Èæêh…¤æ‰ßÇÑvÿv¢©u™†‚°)ÏüÛ0¼æß®m_¸”Šò58dSØùTð‚˜ŠŸf5¬²òµôåÎJÍH‹üñb\0òUõÝ,Ñœ}’o¬(‘C©FhÖñªúšfùVKF×ôêÚŽ€(WÌôª™™O-¯êÕ›p&©skÌ|-ë¯3ÍªXI¡˜’ïùÿŒ—¯i9pÅíŽSLâ?·œÂWZ±Z¡fT.ÔVöUÌñð•–]Öî]hap¦sçÃè([Õì Fs	¹ÐÅP eW¿Æíþr©ž¦ $ßº·I„—WÃ ÀOîo‡ ¦DÊ<“ûÇáéýäÃ“ÛÇÑéÝ^juY¾Ñ±ºyœÞ]Æƒ³^Ý<ŽNïF¬ÛÍgJÇ8:›¥“#¨c‰Òî£ä1w÷[¥ž=@‘`É~rÿ8:»n	²¿¾}Ýðòu…õÝÃàìæ ìRf¯og7ƒ)FªLÓGïØû?¾òh
+endstream
+endobj
+140 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 723.9682 535.65649 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://byjus.com/maths/number-lines/#:~:text=In%20Maths%2C%20number%20lines%20are,extends%20indefinitely%20at%20both%20ends.)>>>>
+endobj
+141 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 701.21307 209.33728 716.33716]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)>>>>
+endobj
+142 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 686.08917 164.929779 701.21326]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)>>>>
+endobj
+143 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 701.21307 331.35703 716.33716]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/oAc7zZ)>>>>
+endobj
+144 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 686.08917 256.57101 701.21326]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/oAc7zZ)>>>>
+endobj
+145 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 701.21307 448.0788 716.33716]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1fMj3b578msXHCUG-gzxz56ObCmwd02rf/view?usp=share_link)>>>>
+endobj
+146 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 686.08917 350.04004 701.21326]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1fMj3b578msXHCUG-gzxz56ObCmwd02rf/view?usp=share_link)>>>>
+endobj
+147 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 701.21307 543.09479 716.33716]
+/A <</Type /Action
+/S /URI
+/URI (https://byjus.com/maths/number-theory/#:~:text=Number%20theory%20is%20a%20branch,between%20different%20sorts%20of%20numbers.)>>>>
+endobj
+148 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 686.08917 558.77148 701.21326]
+/A <</Type /Action
+/S /URI
+/URI (https://byjus.com/maths/number-theory/#:~:text=Number%20theory%20is%20a%20branch,between%20different%20sorts%20of%20numbers.)>>>>
+endobj
+149 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 670.96503 511.28058 686.08911]
+/A <</Type /Action
+/S /URI
+/URI (https://byjus.com/maths/number-theory/#:~:text=Number%20theory%20is%20a%20branch,between%20different%20sorts%20of%20numbers.)>>>>
+endobj
+150 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 648.21002 216.39417 663.33411]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)>>>>
+endobj
+151 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 633.086 172.74426 648.21008]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)>>>>
+endobj
+152 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 648.21002 332.23648 663.33411]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/F7Hus5)>>>>
+endobj
+153 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 633.086 255.58031 648.21008]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/F7Hus5)>>>>
+endobj
+154 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 648.21002 388.33899 663.33411]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1YiCXm5hEMwOFw0H4yYVCp7k_ieZG7kuj/view?usp=share_link)>>>>
+endobj
+155 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 633.086 411.85135 648.21008]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1YiCXm5hEMwOFw0H4yYVCp7k_ieZG7kuj/view?usp=share_link)>>>>
+endobj
+156 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 564.9588 215.13857 580.08289]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1V91BJD0SJtBLbUo6aaeH3gZBTO5nEOap/view?usp=sharing)>>>>
+endobj
+157 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 549.83466 211.1333 564.95874]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1V91BJD0SJtBLbUo6aaeH3gZBTO5nEOap/view?usp=sharing)>>>>
+endobj
+158 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 534.71082 209.25781 549.83484]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1V91BJD0SJtBLbUo6aaeH3gZBTO5nEOap/view?usp=sharing)>>>>
+endobj
+159 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 519.58667 210.3598 534.71069]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1V91BJD0SJtBLbUo6aaeH3gZBTO5nEOap/view?usp=sharing)>>>>
+endobj
+160 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 504.46249 152.675613 519.58655]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1V91BJD0SJtBLbUo6aaeH3gZBTO5nEOap/view?usp=sharing)>>>>
+endobj
+161 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 443.9664 212.2247 459.09045]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+162 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 428.84225 213.22598 443.96631]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+163 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 413.71811 214.15843 428.84216]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+164 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 398.59421 214.12134 413.71826]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+165 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 383.47006 214.81009 398.59412]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+166 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 368.34592 136.055908 383.46997]
+/A <</Type /Action
+/S /URI
+/URI (https://docs.google.com/document/d/16LcCpUDu5ZvMbSNtuRK2Q-SJu4eCVWCw1nFvgTK5RuY/edit?usp=sharing)>>>>
+endobj
+167 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 345.59091 204.52142 360.71497]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)>>>>
+endobj
+168 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 330.46689 164.929779 345.59094]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)>>>>
+endobj
+169 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 345.59091 331.51068 360.71497]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/kg7BJK)>>>>
+endobj
+170 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 330.46689 256.14188 345.59094]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/kg7BJK)>>>>
+endobj
+171 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 345.59091 440.19543 360.71497]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1ydMIdUrLVeEgfR99EudD2r4K45uYP5Ui/view?usp=share_link)>>>>
+endobj
+172 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 345.59091 567.24823 360.71497]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/sum-of-all-subarrays-of-size-k/)>>>>
+endobj
+173 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 330.46689 515.58783 345.59094]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/sum-of-all-subarrays-of-size-k/)>>>>
+endobj
+174 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 315.34286 537.38892 330.46692]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/sum-of-all-subarrays-of-size-k/)>>>>
+endobj
+175 0 obj
+<</Filter /FlateDecode
+/Length 3206>> stream
+xœí]Ù®Ü¸}ï¯Ðs sXÅxçI.H2q€LþÈ¡º%RÝ*5%ù¶Úñ½f®©­X<ujábê4þ¼#ü'$îþöõôŸ“r:ŽLýµò·•51i‹VÜH]þóçŸ»ó/¿ÿvúégÓýößS~*’ïH;ßýþÓ¯§_ðVë‚Ò‰9u6)c½QTšmò¦cVl½11?ð×?tÿ^Ãz­ÈZï:Ç*éÈey”ö>tÊà§S1vÕR$üðrúé‹í˜úkÆv/¿ž¨hâÒù‡ðnc£ï^¾¢OïØ(GÚRì^þÞý—íŸº—ž’òš VÂƒ—¦¿@Fi
+ÞYÛpEé¯|~Y–Í•È™Ô("Çá{†’“á{îÃù
++—´f¼`Ï½"Y|À•GôùŠWÎÇ"—+—n‘²ÚØÀEöÜ-§¢ectu!øh=ÐP^æLäˆŸ¢£ƒŽ~ée‚2ÐX‘&]ç¡Dšy¢´²Ú]pÊ{†°Pº¿8:ÿò0ø„i7Ñ3eqàªŸƒéØØe5Í ÅýŽB å¬ñvÚÓG›»—vl‰Zp\èÌ¾àÂ½?_±Ë”lhxÛÂw¨É“V>¸Bc—M„„ôÖ7ï¸IÊãï(‘i•Ä_1jçì>åû6)³¾Œv±QH÷¥Aœñú}°æ8˜ÑD²\)T$S;²\rÎ»¢OûyGQ³n‚¬^Æ6ØÊSMsŠîxž†ï7Éj{-ÛÈLÌº'!·Ÿ˜:…'7|,1ÙÑ-ÂaÂ·Ä¯ˆ~Qvrô©¿(AN@»\`iÀä+öãÅý¦‚ö•û£ûçH©òå(ãá
+SöY¡1âÛˆ.¢"Öæ¾a,|^LdÍr]â—‚Êcùåb«°ŒlÒîk‹ÞK‘¦û4‚2 ­¶¼Ì|ºŠ¯LTÎE?w ŸkÌÛX €tJ›·`ï!Z"…Ç3FDg|G£açZ$mE|—HH;‚‚9zÌ~“.]‹èjÃ’«¤Ã·Æ…|™-|¨Aãš|øPã24ÐpJ.VÐP#3³©ÊEâÞd¨#»¡#²œ¾/p—C…M.TáÜÇ”Šr}VJP‘´K\úÇapa&±¶…mt‘""©¿×,D"â#"‹Élˆ„<DI¹¾uw&-ø2×‹ñ¢•ÉÕš¦®à€¤:ÆtHˆõƒTÊˆ¼ÂëR°¼¦TFál\LöÈZYkeUOwË¦}}žj™ì5XU®IÈ¥‡|û¾­ŒoíŠºÌÖ÷üñýBZNö(hjäâŠ¬ýé­<Èb_ªrmå3²QÔ‰}#‚¯£I­`y«Ëí'ÁR9–ß*s?HeŽÓºÊÜ±Ô%×ÙDòYÈ‡eì]Å9¥47cá›ks[¸˜óaN[ê`G»E‘XS2œÃ˜XŸ›±°ÍºG&M³²ä1‹1& Y¼Qö½àÍ•rù¹5¸ÞU¹`´!FÛRª—ÃÇ{YüÝà7Z­eË…8ò^ÛK62{]4o4‹>øBè¸bZKUdöA,ª„†‰ªš
+¸J%t‰Íª¢JDÿ<Û®P01A²Všø2t8Ø@†Lf·€«¬«Y×¨‰äUHœvhBÙœÝo2›SóBc2ŒËÆöu=ÒD…ÕÈÓ/mD0Œ£“ ¢íc…Ft€Çm…­†$¢c“Õ?¨.+VŒ×ÏA4ÎþŒ#ÁˆZ,±ß>Þ3xv­ü¡?¯“Ð2xÚÑ	¨Ùa”šWÁŠÐ ¶ÌÔm˜Ic,oX§p²“ÙaœBO®uRê@&
+ËÉX÷ÆD¯ÉD×S-cüSñßÜØþTuèýñOór…× é2³æ<’È¸7`­wqFöG†ÍICu/zbíé~?å
+‡\?ÖdqSÄ\3	ÃÞêóåÂ–ú¼\¨’Ógûwj'kŠðbzºÀ	â•…dw='Ü™7h‡qÃ>¼BúMç26¬`Ú¢ø(^°	i­…L†ôq¸r³áMz™¼¦?~™"Œß ÉkÈ.ûêÚ!V'!_')î¿‘».3å‚"åÂŽXÎ0qPq IÉB^Pœ¤±_(§ÈWD‹ÓiäEDv«Wº7á¥Î¡žgùÂšËhG¹Êv)Jš’K¨òº8á#¥AÑ§/lÓ=§ÈŸrÌ*Îñˆn
+o®po®¶Bufúp¯&ªžõè¡"_ixa•¨¼ÒjË¤ÃkMºÝ¦ó´£(°Îí;/5ÝY´ƒ°Í¶.Ìzx¨Â+Dç1û£åïw@£p	¶Øº´æµóecòñÉBÉ?N¾,gŸë7üÀi1°¤´1þíß8-þ¦`Ù²½lËbÑø”Ë™ÖB¦·dÞ(r!³ÏAö—"½I	«\+ñ"çGfLÌ¯Sv1A1ðÁKq¦e-\·VÊAì¥¼ôœ›fr+°„ˆ¬)Ó!o8XvÐ¼OÆ¸Ê€„¸aSAFFQërqCD¾\t3g'ÅŒ¤u£33`‘t*Më´+´¤Œ8g~„ÿërHÈQ.V’Ç—£¾‰?D›[°Ó±¨êlv^{þæ^&7·­`}Ä¿£^2Óí(N4ƒÏê¨œRŸ+Ô? ^2]¹hÙ0›°ûà4k²EwVðQ›AÓ´›Õ
+…ÒÏ›mPœºf‰Â¤§Ï3w°°¢U>KaË2N˜òÛÚ*)¢ÔÙ.ÊG
+¬ŸˆŸX¿Wþîn¬ûK½³	[j-”¬=+ÍZªMúÙ¯·=™»¹¨ì};”‹þß*Xo;2%Í4å…*ä9 _Øª¹e1Â•}—™·ömÖo\vkßrÜ º¾-Vrt,Þ½P#›Eç*¡ydýnÙ¸%@:z»â-ü6ïVüîBÝ¢•åS´sQÁ‡ß]ý¶©éƒ!(v@wëŽ……XHœ€h<CC{Ålñ¿Ö¾Ëyûóg34ÐV9¨làHg¶xœìù¶î!Û’îÜ[Wp×8lÞÏã¹UÆây—³IÔ¼ûôJ`xÊ'µéCê™<:“«•³¨4ˆ[·¬fyhoæ\æ‘ÿ …Ë x?ok€áU HøðWh¤ßCmªšÿuúË³ýË }TL!×÷órIÅÆjßw!%Õ÷¬j=÷à•Žu¿–ÅæmØ”|–%ÏÆÊ¦n.ê|–ãÌ/ˆ D^‡4Q'Ã©‚Ó °vuî:ÅúF˜JŸÞÃüÎ Qç³}Dðˆ¸R¦†yq®¶+s×qÂW¢ÔÐD”ÑÿÎ³º|–Ó‚oÈª¶tçUou´B»Î­½‘¦VhDè;	7ú|­ÃHg‰œ5bô¯'`ò./´+­³<~ô©•3LÎ!"™zŒ¢©ªÖv&ßrðÑ•Çl/ö&dz›ç¨üèðæÈ¼hÔöîÝ­Ðè¾ƒÏæØ|P©G¦MgŒÎhôyN»åóAŸÑå]ƒslÓç¾£¹n	½ 4*ãá\Â¬:_e÷ô† ×&žRp®Gg€wdW·¶Ûû†]|·² sÀãÙS³KÙµŒ­+dY¿ÝëV¸œáLfùªu…,ë·Ýrrò—5Þ–rÅº´®eýž”[Y´‹wÁÇÁæ\ÕÒ.Ç†…Ø·ã²çîa‹Ô¨M¥q…$ëÙÎ 6ÿš¦sl]!Ëúµ˜3¨eŸ³Ñ,Xìî«Ö²¬_ê7ƒÚØ[ÍD–±u…,ë’Í ÖàoS’Û%Ù°ªèV):õþ—œâ‡«ÖY‡qìb–™qŒQÌ‹rÀGUë
+m®¯´Îëcu®?6ÏˆÇNÇÏ„‡£:'áa£:wÍÂÎ3ê³ŠgÔù,³Ÿ7±aÁfÏ9¼Væ3MŸÍä×°BÇn{ðJó3Âó¥ëæÒ¬/žÏHcã™ÄX€Þ¸uÆÂâ‹Ìc;ÄLý| <\È:;ûŠà dHF1ÇöyXªæˆ7:²Žw	*Bš©&÷—æéýàçÎNn/­Ó»PÎ‹“›ÇÆé½0ftÐÓõÍ¥uzwÄs¦r”Ö«^2!ÌòÉçóâ¼Ï%—>ÿAÂ“›]ª›¯°™ú½“ÛÇÆ«›	£Ó?¹½j¾z€ûb|2<¹¿´^ÝðáŒÈ©4¥õêvhY9DÓÛKëÿ 90
+endstream
+endobj
+177 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 723.9682 211.28163 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)>>>>
+endobj
+178 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 708.84418 164.929779 723.96826]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)>>>>
+endobj
+179 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 723.9682 332.27356 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/8yLvKD)>>>>
+endobj
+180 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 708.84418 254.43594 723.96826]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/8yLvKD)>>>>
+endobj
+181 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 723.9682 451.65491 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1x_F4SSg7OHzH-MpakdwfQ6thsty6HLar/view?usp=share_link)>>>>
+endobj
+182 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 708.84418 356.47708 723.96826]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1x_F4SSg7OHzH-MpakdwfQ6thsty6HLar/view?usp=share_link)>>>>
+endobj
+183 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 723.9682 565.40979 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)>>>>
+endobj
+184 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 708.84418 563.29065 723.96826]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)>>>>
+endobj
+185 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 693.71991 574.25739 708.84399]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)>>>>
+endobj
+186 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 678.59613 496.90192 693.72021]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)>>>>
+endobj
+187 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 663.47211 537.38892 678.59619]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/subarraysubstring-vs-subsequence-and-programs-to-generate-them/)>>>>
+endobj
+188 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 640.71698 196.41556 655.84106]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)>>>>
+endobj
+189 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 625.59296 164.929779 640.71704]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)>>>>
+endobj
+190 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 640.71698 325.65112 655.84106]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/QqB4Zi)>>>>
+endobj
+191 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 625.59296 262.25574 640.71704]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/QqB4Zi)>>>>
+endobj
+192 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 640.71698 451.65491 655.84106]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1KXkmBeS0C-OU1LympYCjYLvdhS4d34Lo/view?usp=share_link)>>>>
+endobj
+193 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 640.71698 560.84827 655.84106]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-dictionary/)>>>>
+endobj
+194 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 625.59296 537.38892 640.71704]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/python-dictionary/)>>>>
+endobj
+195 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 610.46893 536.3717 625.59302]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/iterate-over-a-dictionary-in-python/)>>>>
+endobj
+196 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 595.34467 571.35413 610.46875]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/iterate-over-a-dictionary-in-python/)>>>>
+endobj
+197 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 580.22064 537.38892 595.34473]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/iterate-over-a-dictionary-in-python/)>>>>
+endobj
+198 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 557.46576 173.56546 572.58984]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)>>>>
+endobj
+199 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 542.34149 164.929779 557.46558]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)>>>>
+endobj
+200 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 557.46576 325.65112 572.58984]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/Q56BiM)>>>>
+endobj
+201 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 542.34149 265.29144 557.46558]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/Q56BiM)>>>>
+endobj
+202 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 557.46576 425.61017 572.58984]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1e0bNi5R-OBtzmY6VAJXGEN1nrGeSEZqN/view?usp=share_link)>>>>
+endobj
+203 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 519.58667 161.846375 534.71069]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)>>>>
+endobj
+204 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 504.46262 176.70715 519.58667]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)>>>>
+endobj
+205 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 489.33859 164.929779 504.46265]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)>>>>
+endobj
+206 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 519.58667 330.9332 534.71069]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/suS8SB)>>>>
+endobj
+207 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 504.46262 257.22797 519.58667]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/suS8SB)>>>>
+endobj
+208 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 519.58667 445.95959 534.71069]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1pGojJeW4d5WS2DG2aPafSOIChr9cOvuq/view?usp=share_link)>>>>
+endobj
+209 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 504.46262 395.71906 519.58667]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1pGojJeW4d5WS2DG2aPafSOIChr9cOvuq/view?usp=share_link)>>>>
+endobj
+210 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 466.58347 197.42218 481.70752]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)>>>>
+endobj
+211 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 451.45969 164.929779 466.58374]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)>>>>
+endobj
+212 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 466.58347 332.42722 481.70752]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/EUKQCa)>>>>
+endobj
+213 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 451.45969 259.29947 466.58374]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/EUKQCa)>>>>
+endobj
+214 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 466.58347 437.14911 481.70752]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1cnYjU5lZzEh-By4Bomr9Uy4s2SzuypBi/view?usp=sharing)>>>>
+endobj
+215 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 428.70432 201.01419 443.82837]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/electronics-shop?isFullScreen=true)>>>>
+endobj
+216 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 413.58054 164.929779 428.70459]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/electronics-shop?isFullScreen=true)>>>>
+endobj
+217 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 428.70432 333.02588 443.82837]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/ThopF7)>>>>
+endobj
+218 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 413.58054 254.05978 428.70459]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/ThopF7)>>>>
+endobj
+219 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 428.70432 449.60461 443.82837]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/14fCT9rrWTwZ09xVXF1Ba1YyTpTfjP_Lj/view?usp=sharing)>>>>
+endobj
+220 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 390.82565 199.03806 405.94971]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/picking-numbers?isFullScreen=true)>>>>
+endobj
+221 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 375.70139 164.929779 390.82544]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/picking-numbers?isFullScreen=true)>>>>
+endobj
+222 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 390.82565 330.53583 405.94971]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/10a8YZ)>>>>
+endobj
+223 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 375.70139 256.29022 390.82544]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/10a8YZ)>>>>
+endobj
+224 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 390.82565 379.60797 405.94971]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/13SsHfAdC-_n9wCAxRh0hE697kyPYRWcN/view?usp=sharing)>>>>
+endobj
+225 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 375.70139 415.17316 390.82544]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/13SsHfAdC-_n9wCAxRh0hE697kyPYRWcN/view?usp=sharing)>>>>
+endobj
+226 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 390.82565 572.34485 405.94971]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/sorting-algorithms-in-python/)>>>>
+endobj
+227 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 375.70139 505.20911 390.82544]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/sorting-algorithms-in-python/)>>>>
+endobj
+228 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 360.57736 537.38892 375.70142]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/sorting-algorithms-in-python/)>>>>
+endobj
+229 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 337.82248 213.64452 352.94653]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/designer-pdf-viewer?isFullScreen=true)>>>>
+endobj
+230 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 322.69821 172.74426 337.82227]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/designer-pdf-viewer?isFullScreen=true)>>>>
+endobj
+231 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 337.82248 331.48947 352.94653]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/zAxJ6Q)>>>>
+endobj
+232 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 322.69821 260.767 337.82227]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/zAxJ6Q)>>>>
+endobj
+233 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 337.82248 425.55719 352.94653]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1rBhUamX2-x2DwBaePTa7cUyOvBG9_LEi/view?usp=sharing)>>>>
+endobj
+234 0 obj
+<</Filter /FlateDecode
+/Length 3993>> stream
+xœí]ÛŽÜ¸}Ÿ¯èç æ’ÅâØÞõ>'1H²Ù Ùü?bwK¤$–DQî¡ÆÓcÀ˜¡nÅb]Oñ¢.’þ}PôŸpùûo/ÿ}FzÔõZú+xÚ‰ÔJ7ªKü÷—Ÿ/·_~ÿõå‡Ÿõå×ÿ½Ä§¼²%½üþÏ—_^þLoÕNè ½ƒÐh­¿X-LPà  ­ïÿÛ.ÿY!¥ÀHÇÅ€Ò9e"5òzQsû%QóéëË_ðJèøƒ—¯¿¼¨ÔëBÆEoÒèíåk|Õ Ê”Då/_ÿqù#]Æ?]¾þë%+ÑèÁû…×?}¥>Æ^*©R7•òBô—È'µUý¤ïƒÚâ´£BZë.×Î\„=žµ|ã®ƒ»öP>íØwü|½bDpÎI›˜bÂíI¥auOØñ	ž~¶As{„5ZY—}åËý µÌñÃ`­r&Ha5*¬d¾ÓŽÂy/ÁÔ«Û÷”’ÄI¿Æ+²Š¥ƒ@cŒµµ´èá‹$ˆôdÆ8Ò{LÅ ˜á@‡ÁÙùpm’ÈSK½ù’”©F/,é•VNû.zñéÆK"«°†Ó£”S“	ùOÃ°å%H;Yºb=Z2'££ïW´@	ÁçË’fÔ(8V”8§m´p òjÍÌaÄR2kú8ü4­y¨4,Æì"åµÚV]5¥F56Nýx½B’Dt’d§À…7˜nè§¯‚‡!ƒá
+¨èú\À°oSêNšV
+¤ÞÖ‹•ÏËAûŒõÞeYáÙ§ó’¤²«y1Ÿ9K_†+Ò*ñ‘õ»ðÓ`$xélâÖÝ»Ú­µÆx[_¨›{´›<¨°J†ÐY»y©£áKA±†ñÕŽ6³ø¼9ú¦Á
+,k6££’r3Ä|b0H"ÐÍ™¶¡ôIX»*=/)`¼é)GlÏ…žZ}ñ@¶lXE:e¥PˆÖôÕÓ–(zE‡ø@‡jyéæßÆZiÞ}Ûž®è£ð=eUŸw÷k,IY_¯Ê™öÊŒœPàÙ‰R½âføY+ËSÀ¿6·©Kº•¥xÆiâ]­­lÉeÜ>YõZ(c%åc=,"›Ë¯Ø06`¾«)]Ñ@Ì
+U^g1ë¡+)ø)øêÑ^1fP'_`…$_ýEC
+ú Veä)QóY^Ô;I¾iÀç»xü•n°ù
+#ë5cE6¢Ð•À¯ÜÇQuE]´§°½&µ[fW®°˜ÔŠÝ+i¶RæZZÊäYxÕÞ¤x¬S(MIcpaQ§ $yOBiKnÄm{*>M»™*Æ~.TL{úêóî”¼ ±tºû¶NqËGí’þ{j±é×¤%n•©-W@B‡Éb‘šVÿ<3Xt¥¶D` -~P‰@â¹‡`úØãw_#8j[Û×¶<‹ßc‘ ºÐ×Œh›Z›LZØäž·òÊWèWk0‰þ‘+ðóT¿S•`¡ßÄ€=AR^ûê7/*Ýƒ‡&,³6xÐÂ‘crµxÖ
+âú€à¡d[ ¥œ m_Èûˆ¶[gw¡íce\b!í–„}Ó7l‰¨Ó¤^djÜã¦+ñž…ï0+í-¾ð
+N²iƒ‘ƒ;ú†×O¸ãÜQ5ÂÖRj£uî1Â£1"M<5ºùê`ëjW£ªÇÑaç%lõx{ž!y5CQ˜ÙW|©—"O’¨¼•) ß³KãQ¶0Úª	oW¤6µÂõfbêTœ{ð(ï,Ùîé\ßžsÖ@Åù\AÁÑE ‚@’þ®µ„ÕR?&=}uéß’óóö¾TYâzJJk¡ð³.Ì8lV)±'[(ks¾½EÐô›FìÒ¾ûšÀa‘pÙ®6âYx×5®V„-	(?(ñÞW»Òàìô!M¥v%ºP'•új÷~¨ûp@á¾÷Á¿¥-*Þ¾_
+§Ý·ª%%g¯ˆ‘ž^Ú©4ÃH[Rj1—­´xÔ[6ùkB÷0Ÿ¹ô²ÐêÄ<V‚Zôk“Ÿ›s-ék”Ð@uq±a˜VÄœŸÞÎnq6I.ËßqüÜáülø Õ+äï£[_„šOàÇŽfÁ¹ºLä›}	|ÞÕm[°µšgK®‘8äepµxæÊ¤üPõAG‚¦”ÁÚÀàÀÌêúšˆBÇî\Õë3/àç˜.à€èÃ™Ü™xG¾*Nª}B&= “’Un„LzZå'dò=B&%!¯Š…3©ìéNøP‘_¿y_OQšFÉ>fªßh²ÐïæÝNuñ9¬þ<p’"’®LVÙ]ôý
+åõ½
+Â vÑY5¯bc	Þ¸sŸgŠŒü‹V¸RU+Î†½k<Æ­¼${oªáIwŒh¡‹íÑë%{¼$ñè.#ÆzŠ½¥°j>œ›ùJèKÕ«äyý`å‡Wõ™[yFÎ/ã3É¶Ã÷=õ<Ö¼k/@”ët/ñÙdÚfºk–ô«–”ÝcÁÉ±úäÔdmc¦E´´ÂéÂä+AuL! ï
+þà´›ø3ös‘eX¹û™ôôÕ£V7[àÂð±a2`Å>*ë'éôB¨Þ’5æ+ÉóFkÏÖT+SöjWˆ’½yæÇ@YYrXOh£´qÔæ¤²«Íy"ïÙ€* <“Êžæ…Ø!Ù‰%¼SÅY@‘`…n7¯í«Û’ÕNlÖßcQ<8¬žÉÖûÏ œp•çBnG Î'¥î#þç,‘76Kdcå&’¡•®vmIËŠ¡½Û…M\Ùc…ùÌsA(ºŠ^I›Ãp z¡u£+0+JäpÀØÑÃ‹9&]}õ$‹E”ZöZÞ¿4°eRÂŠÍÙ¿h±ÒäÐ +dõT¾ÒÕ´èN×QéPÀ£V†hÒhûÏžXÀQƒ“¥]=Îx'`€®ÚP8“Êžöå€Q.È_€›Ÿ‰•áýnºê7|‡EÍŽÊÐˆÖÖ$V•~Sí#d‰‚‡8+“ò¥£‰‚·‚¾¡k¢0[Üž'
+cG'
+yWÏ3¯xÐ½=¬8H¡±¦H<Ô‚\A½åh–•õrgmÊâ¢1¦eÚ™ É8%æYì“µ+YäÕÓ®<ów’¨ª}±’Tvµ/÷U`WÏkñÊ´gvï}_ÙR>°ÐïæiÏ]õ{å”µ³Äu³ˆ»Êã
+²–xäŒµÊ…QN¼gÁfVßé{óGeµœžÐajž§')h4µÕV
+¶,ŠÀ/Ul`ÏŠ–ÝôŽ	¥‰´6õËÅ·÷%¬+kv5zof³Ã½1ïÝìIr(—0}f?7;líM÷BmèË€úèf	¨9$Š¨ºâ^³#’3Ü+uô0î5éêy–ímÎcÙ³3àŠ÷j?:osÂ<
+ G·6È+‹ëöq \Š<œwXÏñ“÷Yóüjß¦/3H®”RÛ.ùCÝ.[qü¬ôºzšÃ‡;lç2Ä£§{âpï‡3?ÖØ­L*{Ú->4£¼’É¶>±Æ£š”'á³é
+¿Ë£f§é/Õ»yËÆ¾êÝ"öc6çF”Õ××Ëyx‘ï1›Qô¬ò¨9Ä]óÉšâœS;v%2QÚ„NO V8å•ö—ß^®Ûù[p&ký÷Ë_+CŸ†sí—´`<H
+‰–ÈO©óæ13×|™É¶2óCœü¬taÊÍhœd<[ºž›‰˜VnN‰Ùi¥pµÒEnf–pÎÍæzD³h:‹$s^Æ
+=)å^&Rš%3#eä$x<',½àäxPÒðîA¥ÛåòF¨›k9ÅÑŠB‰¼LÄ´ËeNLRó`¯`ÁÍb¼&i§˜apY 4å™p•²¸fÇ’J­õÄ4œ%¿ †|­·¤¿Qc)ÜÃ›È­õÄ´Ã^ æ: .Ž“Qd˜´¹îŸ64'±?ÍaÚK0ˆšÓÂ»ˆZ¤ÖzïÖrÐÛœ˜8ŽwQËÝÛØ\ro}Ï.¸”‘Ÿ c©ìàç±eÔduñP'ú«ÌÏ³œ×ºp+‰›¹‡›póLço–¬ç¨_äÁ@Àòpì Å¢ùlb°&ñ¨SÿJöSß­¹BMN÷ŽÍ;ÈÙ|\JqoÖ(_‘¤-*kÝAÌþS¹
+Ä Fc¼©{sÑµô=[iiÍÝ8(
+
+-ý8Èšë}KÃAKbp¦®óÈáLÇÐŒùÈÏÌµT³óÐ¹$bF~Æé%· °ÀÍ³û1s,¹lZ¢‹¤Á˜3Oµóy!X²÷Œ…ì¦ˆ
+TÖ¼C½öïYÐõÑÍEé²$›*kÞAÌþ}¤Kº^#‘#ûîŸ\
+Üì˜ÚùÒžc{hÛÜ’á×ÆhFç=ÂÎ²]íBÙ3¥±[~3m¡º´;£žH
+h•rÖyy–M÷Jf(6º&ŒÑ¢k•·Ö+zÃ¶G«3€6SEŸ 6'ÚM¬¨çwnfph57m"UÒóN’ÈCÜB¨ÄÍ“ìßTPóA2£‘¬<ÕþK,FÅÌµd?©9d­;Tkÿ"â‚šÓ{½„bnÍEÕêº8¿ ÅŒìŒàÁ5…ÚÁÎCk²KŠ>ð3+5Øy–µÐ$&c&1†¨†3Oµè³P;Óîª[.J¡Ûê5«a&pIËµ…¹Ó›‹šÕu™[©nvce›V²òÐÊ¦¢Šßyi‘ü”‰S J¬<ËŠ¢eÙìÆHKþ*bp¾š‘‡–ä”{I2:@¤(UäãYV•”JfƒHjA&	C5'Íó/2ò’8ÑÎ,EòAÓÝKx/ÅïEÞl÷³\2ÛW¤+&o”	T*kÝaº÷Ïà*˜ns!Æqo,N½è:+²h¶VNw+M†+™î/] vµ`åYf Ìö‘9z8ãäªX"‰²³þzø×ÎöçbéÝê-Q¦ˆ!dWèëY³×”1ØXŠ_ÿé¸Ú>¹?5OïWÄ‡àäöÔ:½[ÇÄß“,ç7Ó{i´©ƒ††5¿9µNïöôÅØŸ)©uÖË×ÓŸ6îî`-ÞfmÄûåý®¬yö€¢€I
+ôäþÔ:»]ƒ–¤fúúÔ:»#@/NoO­³ÛŒ§ó7“ÛSëüö¸Ðy¦·­³Û­!—(Ã´§cãìfgH½‚t“›ÇÆÙÍ^å2öZ¦Jw§Ö›"ü°/H
+endstream
+endobj
+236 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 723.9682 172.33633 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/utopian-tree?isFullScreen=true)>>>>
+endobj
+237 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 723.9682 331.20337 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/a8Z03a)>>>>
+endobj
+238 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 708.84418 256.02002 723.96826]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/a8Z03a)>>>>
+endobj
+239 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 723.9682 430.39423 739.09229]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1jgeKWNKWFcf0ZXBnG6Ntl5Y9FhpdWovy/view?usp=sharing)>>>>
+endobj
+240 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 686.08905 176.98793 701.21313]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/circular-array-rotation?isFullScreen=true)>>>>
+endobj
+241 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 670.96503 145.666412 686.08911]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/circular-array-rotation?isFullScreen=true)>>>>
+endobj
+242 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 686.08905 333.48151 701.21313]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/Dj8YHP)>>>>
+endobj
+243 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 670.96503 254.94984 686.08911]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/Dj8YHP)>>>>
+endobj
+244 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 686.08905 441.74774 701.21313]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1mAk5cpeARNFN3JH9jgMTVJo6_ahZL1JH/view?usp=sharing)>>>>
+endobj
+245 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 648.21014 198.58774 663.33423]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)>>>>
+endobj
+246 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 633.08588 164.929779 648.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)>>>>
+endobj
+247 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 648.21014 331.16632 663.33423]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/fn6avO)>>>>
+endobj
+248 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 633.08588 254.87036 648.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/fn6avO)>>>>
+endobj
+249 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 648.21014 372.70471 663.33423]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1PVmuV5X1j8jCBK1Cr8hE_Z8360h9xzxQ/view?usp=sharing)>>>>
+endobj
+250 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 633.08588 422.20886 648.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1PVmuV5X1j8jCBK1Cr8hE_Z8360h9xzxQ/view?usp=sharing)>>>>
+endobj
+251 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 610.33099 211.33994 625.45508]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)>>>>
+endobj
+252 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 610.33099 332.27356 625.45508]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/0EybcS)>>>>
+endobj
+253 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 595.20697 255.03461 610.33105]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/0EybcS)>>>>
+endobj
+254 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 610.33099 390.50586 625.45508]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/187uQUAu7pSSBhDLVBB3yhcSdnJJ9uQLG/view?usp=sharing)>>>>
+endobj
+255 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 595.20697 409.89111 610.33105]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/187uQUAu7pSSBhDLVBB3yhcSdnJJ9uQLG/view?usp=sharing)>>>>
+endobj
+256 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 572.45184 170.58801 587.57593]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)>>>>
+endobj
+257 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 557.32782 164.929779 572.4519]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)>>>>
+endobj
+258 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 572.45184 330.9332 587.57593]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/scij6Y)>>>>
+endobj
+259 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 557.32782 249.58301 572.4519]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/scij6Y)>>>>
+endobj
+260 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 572.45184 425.0062 587.57593]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/11e19JGcqbI0Dqwl_Qru27UlUE7YitCZK/view?usp=sharing)>>>>
+endobj
+261 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 534.573 200.03937 549.69702]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/the-hurdle-race?isFullScreen=true)>>>>
+endobj
+262 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 519.44873 164.929779 534.57275]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/the-hurdle-race?isFullScreen=true)>>>>
+endobj
+263 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 534.573 328.69214 549.69702]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/i5htNN)>>>>
+endobj
+264 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 519.44873 258.37231 534.57275]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/i5htNN)>>>>
+endobj
+265 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 534.573 402.16138 549.69702]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1XM_W88Vlyb7mtxnY0011goLf42xye8DH/view?usp=sharing)>>>>
+endobj
+266 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 519.44873 396.43427 534.57275]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1XM_W88Vlyb7mtxnY0011goLf42xye8DH/view?usp=sharing)>>>>
+endobj
+267 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 496.69382 174.83168 511.81787]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/cut-the-sticks?isFullScreen=true)>>>>
+endobj
+268 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 496.69382 333.17422 511.81787]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/ZIuPOf)>>>>
+endobj
+269 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 481.56979 254.47304 496.69385]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/ZIuPOf)>>>>
+endobj
+270 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 496.69382 442.83383 511.81787]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1LounUeNolPZOs0u2PrhZK8mRWuZDdCVq/view?usp=sharing)>>>>
+endobj
+271 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 458.81467 147.329956 473.93872]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/acm-icpc-team/problem?isFullScreen=false)>>>>
+endobj
+272 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 458.81467 328.62329 473.93872]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/l0uNnF)>>>>
+endobj
+273 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 443.69064 256.25314 458.8147]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/l0uNnF)>>>>
+endobj
+274 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 458.81467 415.33209 473.93872]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1zxgJFU0cKXm63izDydonXLRnWaI3SS6W/view?usp=sharing)>>>>
+endobj
+275 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 420.93576 195.3136 436.05981]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=false)>>>>
+endobj
+276 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 405.81149 164.929779 420.93555]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=false)>>>>
+endobj
+277 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 420.93576 328.69214 436.05981]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/iIHgFh)>>>>
+endobj
+278 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 405.81149 255.95117 420.93555]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/iIHgFh)>>>>
+endobj
+279 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 420.93576 445.38214 436.05981]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1MlY28QFirMT-77HdGxTxskX4aC_ePmZC/view?usp=sharing)>>>>
+endobj
+280 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 383.05661 202.36517 398.18066]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/kaprekar-numbers/problem)>>>>
+endobj
+281 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 367.93259 161.194733 383.05664]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/kaprekar-numbers/problem)>>>>
+endobj
+282 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 352.80856 164.929779 367.93262]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/kaprekar-numbers/problem)>>>>
+endobj
+283 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 383.05661 330.92789 398.18066]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/vK0pcP)>>>>
+endobj
+284 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 367.93259 253.34985 383.05664]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/vK0pcP)>>>>
+endobj
+285 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 383.05661 389.27673 398.18066]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1Xc5380HvPYxALuqdSMswOOSPgmGKpNNx/view?usp=sharing)>>>>
+endobj
+286 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 367.93259 414.63806 383.05664]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1Xc5380HvPYxALuqdSMswOOSPgmGKpNNx/view?usp=sharing)>>>>
+endobj
+287 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 330.05368 157.772247 345.17773]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/cavity-map/problem?isFullScreen=false)>>>>
+endobj
+288 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 330.05368 331.29874 345.17773]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/PzTtHB)>>>>
+endobj
+289 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 314.92966 256.57632 330.05371]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/PzTtHB)>>>>
+endobj
+290 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 330.05368 427.88828 345.17773]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/19pTNkfkHPioA_oD3nDKGU1JvQ09eRBOv/view?usp=sharing)>>>>
+endobj
+291 0 obj
+<</Filter /FlateDecode
+/Length 3474>> stream
+xœí]ÝÎÜ¶½ß§ØëfÈáð(
+ØŽë¶ú m ¨4} CíJ¤DŽ>JÊ~T°ë ‰Ciw9ÃsfG$¥®’þù è_.Àõïß/ÿ½#½j¸–þ/xÚ‰ÔJ7ªküç/?]oùõ—Ë?éë/ÿ»ÄOye¯J{ýõŸ—Ÿ/¦oÕNè }¡ÑZµZ˜ $À@ Z0Þÿ·?\ÿ³Ò”c?®DÎ){#‡»¨7·¿¤Þ|úvùá+^A	ÿàõÛÏ•¬þ dü£è›4z{ý¿êPÏ”Då¯ßþqý#]6º~û×Ei!•³£îWüpåË722š©¤8Hv*å…è7JµÅ¹¥BZë®ƒ5Wá£É‹–ßØvs³P)!i°P2Únôx¥F!]q·+RÐ¬&LW`ü(KÞsß†Ÿ‡+Fçœ´Ù&(Œ£”¾LÃ²êàP·ú‚·ËŒW gS''ÿY– ±¼2a@81UèD9©­j€PÇ	0úB?ÝL¡U òû€ðWx¸Ùñ3Úƒ§?‰ž?W,¹NSÔH¾WÀA‡¿ÂãÐvð*xhü"¨ñŠ²: Ä†oSêÞ5­H>1y&cMåíŠÆzï2cV<ƒ	É-¨´„j­œö=P©>qÁ\ßÐ¢P8ï‰ÒY˜×l°Ü•Ü)CÔ^ãm%3[2ƒFB€’!tÎŠ†«3ôk:x§Ç •®°Dÿ8~Dá?dWv„:Ž´æãCÈ<t-]6ãï[£•uŸ'!æ 0^bA_¬·}…X`…ØdçÎlš„ØÌÒwÏ¦\,gáºBC6/°j¿ÞÅ#h-›T˜iSaZ‚v³
+{ó+¯¸‚ÿ¶Ï-Y-¡ƒ&<ôÒ%zDcÞv>×³±iÅ+ügX¾¥u*ø(i“ØèKÚ—~	n›î,ð
+OdîD^¯Œ.I†O£·´WÙG4'€rïÀ¯Œü„9Æ©Ð˜DÙÞZZ¡>¡£øzPM+ VZC“º®rú#+§3Sê¹±ïÍ_¸ÍÚ¥6Nµ$ v
+¸õÏM¬³Ädi½ÁÆîkÍ±aÄ0~Æ£R„ß–ÎªŽ•+|ÚmNÊ‚’¤Ú(Œ¿n”ñ¨…ô]23›Mù¨È§¡/£«ò1Ñ·)=”èc-›çÑNù/™Êê_^âÿIÄ?†–“Á²kˆá|/¢ñÅìÅ§¼¡©äHœü¯0œÝÂð4èÌð=‘ï‚XXæ•¾ ã#ÕïY˜TzÝ}ÚaA¯)NžvX
+xHÓKè:íøÄO;’©‡TÌ==öÈ2>_­¬Ü8OÝw]êƒN‡@.jŒÇ¼‘u_`é]¯c~§îŠù—~)¬²¢o,=™`}èRÀ?&"B¥uª\•Ú
+Ÿ¦YkË*á’àû•pß¤Æï7ŽÉü·ñda$¾¬™‹{‚•·o%Ñ³^ñÒ[ƒ¤ÙÕä“ƒ2H#" t]Uðç¹™
+N†®½ÏL}÷ÈÆAˆÎê˜¬€âù=={]ízŠµžò]kï¹œP@º¼à¹ck¯rl“YŠØ…–ˆò z8¨ŸùöyBóôÕðÃ„OR«+á_€'™ Û^2Tv/Ûp°gØÊ¹^$ó$þKjï^Ó—Ú|öq¹Ü
+ïQ‡æÂOË÷Ìåµ°Ô[:Ò–ÎH±=æÂwÎì¦µXs–KçÉÐãÒ97õ½é¦ÝÂX®;ÞÚéð&§Px‡OÅÙÊ|”_ôÅ”]æÖf–¢#AÇÝ¨Þ!íJët4lF»Öx¶YÄG	ÂAŸ2ÛKÅ=™^ê{^*þIT<6-8ÈPÙ3¾¨©Œ_,[ÙW­Fw…`¼Y¶×„|ÁîÝEü—²8—²h{.Ðý+Ò»ÍSœÈÝ‡ç)^
+E-ºë<e±9<Ÿ§L†^ç23õ4Å•7×¥¼N(Ü¢ŽTÁÑê‡#›óÂ‡ˆð«Ï¶¯(Ù¡‘ÍâIt¦Pk¨Û©P»¢î¥PŸC¡ÞëhW¨z*mŸ£2`ZNB	•ÊpÄC~{Ï}eµrÄÓlÓ.Ž@ÈjAîý•æWJy¥”JJ9ae[Ç_ˆ»üŽ*FIcô­l›¹™bL†VŒ3SÏ³›‚'¾lâTœ€RÔõÍ§m&ÈÊ¢nVsUÇmŸæê;n/Íõš›ž:d¨ÔšÄ‚é¢ø#ÛV$Súã‡
+XÍU’{·æzåGåò#ÝE‹¡(ê|P…h!hm-†…ÔÕ®¢e‘ûrÑ2Z$?+Í6Ñ’›zš¢9ÿ ñ­åÚož†1n>a×³Ì¶y“’„7 PÕ\ÚOÕj$¶¨4}•7†y.€Îç|Úm8»í³$³uxÔaÚ©øøzîÞå¹ûá “i™žAæ¥°ŸEao|îÞ7¾°UM>ò°‹*Wv„,6…g» ÷¤±ÛÔR¦±{Ò{×~ìÃ*i–ã¤l^Bû8b$°&4Ÿ7Ço^Û¯Nxªœ”:—å¡r['AÓ\+Û{NÜÜÎ|20šåi"7ýWû“ÜÔwŸÜC¾”>Î0Æo²ceúö÷+¸l§(QÃšÖÜðe‚xélwœ³b¯XÎÇl“÷(=eMr¨Ø¸jU÷íÀ;#¦‚Ch- m|‘ð èôš‰×ä«ÔwN¾zõ×äëI&_fã1~]£?Ÿ`Wž|l¯‡ó‡x—ôžV=·Ñ;›|õ¤÷ÊZ¿ÑÖ¶@¹+Rw	±=Rõã~%xÂ³N(°
+Ê÷ölœbÜD ïqÖ	?)\yâdh±¬¥ÍÒL	æ¦žfÕÚŽCU÷l=n>}Ü‘Ç›Oá§o‘ºöÂÃÚPï[	Ów¨_Rñ9¤¢ÞxÌZE	ØBŸòòŽÓ3Wîá5IvZ‹õ‰Ùërï®Òw%7ØôžÚÁ:ûÜ	b‘k~‹W²Ü#Îúh£³¼tÙD¨ÅÅÛÒxBG<¼VyEÿNÊ‡Beð’þ'5ÿûò×s½úw0àƒPF+]˜Y 4Dxúº¥zãk¥3¤Ä†æûÅ"u¢µÎZ“7Oò¦ÕœEÂÃÜ—ä[FU±p–7W.Ñwí€fÊ•P…¬ù-0{Qb[^~¿øè¯¡©µF­®¯,Ðœ¹“	}±6zƒ7½I®Jô»;-gª®<ÉÜ¼ÊqÜ-#Ž<Ù;¬–h6äN†Øà„§Ñ„¬uµv¼ø¡BtÒ*Êšbè¼¹Æ­Þ/í) y4Ë\Í=ö®–ÙG—ÞéUñæy^²`XæK£'<4ûòØkIJ¶Oà4äšèa_uç‰ÞQÒ-©Á)ƒ Á§Ö*Á:¿
+ B°déz%7…:¾Êö¨£¿¦–*¿:»^ðkr¥'4 ¡$lpå¡óÉ+T¿;Ri¨IêÙª7Os(uI.úYÔC.%Š;{‹Ss{2Ý~4i…è&æ©tj®1½ï‰¿jMîœ%ÒFo9èµsFwÆùõÄUy–3Vr%dZM¢>…/Oule	hšõ‘D&P°qÃŠÙÔº[ÛL*ûbƒ‹C»$×½¹J®®ñU =¹¤³èw:­Ò™ÉŸ–4c­«ºó,'ŸôJØŒEÚ8‰Ò¼yè<¯¢/	›ÒÕ•»åÑÂ™§9ù©¬°(ç)ÆRÀScÑ;k®Ò«ë)B•ªÆdBVcYXð Ãcj\×FâPb‰E¨­²Ö*½ºžÛRÔ/ÉÔdéÌSLQ")åÚX)òšTƒñ÷²ò­µè¾G4ÔJà£Y¾XXð˜ùUrÅÀ²o­á¹ïžøÏ“/âm®ªp8Í®åÐq-(éÔ-Ëd­íjlÇ6²¹¤YŠ±±µÊ­®›3+xžœ9ãV£3íÉ«ýæÍù£®…3Ï²® VæJ-@ÇŠßÒ•§ÚT©Y3LsH´¹a¦96¶ójÇºË
+ÇÑy *IC#áµnèËöÝŽË1ÞÌI.{–] µJü}`³jFëÀZú]8ãÈr¦"ÛbdÏ´æº,Åß]Ô­fWZ›\†›‰"³L^xò4«Kkñ&æ,ŸZ«+Eº®™¬ënÁ‚Y™Z*W¥ÖP¤üI÷J;ÌZ«KEº®R«Pk„ƒ"öªp`Á‰DIG†Ç·ú›0`VyßœÊ	gÈXêXŒD#²fa¨ÜÊ”B$š@ÀüþÔ<¿_‘sug·§ÖùÝÚ™øz'?»yjœßKNgf7§ÖùÝž~1Ú3ïGj]X«ñBÜ¡hðO=ÊØlBÞ¼ø€Ã¸âÉÛÙíSãâfE£§Mz~{Ö¼ø@¤K,FëÙý©uy{ðbZ.“nŸZ·ÚsVÍ{“Z·#\nv{j]Ün nª€…'Sëòö@¸×„ëùíSëâvK|±ýÜ3©u9LNWLM­‹Û	SSë™ÿ uE²
+endstream
+endobj
+293 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 525.45154 570.76483 542.20361]
+/A <</Type /Action
+/S /URI
+/URI (https://www.youtube.com/watch?v=HGk_ypEuS24)>>>>
+endobj
+294 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 723.96796 135.038696 739.09204]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/manasa-and-stones/problem?h_r=profile)>>>>
+endobj
+295 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 723.96796 331.91861 739.09204]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/h1NSm7)>>>>
+endobj
+296 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 708.84418 259.18292 723.96826]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/h1NSm7)>>>>
+endobj
+297 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 723.96796 403.04083 739.09204]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/10K-XrGhP6exPF4rcpwdyhxLM000IxIDJ/view?usp=sharing)>>>>
+endobj
+298 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 686.08905 196.64868 701.21313]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true)>>>>
+endobj
+299 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 670.96503 164.929779 686.08911]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/happy-ladybugs/problem?isFullScreen=true)>>>>
+endobj
+300 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 686.08905 334.08017 701.21313]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/mggOh3)>>>>
+endobj
+301 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 670.96503 256.14719 686.08911]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/mggOh3)>>>>
+endobj
+302 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 686.08905 448.52383 701.21313]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/13EJlxBuCEsKfjneajNOdRk4w7Dw92Dhu/view?usp=sharing)>>>>
+endobj
+303 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 648.21014 197.25793 663.33423]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/find-the-median/problem?h_r=profile)>>>>
+endobj
+304 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 633.08588 164.929779 648.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/find-the-median/problem?h_r=profile)>>>>
+endobj
+305 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 648.21014 333.9848 663.33423]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/HnjkGU)>>>>
+endobj
+306 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 633.08588 254.36177 648.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/HnjkGU)>>>>
+endobj
+307 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 648.21014 451.9834 663.33423]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/15Kyc2fOY1AWYcOXwDA8ntOVKMfP4nPmX/view?usp=sharing)>>>>
+endobj
+308 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 610.33099 196.69107 625.45508]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/chocolate-feast/problem?h_r=profile)>>>>
+endobj
+309 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 595.20697 164.929779 610.33105]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/chocolate-feast/problem?h_r=profile)>>>>
+endobj
+310 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 610.33099 332.18881 625.45508]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/CPdLWd)>>>>
+endobj
+311 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 595.20697 258.72729 610.33105]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/CPdLWd)>>>>
+endobj
+312 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 610.33099 451.60196 625.45508]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1qC_myUJ5jxGSI6Z1rFkAP1uKhL3YGuQ5/view?usp=sharing)>>>>
+endobj
+313 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 572.45184 214.69882 587.57593]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/insertionsort1/problem?h_r=profile)>>>>
+endobj
+314 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 557.32782 180.87134 572.4519]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/insertionsort1/problem?h_r=profile)>>>>
+endobj
+315 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 572.45184 330.92789 587.57593]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/vpaUUR)>>>>
+endobj
+316 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 557.32782 257.23856 572.4519]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/vpaUUR)>>>>
+endobj
+317 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 572.45184 414.10828 587.57593]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/13kiF0kDp50SiOFq9umJ5Jh8xen_GUOTp/view?usp=sharing)>>>>
+endobj
+318 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 557.32782 381.94965 572.4519]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/13kiF0kDp50SiOFq9umJ5Jh8xen_GUOTp/view?usp=sharing)>>>>
+endobj
+319 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 572.45184 545.53186 587.57593]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/insertion-sort/)>>>>
+endobj
+320 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 557.32782 537.38892 572.4519]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/insertion-sort/)>>>>
+endobj
+321 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 502.69675 188.57988 517.8208]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/runningtime/problem?h_r=profile)>>>>
+endobj
+322 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 487.57272 171.31914 502.69678]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/runningtime/problem?h_r=profile)>>>>
+endobj
+323 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 472.4487 164.929779 487.57275]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/runningtime/problem?h_r=profile)>>>>
+endobj
+324 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 502.69675 332.18881 517.8208]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/ClRv7v)>>>>
+endobj
+325 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 487.57272 250.04393 502.69678]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/ClRv7v)>>>>
+endobj
+326 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 502.69675 411.60764 517.8208]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1Y2vzHCf0j_VDt7QuP3yIRJiJ5PIN78hp/view?usp=sharing)>>>>
+endobj
+327 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 502.69675 545.53186 517.8208]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/insertion-sort/)>>>>
+endobj
+328 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 487.57272 537.38892 502.69678]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/insertion-sort/)>>>>
+endobj
+329 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 449.69357 199.46188 464.81763]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/strange-code/problem?h_r=profile)>>>>
+endobj
+330 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 434.56955 164.929779 449.6936]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/strange-code/problem?h_r=profile)>>>>
+endobj
+331 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 449.69357 330.53583 464.81763]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/16yvXS)>>>>
+endobj
+332 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 434.56955 255.99883 449.6936]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/16yvXS)>>>>
+endobj
+333 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 449.69357 383.396 464.81763]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1R2KhjWe1_Kv-_wdq4xdbpk3Vasyz_sgo/view?usp=sharing)>>>>
+endobj
+334 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 434.56955 411.41693 449.6936]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1R2KhjWe1_Kv-_wdq4xdbpk3Vasyz_sgo/view?usp=sharing)>>>>
+endobj
+335 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 411.81467 201.2738 426.93872]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/closest-numbers/problem?isFullScreen=true)>>>>
+endobj
+336 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 396.6904 164.929779 411.81445]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/closest-numbers/problem?isFullScreen=true)>>>>
+endobj
+337 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 411.81467 328.62329 426.93872]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/l5SpJB)>>>>
+endobj
+338 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 396.6904 257.07962 411.81445]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/l5SpJB)>>>>
+endobj
+339 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 411.81467 380.72583 426.93872]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1mVGltFhpZpJEXOOw4XLY8fA7bGaCLSt9/view?usp=sharing)>>>>
+endobj
+340 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 396.6904 415.17316 411.81445]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1mVGltFhpZpJEXOOw4XLY8fA7bGaCLSt9/view?usp=sharing)>>>>
+endobj
+341 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 411.81467 568.14355 426.93872]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/sorting-algorithms/)>>>>
+endobj
+342 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [460.14465 396.6904 537.38892 411.81445]
+/A <</Type /Action
+/S /URI
+/URI (https://www.geeksforgeeks.org/sorting-algorithms/)>>>>
+endobj
+343 0 obj
+<</Filter /FlateDecode
+/Length 4016>> stream
+xœí]Ù®Ü¸}ï¯Ðó æÅØžå9‰|ÀMf‚à:@&Oó÷9ÔFªEª)Énöøö50Ó]RKUÅ:µpÇ¿wÿ±žº—Ï—ÿ^˜æÎ’#Ñ_‹ß¼cJ:Ï¨¸Qtáß_î†¿ýzùþgÙýú¿Kø•¦\›î·^~¹üO•–I/4ž£<“Ê×É´œ¨#b¤Œ”.Üÿ÷ïºÿl°¡8SNóÜzí7¼¿Ü"7>]¾ÿIu$˜ªûôËED©ß1þž$•3Ý§ð¨wÎWÂuŸþÑý	—ÍŸ»Oÿ¾É¸°F« ‚ñŠï¯üø	B1LyA–¢œB8ÆIyåv	
+˜VÒ¨¥¤Œc»^šŽ¹ òåË®ù »aÚ8gÍ²+5\áÌ…çèùŠÃÁ„‘^qUó³Ô$ïµ¦³Šæd¹4¢B‘‘¸µ’Ú*R}D'&…\ÝNJáÊiª®ÈIÅŠKeÉ_+¿‘Žþ¢±þÐ_1P†L¼@¥V)_Qû+šyk-7ñýÊNrjrÂ§ã&žSMy¦é
+	Ã…³5¦T|š#kRâ2þbÖŒ×Ú¤P~}Ñú74ó!ZrUXµN¡UŠž¹IÄf”b’Ü{í¢trT¢bÖ9®µªÑÕû%¶á ™ÖÎdœ$„Üã$¥Bóîý›r’9ll^¿ŸšK{H¡l~”žl´Æ®àrŽêÎ2"íäÙ¨î9ìÊ8£›Fõ+{M¢ú,çÁ`£úBÒ{,}˜V:¡¨ÊöÊ§|åã¤ÈM®eÚZ²¢–ûŸ¦Ze…²‚ýrX™@„;ÔÚÖ a‡±+Ÿ þýtEÞïWù–2„Ñ,8 ²ÒùüTo¢á!1‡v¸sM\åË+Æmõã¤k-'ž¸°rª¡§‡‘²ÊÛxEêÉ(N?;çÄ,å³g]HÌšºg>ûFòÙ4è×Xe[ÿRö¿å+r”ÝŽV\'òWÅjLhWà>œÐ>(¸Û$=m¡ßJöãIÉ}÷“<`r/HCveáb¯Ó{îÕžô^cÆ ÙMóûKI“ü>õt†¿öî‰–ŸÚ+eLL°ê6‚“­Â©rÌ‡^Zœ–óäªXqž)¡ò­:Väø¬Ô5P*gÅdâV&y»:0Ì¹^U_©:P’Y}<«ƒ&ÕÁy”dbMÐ³@x#íìðnëb6<˜0¼…¹kÆ‘Ðœ€ÁZ— ÝÞ±>ÈÀ{®êr©X!4†·ŸìÁ)!Þ#¿ÁOIÈÞ>¿€GØTuªS"¸k‚‘Q~óòÂ GuZ9]^ ;B¢ï‰š–—’¦åEõ|y±öî™š™ÚNNU@«vDª5þ†;¨½àHÿˆLµÚ(ÂÊ:0ü§ëüg[°–¸­v {«yŒó”A­o­x8í^’,­©{yo¥x05&1Ë–FÎv´ê
+.¶cy°Zù2a©RÌ†WåÃàÇË‡¶ /zÞo9}@8!XqmçÝFõ5Ò‡Œd­kâÝHx²“¥J5¤nŠÛ;T¶X¨be=],D½{6–¡‘a´5ÕÙ0$[0-vLÜŠ¨·í=Ðß^Û°1‹²ÌÊ-‰oºèä¬E­ViÈ¼î¹ÆÂ?)UëÕ6¢hÙwU_W¢ðøäšô™Eüßh(X¨&£k¯b™¶ù\¨þµ}T§½rL\›zåg9õFÊ)ík¼ab•½aÙŒÊ GVà!­H§ÕéºTJ­¡!÷@;VRm¡½´åÈ·#iÙZS+—>§ò­-%öÑ2åœˆcÎIÒ‰s--üiSñ)m÷D>ƒK#;ãw¬%1œ	¥Œ~BÏBèKB[€O¯!àKs6PZ¾RLÚ7,µØgu¤Eï*M}ûåÃŠMÏ½ë`õàšyòªoâ1¶2Êä0	$´™é>_ˆ{†âÙ¤Ô×¡´A–%dvº5t$:ãUBÃ‡ñ¾—K¤2áiXMÿÐ‘ÚGOŽ¹‹ïA&Q}:3rI/à:~{½Àæœ°D	‘'O-5þÁ@àF)?/Áz#Ó¯½1ÏrÍoHä_hîåò¯Ë/ß~+ûE‹Å¯
+…Ü9„-*¯Å°yÁØÿ7|ˆm#ÀVdhc†ôâóš$BÕÙwº÷»8†ŠÊ{µ1ØòŽáÝpmâõ;XŽÏ „öû%GÅc­N¾ãed—/@TÔ¼ÿÙÀƒd^ñ„AØ¦
+µ¾îU¬DÛþ*OØøý’~ããÁ‹ôÏ¿vpã®—áåï5ƒm®"pøaT&r‰§0K|háQŽË¦¿=9šˆäD‘‘˜(|ñ¦±UFvb›EžC:á‡—¤â	Øœ¾D%$ÄTgYrBŒºN^6¶ÄÊŽ^^o¤¡P¢øÎâºgüóŒ	}¥¿×ñ>jÝù[üÕk‚’C³NÍú³c}ãzˆîêw%7år¾¸(ƒËR·E!¯.þà«ôzfÄ/s\Êø‹¿»Ã¤~+½‰‘ü}ÕŒÏóñR›>`òŽT¨¦¦˜é‚„I©CÌDhñ‹›)ì`0ÄÌ _cûôl¢…®MîS}ÐœÈÌKÂ,½Fªd&<ÝS_&NAsd)’^Î# …ï’Fs›Páâ£™Nßþr	ß&_{B”$>/ùZ_!Rþm=²f9n;õœY³àbÜ>¨ÙÀš,¬Ír&]¸( ðéô¾µDÒ»O=(öx—×šmšeWxØ{Þœ1*a+ª×µK[Hý‹Þšb{³.”Ðq’×nD°1½ ª61-¤$’ËFs9ÕÔyj‚¡¥K`‹³$ÊËór“˜À]6ƒÚ ç×k»öÎ’”}¿”¥ç,É6ƒz¹ˆppP¯aDxŽé½‘1½½S$›Æ’bÄØH`æCi‘~Feû0eò=}µïb2¬·÷á	’-Á½QùI÷ËÖ+5:Zµ½Ù7¤›T¬Ûþ9rô†GŽšÖÏ¡£SCGËI¡[GÈÓS—%Y&É¶S—¯&Ò$=,QÐÓS—¢Þ½‹¥ìQÊis¹¦=R³”7¯ª\•–tàêô*ÎÄ}ÙäVxºé’m`Ñ™¯V¬+X<t?kõû×ê§}K,‹šú–g±þFŠõt‰O•U6t/ãé¹úº¸ç]±X—£…k¦$LLÄNdYÜ-qîÃsp›¢ûÈÊºûgu“U[äŒÞ7É4Wë%’@
+Úà9]gætbÈ¨3®œEZgÌ‚ž¯3RQhë”Rçé†ýéø9»ˆu(‘ðKY[Y“Ø o¹û±‘C=]•C‚6…¼VÞÝ5F˜àå´~¶)2Î:–$kéXžEÆ)2T•I¬²¥®ë7:ÜŠ¶G?L¿×LÔ=—ú­ñ}¼ÌhŠï¢Û}œ¼¡²Èhi…Á£ä#9×Úxpu"N9 ¤tpÈ~×èjS=þ<ôŠ™”i£®Þ…ð9¿o‘Ì{Ø´ÔT«¾½c¸m³ùçîQiêØÃs¯ï0 »qÔÙ‘ÀÊn¬n’†!xØoíé²‚ŽôõUNß ~â­¯Þÿt#„—úÁEýûPáJÊ{œ}üUvN¸k´´†Y)È×vÞlØì7ZÖ›iTMá¨¥¯nZG2çr	Tvze¯q«º™ˆi˜–×¼ú\ªu'ŠãébóùÊmþ‚ëÆ¾ŸÈ†ÈWçë‡N_«Ì}ÑÔ¡ËLVó²__Õ}êõˆ¬?,ªÜÚÅ8¦5•HÐ°?`îXL°>d£å5juI“ë—œ‡óÉÏBüôùa©½¥~zl¥’ouŽÜžð«ôlxíNSGTb¤WCž«óÑ•Ûuœdb:p>º¶Îœ·¡.lÀ¬pïý|Ñž9cÒ	õu^dGVrüX9Êÿ;&´ð&y
+@¡™[· †a¤8Ã"¡e>_úe„/¡FmÆ~ì•6.zØÐæ0‡¥.šÛX¡mÖåðôkkV¡ã@$rÖ*“Poƒ8užvZÄ¹ï÷›qÌ!•)9‡­¦çH¯Ì9Q'~dØW¾^çŽÎ"}Ô§QøŒ+³ê|“{¯ÀµPf¨[¤P+e>ØÉ¥×&­¡Nëõø
+Y}/ÃLÝ¯ÇÅeÀî7î
+_39‡¯Ö'1®Œ:Ñh±jž;€/øI¥aS¢Ð¾2«ÑÇ9üî
+e}š\+}>Ø^k”¡l1Î.£ØLÝ²ýçªä¢ÿÈfrdO,Ê€lVh’#V+ôÔA5YÄMrÄŒBç„˜Æu&[¨ó¡ŽÂX[5^«$[5’öaÛÄ™Z°ý›‚fÀ®QUöQLsFÎ“Ð	9°¶;Øg,:jSj” R›g6.ÏA}R'Ý QVeµù(›†¯°5ë2ì\$a'FíPæ™ª×0ŸTiQ¤»ôYU>Ê>Ï£1PŸ¶Ø%ÌÜ'Ú´C™g6ÿÍ0“ ù¿•ZRVŸ²ÑÙº N…	ÓA7€Žò·¹EüÚozj¨¾¯å`˜û!r=3vnZ3cPWIÒ@Íºð–ûeJë¹eh•{j›šŒŸ[6tiQß	uÕ®´?Ìª-‚J3õ.tù@{œ¬U*Aâ5«­áÔÆ·q¾p›+{x˜Ý2~Óº0ê9ÏPÎi‘PwxªÝËø2^SNm»ðT#9çªÚ.×ÎùªI›I¶Y­Í3«ts®jRgÒ%™Ñæ£,];«I—6Ôo³ß¯Óå™¦«d3æ"ï]©òa®a¶ó¥>Ût’²O¨;`¾®iÎåÖÕØÃHÎâ¼éŠ©ÜXÚ¤Î°3…¤d‡:O-”É:QŸIY™Qç£,PY}V&Ê1m$^±C™§yd|ÎdšJ}/"«Ë‡Y§I‘ÛçðFz‡:OM+Ïåk³B“)£Ð¢ëQ–‘…Uwª÷BêÒ\™áíáÐ«‘^waÇóâj¼=!;ºåÜÃrï¼@ºæ[‹û#yy¿€¹y°£·GêònF¢š.nž‰Ë{f¨ÑZéÍ‘º¼ÛáAž%‘z%eèµÆ÷©	yI?’âT8ãc˜)6“¯~€¬‡W,nŸ‰W7´’%ëåòö„|õƒàC_Š\Ü©×·{÷ãHkrûL½º]IÝÏP‹Û#õêv-=•×ËÛ#õêv¦’âÝKMFêÕíNš3‘:€áÿ»}<
+endstream
+endobj
+345 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 686.08905 193.68182 701.21313]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/countingsort1/problem?isFullScreen=true)>>>>
+endobj
+346 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 670.96503 164.929779 686.08911]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/countingsort1/problem?isFullScreen=true)>>>>
+endobj
+347 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 686.08905 332.27356 701.21313]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/5CcO7d)>>>>
+endobj
+348 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 670.96503 256.8465 686.08911]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/5CcO7d)>>>>
+endobj
+349 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 686.08905 381.36688 701.21313]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1hOQUvBAjQomMP7Ci4mr_G3xVolhN1A2f/view?usp=sharing)>>>>
+endobj
+350 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 670.96503 415.17316 686.08911]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1hOQUvBAjQomMP7Ci4mr_G3xVolhN1A2f/view?usp=sharing)>>>>
+endobj
+351 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 648.21014 202.10028 663.33423]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/missing-numbers/problem?isFullScreen=true)>>>>
+endobj
+352 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [104.54364 633.08588 164.929779 648.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://www.hackerrank.com/challenges/missing-numbers/problem?isFullScreen=true)>>>>
+endobj
+353 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 648.21014 331.51068 663.33423]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/kd64pK)>>>>
+endobj
+354 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [223.07732 633.08588 255.12468 648.20996]
+/A <</Type /Action
+/S /URI
+/URI (https://ideone.com/kd64pK)>>>>
+endobj
+355 0 obj
+<</Type /Annot
+/Subtype /Link
+/F 4
+/Border [0 0 0]
+/Rect [341.61099 648.21014 447.42188 663.33423]
+/A <</Type /Action
+/S /URI
+/URI (https://drive.google.com/file/d/1_aAPUBkr6yxYeUoMi80O7Fg0CdPUZ5O1/view?usp=sharing)>>>>
+endobj
+356 0 obj
+<</Filter /FlateDecode
+/Length 1393>> stream
+xœíZmk$7þ¾¿ÂŸñY²lÉP
+¹6¹Ï×úÚÞAézýÿÐÇ³;ÏÜzãd›lJoa#Ù3Ò£G/6!ðsEø¥…Ý/Ÿví|
+¦lL“nù«˜—h%¤XH®þüøÎí¿|þ¸{ó.ºïê.£ì(¤ì>ÿ¶û°{§JR
+sqR|”œÍ™,%GÕG1SÝðó7îÏvHžDrr‰}	ª”ª=aZ{ö_{ÞÞíÞÜŠcò±~ÄÝ}ØÑâ÷•õCxRËî®>êŠ£O„ÌÝýê¾An¿sw¿ï’7áCÁÆƒÂ&‘Ï&~-Ùk‚/$xAº×¤4kXTŠ.{Mš›»ÓV§ì™“®AëuÿBö‰Šñbä÷¿Šª†ÜøUfMˆ(ðˆ¦‹Eßã{hÖPŽE&Þ4:„r™T‹Âtx.¬•• è€ý] ó}øSÊiy–ÜÌ~%²À¡ñ8Ï~½âFþDÒh/ÀÿnÐO™gG™r ÓEÆhžðÌ\d4~OÉÅ~˜ÞŽ‘,¨—"™äl’0ÿ#‘Ø‘J¡FÓÏž.c“Ì[BÅ¥‰±õ4}›‰¯‰DâV>‘¼Ò¼–~Xb›Öª†²æ20Ã‹˜s¥@ÅCðR;”+Á«eË/ÐèÍèñ5'Y`&]ûI@båÆÑ¹‚âû˜Cðø$1ËÚUrV7¹ã¼UŸ7’ÙyÎ3ûr¶¦B÷S¿K¥ëý±”ér¹Oÿë¡¼.0äÑ´Ž,ñ0Å!,ú¥s°ÃIôfès:JWìœ!EFóhQ»é\m1¢C²^‚·‡ª™}4n¸ñ„6ÑíæO™†bšË‰.Ø62Mö©~³.AÌaª6éü
+ÄÀ£wäËV ý¯?Ëõ5qFRBå¦œÜ‡?>K™ÿaÒ€J°Ü^ÜX_Ó&û|ŸeýºÓgÌ£Ûy71œþ~(1¦3'0³‘³°òÂ¦Û»pÅƒë8%³Òâ÷uo¾Í|É×Œ>6^Äø¨äŽ‚øS(å²ÉÝçI¿íwó´¯9k†8ÅÆÆË²ñÄ`ÕÆúØ§™Û9EÊºäõSÞ‰ÂÚ)8éz´Rç2òþ¾ÍËIt{!N˜TPÎ<Ž›ÏC]ô<bkO›óHãêÙ’µ³/Mõx ­y°Iã@g}ñŠqÒOg‚ŠŽ^ìEšÓ´”dÍLøZûÁ“†fx,È’g:hà„¤@}=h\ä q~iifº‹––¯GÿÉQ£%ó-/Zbúá¢òÀÕäMŸ–¼Iñå¸q$Åáéc&¥fP¾lŠ?`ÿ‘ëL+5›êµä`ŸíEÏx‰¾Œj&=ê:³øjÓ‚×e¯æŠ?Õ”ðVü4 -ánvŸP
+Õ«/Ò?v?=ã½íÖ˜ì1	¥Su,¶â½5¯é¾ròàÊSXAË
+O—((fïq<Ï»¦úÂšÐœA_¤Ñq<_ËÑžš”X£©˜n¹Ñ#Ð<ïšecKKNÏ©X5æ˜¯èü¼Í°„àj®NXòY)i#}Dº?a´9R{LšÜ:ÝïÅÇÒýÒ§†/R¬A´IøaDÏ•ŸÒÌ^ÓQ4_Ï€¶I±Ë h0ƒ~åI~
+ª—¢Î9©|R+Ý‹µ=tL
+”à-# ¢’ðòFÌhŠð¦éíW…<ø–®ÕúE¼^O@§ÀY-_¤ëÕQ“GbØjñ½p½á†ƒ	n/ÒõjÃ«?k;éÆKŒoJ™þ‰,gaJ£À£*N¥o6¨Ô<²¼Z~/Ü,&DIÛ¸^Þˆ7j¶ã ²Z¿H·Ë3(‰!q½zîéô˜cVd
+endstream
+endobj
+2 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G5 5 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 612 792]
+/Annots [6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R]
+/Contents 54 0 R
+/StructParents 0
+/Parent 357 0 R>>
+endobj
+55 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G5 5 0 R
+/G56 56 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 612 792]
+/Annots [57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R]
+/Contents 98 0 R
+/StructParents 1
+/Parent 357 0 R>>
+endobj
+99 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G5 5 0 R>>
+/Font <</F4 4 0 R
+/F100 100 0 R>>>>
+/MediaBox [0 0 612 792]
+/Annots [101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R]
+/Contents 138 0 R
+/StructParents 2
+/Parent 357 0 R>>
+endobj
+139 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G5 5 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 612 792]
+/Annots [140 0 R 141 0 R 142 0 R 143 0 R 144 0 R 145 0 R 146 0 R 147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 154 0 R 155 0 R 156 0 R 157 0 R 158 0 R 159 0 R 160 0 R 161 0 R 162 0 R 163 0 R 164 0 R 165 0 R 166 0 R 167 0 R 168 0 R 169 0 R 170 0 R 171 0 R 172 0 R 173 0 R 174 0 R]
+/Contents 175 0 R
+/StructParents 3
+/Parent 357 0 R>>
+endobj
+176 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G5 5 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 612 792]
+/Annots [177 0 R 178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 197 0 R 198 0 R 199 0 R 200 0 R 201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R 233 0 R]
+/Contents 234 0 R
+/StructParents 4
+/Parent 357 0 R>>
+endobj
+235 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G5 5 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 612 792]
+/Annots [236 0 R 237 0 R 238 0 R 239 0 R 240 0 R 241 0 R 242 0 R 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R 259 0 R 260 0 R 261 0 R 262 0 R 263 0 R 264 0 R 265 0 R 266 0 R 267 0 R 268 0 R 269 0 R 270 0 R 271 0 R 272 0 R 273 0 R 274 0 R 275 0 R 276 0 R 277 0 R 278 0 R 279 0 R 280 0 R 281 0 R 282 0 R 283 0 R 284 0 R 285 0 R 286 0 R 287 0 R 288 0 R 289 0 R 290 0 R]
+/Contents 291 0 R
+/StructParents 5
+/Parent 357 0 R>>
+endobj
+292 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G5 5 0 R
+/G56 56 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 612 792]
+/Annots [293 0 R 294 0 R 295 0 R 296 0 R 297 0 R 298 0 R 299 0 R 300 0 R 301 0 R 302 0 R 303 0 R 304 0 R 305 0 R 306 0 R 307 0 R 308 0 R 309 0 R 310 0 R 311 0 R 312 0 R 313 0 R 314 0 R 315 0 R 316 0 R 317 0 R 318 0 R 319 0 R 320 0 R 321 0 R 322 0 R 323 0 R 324 0 R 325 0 R 326 0 R 327 0 R 328 0 R 329 0 R 330 0 R 331 0 R 332 0 R 333 0 R 334 0 R 335 0 R 336 0 R 337 0 R 338 0 R 339 0 R 340 0 R 341 0 R 342 0 R]
+/Contents 343 0 R
+/StructParents 6
+/Parent 357 0 R>>
+endobj
+344 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G3 3 0 R
+/G5 5 0 R>>
+/Font <</F4 4 0 R>>>>
+/MediaBox [0 0 612 792]
+/Annots [345 0 R 346 0 R 347 0 R 348 0 R 349 0 R 350 0 R 351 0 R 352 0 R 353 0 R 354 0 R 355 0 R]
+/Contents 356 0 R
+/StructParents 7
+/Parent 357 0 R>>
+endobj
+357 0 obj
+<</Type /Pages
+/Count 8
+/Kids [2 0 R 55 0 R 99 0 R 139 0 R 176 0 R 235 0 R 292 0 R 344 0 R]>>
+endobj
+358 0 obj
+<</Type /Catalog
+/Pages 357 0 R
+/ViewerPreferences <</Type /ViewerPreferences
+/DisplayDocTitle true>>>>
+endobj
+359 0 obj
+<</Length1 32204
+/Filter /FlateDecode
+/Length 22974>> stream
+xœÜ¼x[EÖ?<s‹z¹êÝêÅ’lÉ–dË’lÙNq;ÝNâÄNl'N³C
+HpBh%¡×@è ìÒ×„`ÙÀ²$!eÙ5°ôÝÅÒw®$gÃûî»ßÿÿ=üŸï{¾¹÷þ4wfîÜ3gÎœ9gæÚ#„ 
+Njlj&fr„ˆ^Hí˜ÔÞ6© !œ„{Ñ¤YsVíXÜwÀ½¶mV ºiÕãŸAyÜÏÛØÚ±áëÍs<‡}béêž¡ôÔ?ÿ ùOAþö¥×[þûòŽBZ¸hÙê?ó{ÎEH}=B<ç²žuCHøPÿd(Ï,[µ©?´®ã^„?"ÔúöòÞÕgýêÏ+ÿŠPÔ/‹-ïëé=AìûÊ†ò5Ë!Av57÷#pïX¾zýYëÂöG¡nÞ7²jpiO¾y¬;eæ¯î9kˆü=qÄ‡ ¼eMÏê>õ¥Uã‘HK®[Ÿû=ñ]lþÐ}C©ª‡¡ýÌhÃˆå p°D<D )Âù<Ä‹yj8ðªžõk ¯ØôÑÍˆ‹V!Ê3(ƒ€›Ä#¸¢ðY,–ûŠ}ï¿	ð<ïwã Äÿ"ßû’¿¥PãéáÁB
+êûO÷.–&¿CÚâË<ØTËþ¾6Í¾4ß0¾•¿…÷;¸å¥ºÉg¡¥4âÑ7Ò!¸uÉ=èb£€GJ¹IAAÙ­§¿²u–Åí°X\œ~–6Þïˆ9„n=­Í¢Rœ(ÅØ–²í¥áÀÀ  ò0’ 2@²:P`5¢.ÀÅp`ô ¸TK±v
+A?"=ð“„zØ§¨Õ¢4šOœÎ%·X\Ð3¨”çF>¨»òz&òòúïÇO{N\ðß8üóÀ…7 È-êEÃ¥8ZúKqÚÔQŠ“Èƒ‚¥8uZâêRœ1„²h­Fh)š4®AëP+Äæ¢>tÄ w´%‚*¡¾ ”h-”=Ò×ÁÕÖCî¿ê°œªe&Ô°m ùëÒÿ®„¥ð¦ûà·ºPwM!åß×~*`¤iª„œz¨}üžiËÐrÈ[W¸ëƒ_–þ€½P’5§Ž]ìgÂ±¿Ihá8“¸Ÿø=ñ™!¦tÔÝôTúQN+çY®“ûoïIÞ¼øþ­—‹ZDß‰{ÄyÉ}Rƒt+ƒ™>YHö[¹_~«¢II*/V~¯jW½®~P3[sB»þÔq›ö6I·[/Ð_j6¶?65™ö•-)»Ý|®yÜ²ÜrÜÚi}Ü¶Òö¹}žý„ãEç*çG®µpÜúÿÑãÏq@Óq$Å‹RÁ¨*Ï„à²ùÿ.þ?[éú÷áe8Ú¡¯ájGûÑ3plB±Bz¼òîDW#3zÐ¹~('ƒ´ÏÐ(‡ÞF×`à×pÝåßAŠÂÓoc<óŒ¢
+)Gá¸žÙƒžÀFÜwû!~	<÷îÁIlÂ&x>9l–V@Í_CýáÍ¯(¼ãmdBûðv<æ·w°sqJ]‚‡pÞòÔx	ºuâe¸‰ÍƒÃWªJæ v!Hüi¼èŸÿo(Ï‹ðDšø‘ØAˆs3ÑýÀ¯«AµO)XÈ>¿¥ÀÙ…®*¤°‘øÁ^…û÷Pˆ¢ƒä4ˆsh'¥E³©Py#º~ï„ëJ¸‚pmk®f¸6Â5ïy®l= §KI1JPU(ÌÞÓï£ói!z–zÍ§¢'¨<ºŒ:‚¢‡PÇ‰®§£z&ZDý	½K-G}\qºÑ9œ¥h=åE½\µÒ\´¾] Ï¬§?F7Áœvoº”~5Ò*d‚¼ÆÿÊšÊ+Ð£E!êYteDÔ>´ŒZ‚æQ2ÔB¥Æ[ÑD
+í#ù/¨™è¢
+=Ì‰¢MTKEP+5	I•£$ðæRòcTN¾ˆêá~5y¥èMhõ$ª£¼ùŸ¨é0?±<\Œ{þõöÿ/½m3-fØ ?òò¬%‘ÏM#Èƒ " ‰ó?!1’ JPŠ@Éóÿ¤ ”P”ù %RªP´€À¿#-ÒêPŒù‘•‘Ð„,€eÈšÿ4–Ð‚€VÀïY»ÐŽÜ€äÉÇÚ(€.ä‹ÐƒüùoÁr© ô¢  ðÐ”AÀ
+TX‰Â€É³3‹U(
+Xbù¿¡Š†Q0‚jkP2ÿŠ¢:ÀJÆQ&ÿ%J°Õ&Q°5æ¿@)Ô˜.`MÊÁ|>°MÌ¢–ü_aÄ°Ø„¦6£VÀI¨-ÿ4µN)àT4#ÿ9jA³ §¡Ù€­h.àt4/ÿgÔ†: ÛQ'à4?ÿX&gp6êœƒç?›§pêì üu¢¥€óQ/àÔ—ÿ-Dý€]hà"´p1ÈŸDÝh%`Z¸ðO`Å¬ìEƒ€}ìGCùÀN9pyÐºü‡hZ¸	¸
+¸ðhüM€ƒèÀ!tnþ8Z‹6ž¶ ®Cçå? 9¸mÜˆÎ<ðX©Û7¡ÏFå¢s
+x.ºp3Ú¸]š?‚ÎC—p+º<ÿ>Ú†vžvnGW^ øGt!º
+ð"t5àÅèÚü{0o]¸]x)º!ÿtº	ðWèfÀËÑnÀè–ü»`qÝ
+xÚx%º-ÿè÷; ¯.à5èNÀkÑÝùÃè:tàõ¼Ý›ÿ=ºÝxz ðfô ànÀ·Ñ-èaÀ[Ñ#€{ÐHþwè6ô(àí¼íË¿sþ~À»Ðã€w£' ï|Ý‹~xúàýè©ü`é?ø zð!ô,àÃè¹ü!ðžA/ îE¿Í¿Ú`p:¸½øàkèqô2àèUÀèµü«èIô:à¯Ñ!Àß 7ò¯ §Ð›€O£· ŸAo>ø2zýðytðônþ%ô[ôÀÑ¾ˆþx½Ÿ?ˆ^BG_FÇ _Aä_D¯¢ã€¯¡€¯£¡ò£èô'À7ÑIÀ·Ð'ùß¢ß¡Oß.àïÑgùÐaô9à;è/€ï¢¿þåŸGï¡/ ÿˆ¾|}•A_-à1ôàèÛü³è8úðúðCÀgÐGèï€Bÿ <‰þ	ø1àÓè”üå?Ã(ÿú3& ?/à_0™ÿú+¦ Ç0ðÌüð×è+Ìü ~…ù'Ñ7Xø-~‡%€ßciþ ú3€?b9àßŸ@ÿÀ
+Àb%àOX8Ž5ùÇÁÎb1uùÇŸFR¬EçaÚ‰51yÞž{nÝóÈžg÷Ðè×˜A`ágøçmÛ¹íÖmlÛs 3>»m„ÍàçŸËäe³\ÆË<zÕUáÔÙg‡RW_NsN(uÝu¡Ôg„R×_Juw‡R+W†R­­¡ÔìÙ¡Ôôé¡ÔÜ¹¡T}}(•H„Ruu¡Ô”)¡TCC(ÕÖJõ÷‡R==¡Ô5ç„Sw_N]ÛN-^N­m§¦Î§Z¦‡SsÃ©öúp*™§âuáTí”pª©!œšÑNMë§Vô„SÕøŽ¤|ðHêæ›¤†‡¤vï>’zè¡#©‡>’zä‘#©‘‘#©Ë/?’ÚºõHjõê#©]»ÞO-Yò~jûö÷S6¼ŸZ´èHjïÞ÷SkÖIÝvÛû©O]úàñÔý7O­>žÉ§îÙ}"uÃîã©ûvMûÐ‰ÔeOm~èhêÂ‡O¤~õðñTßÃGS=r"uã#ÇSó9šºwäDê¼‘ã©y#GS_~"uÖåÇS/?šÜz"µiëñÔœ­GS«VŸH­_}<Õ¼úhªw×‰Ô‚]ÇS;w}êØu4ÕµëHjé’©è’ã©[–|š´äh*¶äHjÙö©ôöã©[·Êl?šÊn?’Jm8ž:Ã©™Ž¦7IM^t<µeÑÑÔÐÞã©{¦¶í=’ê\s<uÉš£©›n;žÚsÛ©3o;š:q¬îø±ºŽÕýcÝ‘?Ö½ÿÇºcïÕýñ½º?®{÷pÝ;‡ë~ÿVÝÛoÕýî­ºÌ™‡ß¬{ëÍº7^«;ôZÝë¯Õ½úRÝ+/Õ½üRÝkë^:X÷âu£/Ôýö…ºçŸ©{î™ºgŸ©{áéºgž®{ï©º7Ÿª;øTÝÓOÕÙ%M6Q“UÐdá5™9MeT“‰h2¢&=OËSó”<9áIx"ž€Çãqx(¬e´Œ<·µ,±Œ|?Ë~ fÌ¡íxDÞ‚Zf7´àæg¶ŒðÚtìÅøòNí“`Âä/ø•Ú÷³ ýo‘ÿö.YÒ4`A³;F2Ý>Ü| _´¿/þ`òìxó£LüæäðþÖÄÍÉðÐ£Óãlò~&>œ\~ 7AþîDfmbwré~4g“!ÿ¡ä‚Ø=œì8€û­ñG’³`^&ÔIÎÈ1ñË“­_÷Å·&§~¦¯N6í‹ïJfßÅ—$3/ñ½ÉÐž…ñ5Éà5Lü¶x8£™•¸-é¿dvœMÙðœ5±!™Øo‹/‚×gd½‰E²(Ys_œMÝ~€ÎHzÛ“uÏôÅÙú‚/ý¯ðãÿhÐ6`SË3«c¤ÇÔÙ2ÒdÚ«FIÓÕèªä“¸oßgŠŸ1=îÙ'ˆ_1ž¶??'9~ '÷«â×%¿8€½û'ÇÏHþé 6>JÅ¯?€÷ì$®O¾} sÆÙäÌïNÞÿÎôøÊäž—mñÖä•O0ñÙÉóïLÇ§'7^Í‹ÏM®¸`v¼>Ù³IO$g-÷Æë’™v"Þ–´ûeñþ¤Î\ïéž•èIJ³ãì›ÞÐ]žhHVÄ¼ñ)'f%¦$kgÇÙ§‚íºÿÖþ/>ƒ›f5à–öŽ½<àVvañw!È³ÝkgƒoÝºu(3oÞÜ9³gÍœÑÞ6½uZË”É“š›³õ™tª.Y›ˆÇ¢5‘p¨º*¨¬ðû¼å·Ëé°Û¬s™ÉhÐë´µJ©Ë©D,
+ø<.‡¦H#“½¹Û2âê¡\öÉ“+Ø{{$ôœ–Ð=b¤æŸ—±tŠY~^2%ûÿKÉL±dæTIÌX’(Yá·4Ù-#‡í–xþŒˆÿªÑÞi+Ä[qÊU¸ÃÕ
+OXš´Ë-#¸ÛÒ4Ò¼qùŽ¦îF¨o¯Pµgû~´W „¨b#ûÐ^ìIáB„ð4%öˆ'ªFüöÆ¦Ÿ½‘%a„t6õôŽ´Ïèhj4X­þœ]j_2‚ì#R_¡Ê^3ÂÉŽp¯±°ÍA—ZöúŸÛqÙ-éö‰zí½=;FÈžNö2ßH¹½q¤üì“Ú
+ÿ|7h"~ö ô$85Ã{}ÃPrÙ´cÇE?/^áo™ÙazìM—YXgvhƒâX€ÚûNkÂ^FVlñ^‰´‰OôÊ+Ä
+ÅÙ¼c¢É˜}‹}
+tÕˆe)¨Í™öÂc¡/†v,A1Þ= íèÞÁ$X†ÐNÆnÙñ‚±ýõç)=¥Ž“ù±Q¶ÛNu=äOÄG|¾¯—í1nX”¥
+÷‘
+ÿÆ‘
+ûc©h¢Ú;à¡ÎD dµ²Ü¾ô@-›‘áÅ{Zbxe¾Î¢›Íyn"G5‡ÍžÈ9õx·ÄjaQ[5Âs:¥ŒZÑ´<1‚Õÿ!»¯˜bÜdÙKÑÎí®ž—\Ý;.ë„®i†!±cG³ÝÒ¼£{GÏüð»…±ïØ[Q±c¨©{¢IòÏ]jÉ\Ö¹SGBEn4Ù›ºKçÆåÚ‘á%È£\…Ó	'äC§¹º—,]Îþöôí°7º0é5B$ÓSêÞ¦½Á ”ïé†€B-3:Fö¡¥½¡X 
+r60«(h¥ÇF”ÙÔ½´ôÔH ©±ØØÝEÙºì3@¢Cù{ÃÃ¾¸Ú,#ê,WÓŽŽÞþs·¡F¿¥Ã`Ét²Ýhïèëd%ÞÎŒ”Ÿ(IWé)hÛ)=Q˜m9×É³t²“5H°4Ø’Á€¬nYqlHZ:°Mƒ·”J°±ŸÕ7¤3;™Í"ÙG³“AñZ‹á?d(ÑD;Gx§ÕÅ@Â)šŠïùI+–f	*·4õ5žFàÏ*¥K–jû÷t,/J/†'xlwNžÈ" J!€j
+Il/jY´tØûìv¡L{Û6–×…þm™eo™1¿£ÐÛ%)™ý³»b~ìT^)6¢Èv¢cÀæŽÈ³Ofo:DE9æôfï9££˜€¡L÷ä"v
+¬Öÿñ™\ÞiÈÅ>Uøù×c%*G¾Ÿß×þìþgÔ‰v@/å"ZfÏß±Cð³¼ÿaD?IÜCÜóó1ýkÓÍ—uB#
+ÃYvLA@nÔcLþÕímiù•áWYqP×ˆPD³;°4»IQ¢IŠäpin)$âPÄãrÁ ;Ëåø|Ž ny\ [qJ¢8$Ð4ÅáÀ#Dý‚—„D"»çN³›Ä4ÐË!éÓéeSXzy\°\x| ’+8B.Çç‰ø<v¯ÜŒSôÒŠ7qS¤—þeé‹ôMÓ@MrÁß) ˆG|–<_ÀR-¸BŸ/à‰ùü½v³Í£¹Ÿ ‡¡' í¥—‹TÊ-Ñ+b¹„¸lò¹üR zx$äóá€óÆç‰E" T 
+¤B­† 5üBó8|JÈF¸¬ 	!­ù„Ý³èåQÀ!Ûé… Q@" N¡ˆ­T,æI„B¡H 	EÅjÀ	-ÐKsø´°Ð@/OÈòŸûÒo“¢W‚Xqã±=*àF/Ÿ+@`y³§¸@¯DÂ—
+E"±p‚^!â€álwp4ðžÏ=©¿(½b„
+>+Ç@/ƒ ŸæQ_T
+Ð`6WAJbàªT
+œ‹%"…D$.6„CÈ6â	h)Š|	+/¼ÿ;"þ÷èU©,½@´´ 	X	óÅ¥ ô
+yBÄˆÅ FNŽB&ÊÅR‰T¢’Š%Åj„"¡DDÈá‰8°ò-	…ˆÿÒoÓê„ì¸¢•ˆ7WÀI…ÒR Ž‹b$“J€­Œ\ÌHÅ*…B¬’Ê9£“12¶)IDÐ±„+påÐLH$“ˆÅ¥ol~™À d0IX…D«0‰¹B®„1¥ —%H)c@¡J*—I5jµD+WÈ•r“R®`«‘!	#SÂp…R®Jh–ˆŒDzê{—_"ÀÛLf)« V-‚~Dž'•‹å¥ —Š¤H%—©är¥šQ W5©N¡Tªf•BÅV#GR0\*•ñDO´ƒ¼(eRæ¥W‰ÅÆ°
+IÂ~’ãIù"£”(K8Îˆ¤Q*àTëd*¥Ü ×ËŒJµZ«²iTšb5Œ‚m‰LÎËø: Y~ˆL†$¿ ½j„¬ö	z Dˆ)Ð+=^™X†´*%œj\­”^“JôÚµEzUH¦”)ä2¹‚/–óõ2™\¢T WþKÓëtÉY
+D—!èD$HørLS
+ !
+‰4j8uF¥N£4›Ê^gÐºZ=[)Ô
+µR¡Tñ¥*I¡P¡Ð Z¡„ÁøË°Ð¼>%«äì$ H)’	Ôz…¾`€«dT¦×Ái²hŒzÓjS;&“Ùà+3¾]Ñ#µN­Ó¨ÔZ‘L#²ª!@×¨•e:µÉ~AzMU5¬^¢]Hâ¦+DZ£ÊX
+Àq\‹¬&#œf»ÎlÔyœN­§Ìb¶•­eÖb5ZƒÖ Óhb…NìÐjÙU)µVmeù¯øéîT‡u¬…q^Žr9ÒJÔ"½Yc.à¸^i@NK™Ã\fs¬fc…Ç£÷[ì6§5ì°ØÙjÌH_¦7t •‰[¯7èµZ­^k/Óê¤ÞVÓ³z˜ìG*¥é¥‰Áª-ùvV†AF•	¹mV8åekYÐç3lN§ÇsÛ]l56d´-eÐj“Ôk4š`LêŒz§Åh*|A÷K'B‰Z#«ðÉA¤Q©‘ÑJLv½½@BÊÔfäuÚ½»»Ââ¶[B••e!‡ÇísÕz…o®¨ÌVf³˜Ì6Fcf*ÊÌæ2ƒÑPfôØÊÌ Ö¹àF(Ûde(EzY™½¼¬¼€ã6Uy=AoyeÈYQî¬DìµÞÊÊ*SÐ`«ñ"›ÇævÚn…Á!Ûí»Åj±[»ƒ#¿X G®¥ÕÁê5B)d2Ce‘»*m•¥ V#—Éj5ÊP¢¼º²¼!™t7Â¡hUkM0ÂV@®
+·¿Üåñ©Ê<ª„Ûíq;œv·#ìw{Øš±BhÖœrV¯$7"KYòhl*oÈ*à¸×ìCÉp5œ±LE4T9¥¡Á7%œˆÕÕÌI†ßá†‘·ÊWUáõ5Ö
+MÆç÷ûÊA^<±*Ÿÿ?|g÷¿â-\]jd%£9l6ä×¹ÕÁXy¬ŒF°W¡ÆD´!KOª®‹…fN™œ‘È¤“‹³µõl5	ˆjªU½³J7)¬
+VTø‚™š`[ó/Òu/²
+˜Ü†œv;ª4xtÕµ¾ÚR0™P•3„šëMÉDýÔp¦62§µµzv]¶~RjiS]á{®$ªŠWÅ"U¡¨ÁÖ·TW‡ªŠê@6^fkþÅBB½aV{š‰ÜN'
+½ºP]E])€„„\a45œœªklfë¢ííáŽtSãÔúÉ™æb³Cµ¡Úh(’0z¢†éáH$\UW5Õ†kØš±EìwØÃ‘Ãöûc.jÌØ8Ü=F4µ‡D~y¹ŸàÐ·‘$žómùxs´¾éÌ·ÉÖñ$s,ÉŒ'§3M}Ÿ 4›’NŽ'«‚!™Uæ´Ê¬Ã$&Pqúÿ~ã0ÝïZOî!á„aÖs Ì^=ç Vf\6	¥Ô.*k3-6šÞ47Ñ&R¶ˆ÷¥0/$„R—Ùužk§‹ê
+tŽ¾p¥GÙ÷`¥Z¥äØm‘°<®	U³wXÉQ‘æŠ*j¢lv	j\Ýœj·»šƒ/áð‰y®0æBU»šZ(«gœU4`^ƒ»ºÚÉãZ&!Î=¿Ú…ÕfI†XßöªüGœ)œ0«ú@ô'£¹hKfAÃ6êF»Ð[ˆBµÛxÄ”máöm~¡N8oÖ¶öØHŒˆµnîÔ;oÕìrRN¯&`4î4Þj¤ŒTó¶€hP´St«ˆ¥·!ÊBµSÝÔ5L=Þþ<æp×Ø±®1ø9tìP×áOà1'¿;6–fÓ¡Ý6·+f[Çnnq9˜#ÅBÌá²ÍfÓ£ò(.6^¥Tü¬,Û¸0\CÕì¶™ëÔÜ¸]ø7—Íhé_²ôŠ¹3û7;½“ž07Ö§jõV7–ÔT˜­¶ïâù‹fw\yqÿÚÑŸj*=¾úL¿z*ññärç¼yím©JÖ³àWK:çtw]yvK~ ¹ôöÜ¼œ§õÚHÀ.•_ô>Æ‰Žªl!›úªs.¾ºgù´9Üð:ýN™µ¼}†ÖX9{ÖO’šêÖlãâÅ	§!ŒÔzüç\°>O"„†ÏP
+-’pEÑw¾Eé±’@Ø-.5ºÐæ7óS2ð“”®0¾»lcÙ°_3ú£×ÞVåRÍA‘k'pšAÓ„3¢©²I†NY¿h@FË`u&5¯™7—×Ï£$ˆC*¬*cÞ…^íBétûb.‡=TŒF­)
+¥Û>£¼@q UY1˜Ž~RH„meÞ\çê³z4ŽúÏöleå–Ï_1G9•Ö*Íñ7,Åj¹ÔG?£¬â‰Nj€êç“KX:q§x@LrUâ˜Jš™ºÆŸ"‰¡OÉCº—=
+ÃD£VÈ‰¹Žò2[8Qø$šYSY‘Š84åÏ^M4KÇ4UÖŠJ‡cÿôâëŸo©¬ÌÚqã¥¹×rŸ³Ñgä”fëÚ§kÁ²bícC–/C°öq¾Ã“5U}ŒŸ•°,Ð56vøðøèèI€1<ÆœdYÆ’gçrÜl—¹"\É,Ã¢îp4…‹§2ãjH"¯¨rŠ‚âÞ:w§¿ãMÕ7E3ª7a¾ÀkuE¸¸E9Sy'q¾3Ê#â/ó+*Ö­ç.¬ghî†v‡£Ê%›ª8ƒ¤YêæîÅß Ëa4û3eÐµçâã³‹É2H‘Ã$‡d ‹u!æ§C,;'XY ‹ä`“=œª1é}ŽÐåšÜ½5vÓÎs#Á¨]›{¡Þ2ˆßg‚7mÏHùœó		hR!å'’õÙzlzAkZÇG¡rŒ«p¨ÚªV)‰{.ÎÝ9{vN¶uâ#’éÓ%Ó› Æù;ðEè&ðõ\mÆ<ŠÄ~;¿›ÿÿ-þ	>‡OŠ˜wuDÌ·,Å´Íõ/­(OžM™ÒUÀPx2Ô8;7ù§ÆT4c¡•<é$FõJ)¦P)-¦|êºøéDË5qÐ„|UAM‘)(*×”aÐD$‡zh¯3ÆŽGÚÎÏ:cÂ¡ì¹ï?f˜_ídä ËßÃý$94–ÜWO~[’¬…9¡.ÿGê&Ž¼,#Z›ét"//ÎŒ&ñh”Vë¥*µWêT¯ö©yÒOíBS‚‡yÄ2jX4¬']Šrý\E§~@Ô¯Ðs1)e¦T‚j£hJ‹ƒ®%DeÌQ]c]0@º˜oAÁBØd!]2&ZcµhÔ2‘¬Jdä¬‚”1±4÷Öe+vÜµ˜{Õy¹“¹_¯^ðè£‡fîscõ»x¶½7~â…ÜŸs™\šÞôô-¯åžÈ=þõ½˜€!,a¥í–|ž´r40fZ2Þ¬ ‹«ÌŠ€"­hS,V*8
+™‘ªÌzË¬Ž¬ÌëVgeœ¬À•Vc1Œ™Ñ“›Gµ'™QF3†Ò n˜Ãc çh»» äBfÌ*:Eû_C!V©ƒ j¢…þ'ž{é`³1´;X.Ó¨ñ…NOíÜš¥íY7Èào4Š1_žèÃDð©Ày˜Ìo_žt²®Ù­šë…Ö3rÉµ‰»#D´ÜËJ÷ùqj:‡5Tú3­”o¶¼Ó8ßÚ­4¸»ýÝëƒg†¯«¸.,ž¤žb]\î–ÇÔËÃ\Ú)¯ÆÂÓ‚“ÃœxM–ÏjÌ–SuÚlE½½&Ëd }£Ì»c ÎÇG£hyWWQ–í6NátÙK3{°Ó–Ý&P§¦¹¢6Öœº'¿Ò-Ð†^»op½Â&•è¼D~gpî¬)Ígíôé—¹6ÌÝ4|ûy—'j[ö=U;H¼qxÁ´Æù5„Y¤äeísþ|yý#K¢Ý[3Õ‘!ÛÌ€mMUSÇÒ›úœ4pcÝº;"½=åfÿBíÊüÛT-ý=˜œ×f†8F—!dhU5WªzÜ$žËïôtó<”AeŽúTaãlÃc¿´ÏÐk\aâ¯×ˆ¢ƒ/õØ³i	ëT§¢Ó<hÜ„6t‹iAt•oU”ò­„ñ¯3gC!E6“À	†ÓÍ!8u`1€}
+Œ2]£¬˜3ßŽ™Qy<®ÙEÛNÍf\†‹†@1)S8ZsŠ¡?31¸ìøFD×ug]àÔy<¦JÇÙsVÏœ7¸äöÁy_65c¢yÊöÆÌZ«Ò¿á‚¹ØrÑ32õÛsŸW¦§l—Ë<gSUUãäå×ÍŸ.¶Õškusê:jbÖI`†µM©_Üÿô_Z¸Üªß^ùbnŒµIƒùO¨»8Z°¤m¨+“è–š	³Y)Y³¶¬&‹ø|DríJ³Ü'ËƒÖ)òŒu±¼ÝºRÑmX­~ÖÌ–÷‘9|(966~¸º.Ð…´æd `ÆÆ€K²ðt¯LÉ
+OMÜ"0;†d…¶âÒäè‚ÎMº$² :ÿ5»l­L{`šæÃï®Å·áÇr—w]!oýIÈ—Æ*šú‰7º–üô<^:YÁ'gææ€\lÉ?OmåðÐ´*3U%vŠƒ™Èä¹âY™¹ýâþ¾Q•6à†Ä$q²’+†¾ŸZI%dM©Ù©Ù™ÞToæ>7ÚlOe\”yª,‹š™f¢¹…5B˜Ã£¬§ÉŒ:ºûÐZy<Ð#‡Un§æ|z¢¯í âNõ°¼`*Á,b§Ùfd»+É¢ 0\Q;y¡<å.wFõC±:˜Úº²±&ºÚ_é‰16û€r†2ñYÂ°Æ ˜,w'ÇÌ‹÷Ýç¼ääÑõKn¹3ý¶ÉàŽû3rÿö-{¯\°Î¤‰Y÷(oÁµKí³”u\%M¸†(’®ÈXýà•å¾~äq‚ÁüjG‰ô`ywfb2¥A&27;;•+”!+Ub¥Xåç5ö¸»Ù>Õ½»ŠË‰¨ò¬¬Õ¬”Â”¸l9<Æ²¥0(@·va™<Žà*2IÆàÂÔ®Qg¸%ãƒËagÖDž`ž‹˜“ûç9ýøŠEMvOË_Ÿ‘˜·Íûù?.úÕ_ç6ê8Éi·]7«õ–ÉÏîÆü^¹¸!îv,{iæÝ÷?N~yÝn2R&ª„ö­Ýµª÷®K.ÉhÎ?C=CŸDVóŒœ‘R$æ(x„"VF„6é$âZf²xª´…Y ]À,–¯”®dåb(ËƒÂ\Å2¬ÁŸmÊ´Â,ÝÕzLS4.­'ÓßÁÂÞœCKÈ‚Z,v<Ø¦QgI:¨+ìÔ¶ÛV?®¨WÃžºÌ‡×ìVäöÄ¼[ðß·<±‚Ö¯¸þ½ÜZÿo®žˆ¹]»	7ž´W%àðçyk˜t€Ýuß˜•ê§ÿtÈ¢èÆÌP§h¡~¦y–­ËÛUÓäNÑ7™›lÓ<ÍÁsm•wEÍÆ ÀëIxæ	þ! 9rKÖã	ê³`Œ¡cc"ŠGq$	hÉ²Ç2ÿ™b‡'—”eyþ¬™JƒãDRaGVÎ~¥Æê8;6Ö²¾Sñw´4,Æ˜®qY<0—æPyD´88d¬‚SkNõ8–ÒÜÂ2ìô¡Côÿ~ÛÕ$õé£—œÿ|gÐ=tM²ùºËom¬Ãøã³Â³êÂÜ™ESƒ3–4Çúk.g7¬zééÍgT®ë¬úšxË¼þ}¯¯_AošÒ¸þ²Z»=¶èâhÅøESkf]·9åŸÕpáùíQý¡ümÔvûWÊAtof›ÎêCþLþ|ÉÏrÝ€•Wkxjsý”0 ø¬NÅï´X›<K@ ñÈ$•kVçÉÊtD 8ÕF-¦Áj	Î§s;UƒÜ~S¯™[™E&Æd1Mp»UR.æ:²R•YP¥UmªÅªaWå«*™­]­ã‡ºXæv¡@Wº5 6ÔÄ8*ðÕ9!^ì\’Æ\˜¬™hIq	lãpK£	8Z‰IfÊmûšË#÷Ü´ª/6}zÇ½^õå+oÄxqî·÷Þ‡—-ØÑ>Ï³\Œ·©fÚÜ¤§¶,ž¾óº¹–šá¿bÍeg^{ë‡¹/s9jþÃ\5cRPÝ:/´ùvyƒo¡
+ve6S‰Dí¢nÑhXD3"üì}%âˆH¡InàHµ¦aŽp	°À’´öÐZæƒc(}ˆ?ÖµWpëŠ¾%ë’(‹M-Þá[F“8í’Å+*ü¤ÍG	“©B1Eî‚ŠD¢BT%öÅ€²ù¾‰êEb Ì–‘‘"ŽD)4!¾IÃøL³k}Ì÷‡ØWÃ‹Ó‡&\¥SïµrmÙÑŒoJøý	AoÍWóçv&±æÉ´€|ÜŸHøÅU"_üï/ª?o{Ã1s®{¼{)hõ!òSðlÈQã,Íd5*†Ä¤™”ŠÌ¢ ˆÙ¡õ‡X#ÆßeýjÔƒÝi›°
+ 1Ø›£`’±I¸ÿ¾³3ç×,P»«f«GØ%•ÎÎ†Üeg™Î$?Å˜»&3ôø§œÎN¯s&û¹F	ôkâÕ‡´hy¦©‘hÍ&ºDƒ¢n‡¢U„êEBŠ çq†ÁÌ	ê±/¢1|=8(ì iå“æ/æ|Ÿ®aÆ„ì*¸+­Ìa™&.‹³"{HŸî+ùëî1v6G'œ_äþiÔ9"n¼½óü=1‡³ìä“µÄuû±{äq‡§{jÏ¾.á¨±å»ËX)çÏÓaœV E™ˆOP' h3Çp¡áz³CSé:QTí¹ÑJ“³× ãyW;H^, ´ëä¾Ê†Ÿy„­cÇÁp“MnÖØ±±1K4:åƒNLâÿ2Ñª´ü@N¤,—uå©á/·®Ø˜~AS^{Ã%ó_Á“Å®¿!i_ìŸdu&ºõN{šúö.\¿dñÖ†ò¶éÍ¹ƒ/_¹¶qÕ`Syn{­7UÛõ‡ÙvžŸÿˆží´"'Ílr*ö³‰³;ˆFNœˆKâÆ~›d*3_2ŸY!YÁ(§à²ê ‡o$ô¶Æ\;åìe»”¯´©û ¥Þ36aäs	Jè´Ûôj%GKd(¡ 	ìj%ŸKKœF=EÐ¶v÷ ›°¸`]FTî7/–`‰Ï5·e¢³ÜÓëZ»ŽAgƒ‡ªM§ëÓš8;N÷ù|ñ63£¼Ñ‹$IÖáîª*ZÂ.=¡²EÑ×O£PËpM”úha£ÞÝWîûêM–¨'}lÉ%ÚLékâ¦TîÌÜG›¾/ûëü%Žèù?Å¾ ®ÓÛfhÞÅj|ÎšÜÈø”[f|	êÌ\Èì!}6ÿu€c‡q_>Â™uÍ‘òUêUž¾ÈªÚóÔû¼r“+4M=­vŽsq-Çdb¬ö =V^YC¤+#‘¹ÄâÊ¹¡9‘ÁJ~e(Fpë¢[õn}<ánROuÓæ˜5&
+ÅÚèóh‚vÇ”ñ˜: L+	%Ò1:‹.¨£t)Ü£]£à”&É±®SVÑ(s°è;9Và‰,V‚ë”_Å¼ ,pHuÑÿr‘nVÝvLxdäÆs·ûZåJ‹¸ú‹¹ý7/_{ÍùrkVû	åå‚ëº—½M¯G$5uàÇÜÕœ©îötÌðaûNÌÇeÃ¯f¼gíx-—¿:sóÂMkÛi÷‘Üf°	fv^¶øöŸŽËHþ–¥oòëñ°>P[:d~þ3jÍþ-ì²L‹KV#ÉÈÚÑy·’ƒtœ©œù’õØ	¥$j]‚&¡!?èo÷ù)¿ †ÌxÈ<lÞeÞc1¿e>aæš}Áº’Aµe×‹`H€y}8ýâx×»]ÅEØ‚-MÈNMhE¥LY“–³öä)ŠjÏXŒZÕ¬+ö~5kÎYË–'ÎŠ›|	WîÇÜ×oîÜc«š^f5ÉµZÒ’‘?È½›ûnkWw¤¬Ã[ï©°}~ëoãY¸—ó¡36–›Ýì,—ßMwƒlýSŸñFt,„%¦pÇa¥BÀ÷wúü¤?f°[l11Ã†»#JPÉŠÁèø‹£‡ÇJÒX©ß¡]…®1¡)ZÝér çÍMáC…oÊ}0eÑÚ¸À—Pðg{µß¨ÅÆ—ÿr[îŽþÜNšd¸’ŽO.ïYÇ]¡1ø’¾|ÇÀü»åó³-¼žWÆr'È$›½#w"÷áø¤ ¶¹áø&¬gg…Ëò»©§9M¨]š™%QÙ4‘ ÙaÉ.É	)QeÍÂ6áNá­BJh3³á¤îìP–)ülLÈÍ†b*‡Ì’Íd‰l•J›õ£*¦Š¨š4·–íÙÃ]ÉVpŽuïàprüElÄx±›Ga4¼Ó¥K§Ç7¿óØÐqÌ,ö:¨^.Û¥ÎRƒ
+)¹5…“ím+ëS„k¢§»Xšš	Ã‰ì¾Ý3_âËðãÏûýÉ…_äª)Ú¢½ õ÷´rºbÅœE¹—r¯vtsh¡B©ìõ–õÎ¢o®ÈêMt,3×»/ýÆ«ŒUÞIçE¹\ñòÙ2ÅÌN\Ÿ¹¾C£·°u‡s§óL“Å’04yÌ6–§å¯¥ösœ¨5gÜ2µ2&âÁØÑCˆKÅ\>°$Àå©51;2a“%ŒCL»å2zp´°²<Ê.EÀh€È¿ØAN,´Ög¸¦‘|ÂfÑ°U©é3åÊs_oØ»†x¾çÆ»%|á·Âñc>_\JFýVý¹[Ö]ý
+´ÔÆ«T(sí!¹`aE­<1Þî«­õ½Hª^ôïŽÉÕ*kåTÙíjËÿ†n­F×g†ÔB¯:.Œˆêˆ¥wóÕýÂåâÊ~Ëy•;+¥ruVHxÙJ§Å’AK–F¤þ6ÿbÿ Ÿâ]FŸ­Æwt:\©#†BìÅñcC`ìâìá¼¶ƒ/"­	Ô¬Šè*Æ™c‡O²ëW N™ïÆßí×kôkºà‰cYm„Œ‘GÿÅª¢+~š¡¸œ‰Õ-++Z´2•[—ûúûï¿{nxç‚kOzÕžZf–·~šHß·oû¥ÑÜ_jÔ~“!ò!ó%ˆ®Ü¡ÜXI8ï[›œ<¯<£ëšî^–{#wãS-3×žu\ÒC¥<jÝžð×³2q}þ!úIŽ5 k2=~?’Ô%#ÓtÓ"u#«t«"‚Ð¬*]D[ÊÎÚ:I$¦®$RD,¦6%ÂlL¦vz":_¶ªËcãe•jYV˜È´¥>XOÔ³f[À–¶µÙ(›/;}Â‰ uzøðØáñÃï€§6>Ão”õ"˜o¿À€+X?Ó}˜ù¤*ˆºð©ÅL¹ª$V •¢0q³i§ËÙ©M@B¥q:ØM’F¦G¤”]-÷ÄÔô?å:¢ååQ;OÉþ¨8ø!ŒG„:kÒ•¤·zg”m,ëÍ­ï–{«µ<+oÅÁiSZÈàÌù¹Ç”Çãå+ð]+¢ÄÚp]›7ó¶çžoŸ$vbË´é+£^)ËÓ–üQÊA¿‹jPSFIÆ\±€9&ˆÉ4Ê ±'4"$Ïb…à¢‘šúK;°”ÎÉ“ÌÉ“0Ò›GGµcãÌXaÃ/€AJ
+J§º(;pRöÒ
+aFŠ'ì?ºèË>é¹MÃãâZo<îˆ5äþže£õ×
+ÄÆmÛ|‰E3>x	û;meÔbUîXî‡æ7šµRµ>-í¬õù’ªË›^jüÏ§ÈDEŸç/
+5lå/¦ú/`|7d¼NuDÝ¤&uL ¬2Æè˜¸Ÿw€÷
+ï¼÷Õc<Ž<&±ë+ô1'°ùE-˜ÅYglŒ]°*Z¶04Y’V‰²cBÁî\qÙÌÓ©
+Zä!ù<mU½´á®‡xº¯oãÚ¾™)]çÞíñ'/µ]hMÿ3}Ò`¢%RòÌqmî¡[.{ìœM³fNÇ?|—Û1.ãH×³Š£wóWRGè¢J´*3y:žNL#ûÝÇm$üD{®›vZRÆEB®0`"dD»ãVáð,>¥–¤%tlpDH !#ì	‡…»„a ¦°¯À¢‚~<|øŽ]‰ £z·°<SX…àcYÚ°<%½\Ž¦&Š‹q3­)-MP[¯Ï}š{Ï‹ÛŒÆ¸×‰ð…÷a³ÍëIår>sFñ†6•¾q…düÛ¥ÕåÁÏÉ;ÿìK&}=‡œ÷nu'}¹~û›-íð«õSlf´¿/UÏá 3x0õ…ÿ‚7Œv±ÿ±=‡ÞB'ÐW¨ð?Êð~X¿K¿G?¢Nÿ–þ„þ+=_¯ŽQB‹„PÇx²˜WfåY˜w™CLaõe¬°"¹y´k-4~­vb} š«ËŠÍeHh/å,)E
+¯ýúø¯úüI¥žm AÌ#0wÊ¤>“®<âu›½C¸¿JT²M-Wuý¬¹…¶™=V&‡òq~KçP
+½™ÙåR×¨ÛÊZÌ‹Ë˜{ÕK5=ÚUž°ÈÀe„æªÙUÔúªáíUÛ#”_êQ6³Þ‰Ö¢´Ía’áRüÂ*îBF‰H•ßc³(…\Jè’"½X"\„T ló`›EK–A%Â*"B‘I®2ã÷§3\Kœ¼d™/øÙ¸)‡@ËôÚC¬,|½‚£‚ÒÀe“Y¯Å×…ÙáQpVØ%ÄÜA!…õ¼Ò„aÀ%+]!‡cÂd×È‹ž§³Æ^¦u”w¾\ëp{'ÕÚÔrS_«c+Ï[ÖTeÒ5­Iø«<µõwEdèêUer“»qn£©í¨rÕÏŠ‡ÜCØÆïzfíäioý îÁWíÿªëñéö2ÿ=ßà«pí±ÆÄÔÎÜ¹'r[ñV|Û•5SïŽïË%sÏ=¸ÃâK@ßœ“ßËr¤(ŠÖgZ<¯–×Æ[Ìäu{¸i^ÖÑèZÌ›íêvt»¸åÏãâq(ÊF„À-”
+c<—˜ã©Çt(Rå‰EXo&£ko&ÆnÒ‚ˆi™Q¦ä7#bé4Ë@0ÙX£|ç.§²À*„¥&¦ÈµšÂIœ²Rä9®	`†t•˜¼šaD§åÆÿF“ÜåQ‹IÌãhÛª#ÓÿþÒ6$i£4Ês>õMÆ[‰wÿtrVnÿìÜ7v³Ï{¿7õCªÒOWN[Ÿ»ô‡Ü‘Üw¾Ù[ð˜Ò·5ºÖŸ9˜›Äú×ëó¿åˆ@ŸJavg¦è¯Ü©vê½e4G«ÒFxÅDy„6Š„µRktòò&åTãe§±O9`cðÀ(¤ÒÔ µ‹¢(Ÿ¥>þ¯wŒ5lÇÒ¥MOvÉ[!/nz’»ê9a…°ß
+¶Ü'£oúÏÅSöÜóÔ{?}wÿî—¼úÍ-¿ZÙ_wß~lÄó±'®¾1·?wwîóÜô‚oOä¾~~ÓßÁ²/{ºØõæ?#ÇÀ*+C~Ô™‰»œå¾jwâ
++œ1ûÁBLC´”ãòX·#c°‚†Œ¡ÝÀ1TÚ“KÛÁ:­`XSŠµ¥XM
+7]…©¦JædÑÒv@Á]e'ÀÓÌMÒÆgUSZ¿Å»‹xa·'¾©HÓbÙ8÷‰=#OÝûk“–P­¹wÝ–³‰ñu¹=Ñ¨»®EjÝ¼ciE‡H Ø¼ã…¯ÚNê)ê@îñœ®[†fL…V¶æ¦rÞ…~Ó¢*twf•Ùî2ìóbû #W`¹\æ÷ú+¼
+{¥“#1ü’P ’öZÓ(¡kC¤.&"¬1ZX½Bu^è§‚©t:«C•1dº’1ÅÌ<à¥a¸ñžãÑ<_u]ò4ç”•ü +ýìÖ|W±›e0@­L/ìt”V?ŠÊ„5'8v’1N‡Õ¢ 	 Í¸°àa9%§–ÄÆíâ¬ñ?ÿå}wç~Ÿ‹b¦ðR¼ñù;sO½¿ÕU7îÌ}qðõûî·iÊóõž séflÚ´#7õ#øà¾¿ûì«Üù¹Ç>zeÃ[^Ïyû‰§r_Ù»_vo?ÜÚ÷O¸üÉÃ¬ÄlÈ£^çÐÈƒ’è¹Ì%Ó
+KÖd‹wm¶c…©ÏÒçè‹¬¬åù(G/9ÅVï ©ž_'Zâsl„-^!$¥eÒ¸,7¦É°+i#WØÞ¬Žñ1F‚¸¥—¥@']Øâ
+º2®vW·‹vI© ÍñVˆTYy¶"¦¥mÒÅÒA)-õÕÕ7M,}³øÎaÐÎà2–ÖwBé$3Hw”Àö/`q§9Íø_6«¼ôUðZCö¨â2“›ý‘âê‰eqTªßeÍ=–[É£ã¬cäQX\Ù¿]²_³cðn½Q_7>ÿjW¬’ÔJóçÅ‚‘[®Zð¤µ£/úkkým8Þ¶¯Zz9÷Eh…¬ú¹W¯ß°¨êž'-oŠöŠ6M´ŸùÑh®Ž¹/=k;w^‰.§ƒ"hM¦Õ›eÛ¿RÚç¡LÍwñË¥åŠº G&³u“˜äg«Í6`j5·†¯Òª6Ó$\Y©* T‘ªAðãb,Î¢J¦’¨Œ²›2]£ìÖôáC ƒN‚CÄîë³»qì×lQ×ÙŸ,îFOøIÀ½‰=¸	CˆUÞâZ_•3ä™sûMÜ¿sÓ£·^þêóoôœ}û|ÏËÑ›W]½åã­>ûÓ×ÿúïÞHlš!–{Ã–)iš“žqÝ£W]jõe;|˜hi]3Ë&ÊÎ[Ï—ŸÓ<8±>ÿ#ýýp"•ñ05¦,­ 2¡[m»BØö„èÈfet™ºMC¦aÓ.m
+”6œ1‡Š†mÉ;æÚaF.x0¥eÆ¢­N`Ö›Ylza®`ÛÓ3§ÞxíôI¤V-Qk=X£%Ù<C_°oîM%¿M¶â@«/‘ ¾	ñŽÜ«¹ã{ì—;«b~iRZ5Z½“X{6¶¨¦—›í$Áˆhu­ßWm»)ÿ½š>ŽlhJ&Òze,"¥Ì…²&ÙlO–EB»+äËmgÉHIŒg×ÄÊMqÓir·œYÌ.ML&¤K6ñõ‰Œ±ZdáÈ©•hŒ<uî•ÎµH9‘®~!¾ïÄjc´{öíÂúóð¹—Í]à˜rßøcã·“?¹’Ie*¼¤|Ö¬òž4_‘¡+é<r M™6µÎ¥#ø$ß@è8F¢™µÌt•¸`«u*1A+<¡ÓB(ˆŒ 2¤ÔHvÔ¢´;ì½vÒn–¤oII©Ï9}Å©°È˜c²‰•c=k¦—L0Va²^(—[üÂÒMä„xjXSŸZù£õ)÷´Ü7´%ÑjÞtu[­ÅT>Míìî^ÀÁ¢9ñŒµÂ“¦tõ/>;9‰Z¬x+Sa2Ì|8÷`î²Ü7ñîwWOóÔùØÿ||i~/H²è³Ì*«Í:•š*^YP· µ‚âõ¥7ÔmTKhÈ*ÊÏÏ°p¨Ì:v™½>”ŽÔ±Ì©wˆ=ü—ª¢Å”t]4[Öavñ%^
+)LDœðJÐ ðD<©X¤?BµDÝµ´Î¬2@=~ÊÑPxšSKYªø•Ã`ieZkð5Îö_\æØ!½öØ1½îð±´¡!g·_Y'H_0sÿeåžnæ²»‚„›àÜÒ ‰¸IY\AcU€¢F1aêªÙ¨™øêIJ°=Dï¬´{*µÙ¬³£]äqT^d^]¿›;Po—Gkk{V®¨·ÍŸÓlr8•Á¹¾"t›¼ŽDŸÅÍý¡¼×Ñ­/óoºæ7ñ¹Ç?Îýp­FÝ³é<üùøMµ¼k’ãÇò¹æqïg›47÷ÔŸäÎÄ„³ìÖõÑ^Ù¬UŽWžù§,«QóÒ[hö/Þ›ÙÖî]èWu{WÖ‘ë¨Mœ3+7w„Ëñbi—b±ª½r5ÝÏ”®Vôù½‚^ýJçê0U¦ +)F,ÔkªÑ!iWµ—Ï­ì¥û+9³iœ¥§I§–Õ—7UNr(ZAÛé0]UNÓe…'ÃN½ =ŒÃÝz¬¯)|ÍÈ~¤‰×Ú®®®Â>ùqÑ-Zì‡!\Å©oX]ŸÚÑÅ¬rÚ^™†Ý+aÅ~é…“7OÉ=¿ßPçuY§¶_¸;wï«§<¥ßÏ\sîúæ¤7á›³½|öËN~ÐPž¢›n8°|Rî™g7Ya>27ŸõÆ‡¹3Þ°¦¼Ë+xßUWï^Tm¯,Ï<V7tñ%8…#)/»ÊgÊÿšzøéG—ft»ÍÝÖn;±¯n0ží¢¤RÆîrIìR£ªàÂq%ÈUP\	-eSh	×e7ª-Õ{¤>WÀÞI%\ñ5• Ç>¯¢ÿ¿}ê˜nÕëŽÓ²Œcí)v/IR°¦ºŠëSà†I‰	&¹NûÐ–è‹[RÔÕZÏƒ½›#Ö˜;³èœ}‘Š]:iÚSem_akñZW}ìn2Ö{ÒTÞÕ–›÷å¾ã«	Ÿmß‡Ÿ^°ö–÷*_màÜÝñsfí"*›v5Æü•E9;D÷Ó£º(3óMÓ›æã¦ãfªÂ«Z.3’f<ŸýŽ‰œÇFLF‰ißì°Æ‚^‚Ë‰iø1™F£†ÍÇ!1WâÒI"ÀŽj/<eÆÏ6'G{©àG$a
+€I<=:~øÅÒ(FÌ'ÌæƒÚÂ@»øâœØö/.S…â(–GiëÄ¶qaÖs„,À›¯/zü“Üm:-¾ Ñöô’°•U˜Ö›®¿õúu©•xàøs¹Ûs«„>ÁŠë´&,kjÅ¡éSZø+˜±Ë"‰˜ðf¹Ò¾†Þkð÷Ø}‡’\Ö¨–˜”=çåî¡}ù¥ˆA¦ŒHÈã2<©„”Ê¹2æEfŽUW‡Bûg6‡%0Â~K…œ*òÐ¤ÜÉI¹¬f¡ºïê„u“p[îàIRÈ{ìÖPþò;JYø?é™Ÿ[îŽ»7¹/qÓ×“TÄú¡›¸˜+I8ý†~/á-.+ÛXÆî\XcefMZC×ä5„&ÌîZ;ZøP•]=ÃiŒkbâ£•â'²0*98\üB…54ÉpM´ò'¾ðäõŠê
+u÷•UŸ¯ìÃ­ŸÎ[u±R ÄX.ˆpNì;¡Ðanúpýúî¬£ÞÒà/·„#ÛÏÅèkÜQk3¨\_|îdÿv¹]æ	Oøúâ
+ùø]wÞiWÄ1Ÿµ×oÈ¿K-æ¸af®A‹2Y¯ÓL8#Á)¨¹¬qƒ1äŒ•cF•h.XÞC¬<f¤·
+HA(Önë¶ÈÆ€åÎÄ,±`ŒŒ1]Ðz¶ñc(ÝÍe?Vlü)û©hKO|ê*ÅÞ^áã]).»Òß4‹nØl©tEh!¡³&Z$1owÓ.Ü’{ÿ±™s½ýÆÁy©Ö+~Ý2Ã›F<ú~ý
+|ÏŠ)øº©É`Ý<IäH¾¶ö®›>:™{¼¨R3í¡›ïTÛ¯_Mï*¶KóÏ“¯Pnäf¿ƒå+›­ÿWWWÝÄu®çÎŒFÛHí‹µZûbI–eilÙ’LÀØ€16`†Û	`›@BÉ±YË’ÄnÓ4M‚	Y›&æ¤&ÍKJ¡}nš&¥Ð„®§„t{¯¯­åwïH6´GèHÖ1öÜ;ÿþ}ß5a322— &hSµ×)™ŠYLìPÝ#Ì	¡cÛÉõäI´Õ‘vt8ÃŽQÇ˜ƒ9‡Õv/¢ŸL\ËÞš%qfgMà.5Ü<†Ÿ–¦ÀÌoºüØðß[»ãTÄiò«¬ï\¹¢eUíV³Ä;} µë¡Ÿ~ôÉWÁÄRWÂ.½þ\ÿþÆyÖ$“pÕÕVÁ;»aú'd#U‰Y`W»!ñZ]®
+kÌ•q-umwéVVíb…R5eÄ¤âyöevÜÎZÀ¢Qà
+±®Äü&¦•%ì0ðæ²Ž2œ)—])#Ê˜l, o2—.ÁÍU‘)f"‹'ŸÈ'žæ†¢¨"«ÁÃŽÅÝ)¤ƒ¶à¬3iš¦åÊ£ƒ¢Ï·¦VK•’…+sÆçŸcgKeñèã wí!î?z4wá©Ð]Q;øÄ5ØÚÏqÌÏi[s('þÁ{¿kQÔH/mÝ¾h²íeˆÉKªá¸±«é—2‚ZEsbs+Ó+ßnîµ‹•êGícò	ù¤œ™'Ê0óìµŽ¥‚Vf™}©£“Yç	0µÈ)r3>³ÛcÊ]¼.;Ì:r)©·²½ŠÅ&ÖËU1×¾BÔ/?(?Kžµóåp7I4È!,d9@ž#¯Ó$EºX¯qÌxÑxÕH;hÀÐaº—¢‡¼<£q:ìíõ^ôYØYõížÈê¦7]Êö¡D?…dÚ;ü·ZGáqTà»x(zÇ¡û|þø©=ýúl÷Þ¾È7s±ÏõÌÍn¯uÛãN½ØÿM({mAk°o÷¯ 9v‘;Ô¹ØÑøÚ’ƒms¹½§¹–zçÝ#Ëkšó˜Hñ•ÂJ`Ùlb4KP„Ã‹U`]ž./‰±>¬IÕ®êQ¨†T#ªsªq•@Äø¿—Oði«Øô¿S^'6nºbºmâ›°Â³ˆ»pë2rŒÙýqVÛqf2?CáœàP—ÜÕ‰Án“sy(f‹HÂÿgñBddañÊ·¼Ñ[‰«‰Ý¶®smhÝxmˆ·'7–¤;ë¤!»™ü{õ»›šË=ú¡S@ŠEkÖñ¶ã—Ýk:UNýø3‰Äã1l8Ý­PÍQáN^])Vµš×ªÖ»JU£*¾Fî’»ÌÎ°µ4&™ËÃáÒ:~Æ¼XÕ”0,_²Z·›5kÍ” ±ŸµB†”¡É@¶C†sÒ b£¬é€zY ãèÇÐ t·ÜBÀmˆù½Ž{^Måk=XºÌðAóÓNŽÑGžÇÙ†-Rh·ïÒŒÅQ‚!ÞÓRö’u~ñðŠ=ËÏ¯¿X&bÇ;^ûâÌ(Pe÷Ø6«µ¹·ßÝ˜½÷Þ®öVZ­ó´‚s¹±¾¹ «Ð7µÙqâþ©ÎÎÿ½¤Ï¾[ç=pìÛþúá#÷uo¸ç·3Æu}ï‘1jV…=œî¤%xD)ŽD"™ðâÈ€lH6"ÉÄ˜R)fÃ”“ËJX™4Ûk%œÎîœqÜxÝxÛ(2âl¥‰ž‹^‰^’Q&N¦“ÍÉŽdor09œM^L^MŠ“èF=|ÞgàæA§¹b¸ÑòLöÍçµef­(”±Ù2·c–BJ²àùJš¸:UË¼ÕemVcÂ›
+‚à++}‹¥ð°øíî³É %PIUdU²qñ×g›ß»?q6·/“d=R³~Ç1üú.ÙÊR_|ùš…Ý÷m¹wù½[îi|uüê¶69íEœÑÓÿã¼O11fÇ–¦c‹™fÊê;›ä sØ9ê$„,¡SéX™Íâ9SÎ'i¡Çi¼™€!Ä‰ROaàŠæ­hªHˆá˜€w‰Šˆ‚üÒõè+¨g2áðÜ¹Ðïþ8_÷ûã°¾«‡kÑó_“U·«,€/«~u	Ë–¬ÎýÃ§¿œú>Ìû^¿[’f›arÄá"¬Åáât1Qìa‹0Õá +”±j­…f1-£µjÃÚ´¶YÛ¡íÕj…Ú’<ß]87§øQ¥OxñÙ»ú˜pïµE€‹Ä¿3åÁÃ„áJXèâZÜV´dÅÞŸ¦SžDšñ¸Ëù§ÚZT¨öîmàsÜY1L]œ:y¨o'h(R{**NGæD =?3ý32JÕbQl"ý˜g7ò?,!‰ø¿äÇE˜ŒÆoc·éilš&<ãØ8ý#ì
+}»NóC%%|¾½Äu !ða<Ä[†ú›p¨Äeçóø¸ÆEv›	}ÍÃ)ëPl$v.6»»£b°ŽOG@D*g‹­6-«bMÅ|!Û„Èså-…ž=;599yÁð·˜i2›oÚaó3y™ãæ{˜V ¢Âb@ŠÌÍ(pgÙ4ï"(mìNA{J´ç?Œ›£Ýç+ûÅq—V(D†!âóðG÷üÂær§L;_ýôTÊ[ÙuðOÁ%gŽ–°.KN‚'JúK•wsï¾üòÆ]_'½Å¶ágs?ûqÊƒÐ¥—§
+ŽRu˜«Nd</ÄKñšxí¼šx2Œ`ù–Ï†åÍò^ù¸œ”§Ôj\Íy=‡T†ÐÂ ‘9ÖÃéñÀc2hùZhí:¡ÈÉšNu®ß~½ãiðõ§;;ŸÎuÃß¿cz?ïwd+Öˆ}šþ6ô©ÚòTym“$SÛZÛmê)^_»½V–„kêLm&’‘05V‰µ†²µ&6¥ö‹1ñ‚r*EÕÂY¢c%˜0ð:;äÃòQùEùUù¹@žÁY¬×ÖÕ_¬¿Z£þ«z~=ÅÊ2 ËX2éL{f$s.3ž¹’¹ž¹eŠ«Øb3ak8îóÂØBëÂðÂôÂŽ…½Ç~µP€Ò&âÊ÷Á¸—íÓÝÚÍè~‘åò3ÅUf7ÿŠÂ§”›	D¡ä„m‡Rs#ÃÎÒã¤gðSyaÒYqæÉO±‚ƒ)5oïb©BQ,Ò{œ]f@™•ÈJÍ™ùÛ»FYííÓ(×»kDxôÃyO%â'×>WM›Œ¢jÉ²{? ±¹sV¤*í«Wçþöô†@EE`øùŽM	ëüý:wÕXó=:/@Õ—Uå“±/j=Êfu÷æ—ž¬«{Õñ·s=Þ³]Óo_’µXVï	Áâ`$øMµK{¤Ò!é9é¸”b|!iJÚ$m—vø†¤|L¬³"ÖçP
+ÖÇšG`a‚óØr,ÂH€2|Nf9j%–š@r×›…ý»2ç<ÿBgù}Ró9Òq°Ul”ò›{×¯ŠÂŽŽû1‰‰_á[%$ž??šò“À_1oõgÛÖ1~òðŽ·Ü‰HÈü ¹|Ù ¶l°î±úãm»ñÄê7»²Krÿ·8€òÅ‚éKÄI	&ÃLXOº¥[/À3Ò•T‹4«hÕ´¶	ûÇMB/ãÒU01]FÇcXš¡  ºÕÜu
+:"£8"ÀU°­…*AÙ&`4 ‡,À2ÛÐe¹Ñ6ôoÆäÊ— wÙuGhWàøó;ð©ÿÇDßà×.®išÓ¶±a)OšØuð÷Ÿ¿øÑÇ®þò©WˆÝà‰¾Ã‡}­±eìC5×So_‘0F°–t¬Î‘	´9Z¤ƒ5*Œ£0#%”ŠõjÂçmø‡Ù´µÙÚa%0+cµZ	+×…ÃËžš˜@ì¤	BÐ`˜Ì_zá¦”Ã xÿnÜiJÔ³º¡hçƒ8²o‚ es…»œàá­£u—Û¶î|tU}ù"É–-»çT´Ù­¹b”Á0úìÕæ•&â¡ÎbH$^¾õÉãÇˆu^Ó‚/þáË.ÚûúkhµUS“Ä9Ò‹™±¶2ÔÛZ¼^ÂÍJ}ÁÊà¦ d5”ÒPRÊž±7x	+oS€mæ€‹1i²³MŠvE‚P„Qæ„‹F¹ó&Òx¤`Ú‡•4×Ta&˜Â©Y/¢Í³8œˆ•ˆE€r»ˆ'‚úX`E$ÊVû§?ûm`ý6O"÷Æ›«ç7=ÞRU$¹Á_
+°]¯õ\Óöíø8Ï¿Žû]ioîç¿³Þýííõ‹I¢³H€˜ORÜdüâi†k^•fu˜áúÄÃ'Y+Ìx3‚–ÏÄèÄô~¹…	1)¦‰igzŠñ[òÐ¿"(çåÇ[Sï3ó›ÔäåËr$™â2Û\U‰T‚\L++¬YEçg[	âéö¶¾n9oùZpñ‹šñ/v¯S–µ(35û¦~ÑÕ…¿kÛoë:ûVÿÎ(ªj½ÓÄ0¹v=ÓÇBžÍ¼’JxPuŠO} “ÞäÜìºÇó }¿sŸó¨SZÄyB˜ŸòÂz„÷êO"ÓB²ˆ&0€£?×YÚ\Š—RV}Z?¨Ö“z«W:¥1i›o“ïÍqE!ÒÎJ£ÖMÇ;âƒq"®éðÌÇø¬¾°¯×7í£|•½	€Ô=(\ËN"{Ÿš@ƒ{Ž;‘Mõ]ÎrÙüà3ÏŸç”Swp¹ÿP&Æñ˜#>SÀxŒkdâ†'¿Ì¦ßô>óÄ¶û8òXJu-_¶¤³ïn|˜]t©
+*¼a\'p§a±²,½ZÌóÎïþÁ3Kjl§§*¬•Ñ*SêÑ°Öäfû~ÜVÔ`P°%¦^S	Šî5Ó‰ƒ¼m°ßÜž^î”³<VOÉ`@‰ƒCêAÿˆzØO†Õ)ZÝäoV·û;Ô=þu¯_äŠ§~ÊÉêå|–á±˜œ‘[aÅ0&çÉ¿
+&d¥C½¡ÑÐXèFˆŸÍÎà~·n27QŒûk(›ºukb†Ó¦´ ManEæÂÚ;½‚Ì*”=ê
+µ¶O	 ¹Å“ TuÇÛb¾Ÿ+}+dv)6Z«ãD)›:(û,êvtáó	)½,P)/ûŽË?êŒV&‘ª>À±ezŒ¸Bú° Öœ.ËŠd~YBM@"KÄ!?¥¥V+W(ÒëRN6…Nú
+°˜€Aå°™6€C
+næJ1“¶ÜÜ-wãwÎÚ@’sn”0ùÄÛ8¿Ò·@½û™}­í
+·YºÈ_iÒhliË#Ç®·ú+q|þüÜùš¼½¦2½¯<vnYÜü°ü¹/ç+”þÞûddëC˜œþ„ø´bzì­ô¡&é˜Ç¤^EúI?o%¹™Ü¨ï'û¥“ŒÍM¶3;ôd‹’aiT¿SúgU/m§Úí’‘¦¥ÒÏ¥$&Õ+NP#%%§QÑ+¤ŠÄø¸XEÁ_	ßRB¯Å´ KÃÊ¹I0¦ÅÚ^Á  øCEÀ0‡«¤³Jd²×àCŽÐ.DèÒ¥&òãñ,È·Ý¥°ñv¢}ƒ‚Ì Z(¤àË‰åu¶S¯ˆ’Þ*C®á¾¢JK…7ùltU+8>2¨¼•ÕSsGA¸ùHºÒãÊõ£iœ~™7‡”ceÀ”þù1ÉÅåÛ1×17%ö·ùm'mÇ'Ü'ýè$Õ,B<«xMqIqS|Ã~ÃMõº·z)ÙÙÏØ)‹]åÙnòºæºîº‰¨Õ¤uiS3Ö\Ò¡Ú-šf]³‰´IìbtTÄ?^‚qolJ“†Û9¿À-ÞƒÞ”øÝ°%Ñ(%bŽIœò"*D9)F,Gá§„Nb·Áo-Á1"â§m:¬¼¹·"ÔÁaÃÒ¤k×õèzuWu<?Z=÷Ž¦+;#ôa®!€‘Óvqè¢¶ÀüJÍÂŠpËa/½2náhÞ°ê(Ha	1², ‰h«¨Ð¹ðØ…{Œ5öª-Õ*µmñI‰Þ<§qžÃ¡“$|
+‰@–èyÀ¶¸Éhp{,u{eó|Ib ÷Ý\×ÊŽr€Ië±ëã¹u.U%N€’3@xbEµ/¾$±ìh.¢àHÏ®mù×€ÁmÕô×o«§'¡Ñ.‚™üíôáMt—nëQâ ý$ñ¢‹ïpFµÎg§£Ó¹³ˆß+º¯hPôPÑi|Xtš‘Q±ž±¿¿^ôþ-ÛTÔÜ÷Óý²­ÞC²ýÞ¢Ó2ÑãÄ>zŸù3ú¶à¦“ÚEÜOßo&è"NÊí¹Ÿ²SE4üBåŠx2¯7‚7¬À:¨VªU˜ãaeaf@=Áeôàà1XåDÎÀÑXIÀ~HÜÇÐ¤ä.ll6'‹¼2ú*—Ë²êwßOôY®„Þ˜˜«ùé¾¦„«Â™xà¥‰~¿5à®"V<v>×jµ¸«œ›Aé•÷:ªÜ«3Z­½þN_´ØãIž¾ýêý5¡JWÓÿšz‡ÄH%ÊtC³è1!fÆ+èa¯ð+áÿˆyis‡çÎbT‰EbF’¬H¯‰ôÅT¬L¬’ÉÄE”‚¢`¼’	…2³yÀd¡,:< Ñ­B¨B: ú»
+¾êü0ˆ°AéÄBëÃ‚pS„ ŸÜ+Á¬ÁÍÒDü%wv°vŽ!í«þ$wº¤(åê_øþ±æzkÔ›"vM©r·ß|o~ÜÛ	®ãçë‚oÒþÇ\#h»°—­ôhPèŸ¾@20*±éŽ!rÐ8BÏ‘£ÆqrÌ(0Fl7rTƒP™)a\¦1ZÍq¿ÇI‘pyq8„úDæ4TbåÊh€G‡t)]Þy::}³DçèPwÁ,‚9náîK:f2µû}Ý¥©‰÷NÆ(ç˜üÜpZBþ„;:‘<è w*Máb¢íÐ7ººO»ñx ¾üêC5³&x ìáªcO¶Å¼¥ï—Õ¦v)áÝüÑ×òÌÖì%—F‚h%­„V™Y„NZ“;+©yÓ
+Œ‡Îâ0l	ý’þc³ç™ÍeZp^pD-ç®K«>ðN+¾4¡G©m?¿­ÑdT;‚4ï¯L¿C~Š}þltja4­W¬”·bÆ¸¶ù“%ÕŒEï·-h(lÛÇ×>žš9ûçÖ$|Ì :…´³¸ÀÓT¼Ùwäf§©˜Âek§~¹fMÇÔ?×¬Y“P¨í²Rñ¼Æa¢¾¦þ×³l=òÿWq
+endstream
+endobj
+360 0 obj
+<</Type /FontDescriptor
+/FontName /AAAAAA+ComicSansMS
+/Flags 4
+/Ascent 1102.05078
+/Descent -291.50391
+/StemV 61.035156
+/CapHeight 389.16016
+/ItalicAngle 0
+/FontBBox [-92.773438 -312.01172 1186.52344 1102.05078]
+/FontFile2 359 0 R>>
+endobj
+361 0 obj
+<</Type /Font
+/FontDescriptor 360 0 R
+/BaseFont /AAAAAA+ComicSansMS
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo <</Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0>>
+/W [3 [298.82813 0 424.31641 0 0 820.3125 0 388.18359 366.21094 366.21094 0 480.46875 276.85547 416.50391 249.02344 511.71875 610.35156 450.19531] 21 28 610.35156 29 30 298.82813 32 [510.25391 381.34766 523.92578 0 731.44531 630.37109 602.53906 721.67969 624.51172 606.93359 679.6875 768.06641 546.38672 665.03906 610.83984 550.78125 882.8125 796.875 798.33984 520.50781 876.46484 628.41797 693.35938 679.6875 736.81641 649.90234 1039.55078 723.63281 635.25391 693.35938] 66 [626.95313 0 511.71875 593.26172 513.67188 587.40234 547.85156 508.30078 530.76172 577.63672 280.27344 403.32031 540.03906 273.92578 776.85547 523.4375 525.87891 534.66797 520.01953 480.46875 486.81641 471.19141 520.01953 486.32813 684.08203 590.33203 520.50781 538.08594 0 421.38672] 171 [675.29297]]
+/DW 500>>
+endobj
+362 0 obj
+<</Filter /FlateDecode
+/Length 303>> stream
+xœ]‘ÍjÃ0Çï~
+»C‰ã6í!Ð¦+ä°–íR[é‹c÷·Ÿ-õfHÄOÒ_RV7‡ÆšÀ³?ªïÕ¦ñâðœe¹äÚ¨p%ü«¡s,‹âvžíGV–œgŸ1:?óÅN'xbÙ»×à=óÅwÝFn/ÎýÂ 6pÁªŠkèc¥×Î½uðeËFÇ¸	ó2j_³.‘sšF&×)ð=+E|/ñU¬þßêÔ«ŸÎcö*f!E…TI¢g¢i-‘Š#R4‰¶5ÒnI
+¹Áž×êÅ­×c´ŠDMu·Ôå)'#÷è”â6H2«9×7JfÓXä,È¹É¯PÏ´€t¨ûvÕÅû¸X¼&n4íÒX¸Ü.©Ò÷îhšé
+endstream
+endobj
+4 0 obj
+<</Type /Font
+/Subtype /Type0
+/BaseFont /AAAAAA+ComicSansMS
+/Encoding /Identity-H
+/DescendantFonts [361 0 R]
+/ToUnicode 362 0 R>>
+endobj
+363 0 obj
+<</Length1 14220
+/Filter /FlateDecode
+/Length 8364>> stream
+xœí›y|U¶øO-]U½WzKgëtÒÕµÓÙ“NBÒ$é$$ !	$l	‹(
+&"¸Pdtx:à‚.42(n#‰£(êH@ÆqD4ã‚8NºÞ©ê*|3ïó~ý¦ªû[·êÞ:÷ÞsÎ=÷Þ&  F™Õ•þ*bÑ@jðiQuÃäF0ƒ
+€(Á{MuãôòEý+Öã}3Þ['7z²«„_-Çòwá}SSåÄf¢íÌ7 f@ýÌœÅ=$MœÄüÌŸ6gå
+{Vƒú¼Ç2pçÜžy‹7|åÐÙ˜Só:–÷@(Q¾TžŸ·hÕÜ›IÕ& ûA Ë‘ù‹¯þpÛâ8+–çæwut¾wç=ø.2 >>ˆd±íD ï…ù‹W\½DdýXö~|¶bQ÷œŽyËaYj#æ?·¸ãêbéÆ¼¼·/éXÜ³:ï E®ô¬§{ùŠàYØƒé-R~Ï²®ž›aG*Kjß_@ÒJ>¥ƒHL¢ˆéPžObQÇŠ%˜:¤ç­°Xè–çÁ’6À·ò[T¨XðK©Þ1|ŸûÃÈ#(Ü%ÆßUž%þøh•Ÿ( Þy¬sC›¾äD‡*$9{¦t}¥ÞÑ)ÆŒlUžàþ€e•ØŠÚ¦	§Ilaè™Oœx†'•Pœ3‘—ãI„KRa	4HúÑÉú` Êñ~\«P3¾ï€EÒ½xê‡óŸzBPß’ÏaO8ÅvEÞ:CWj'ì!Wª8J¯$)Š$I:ÜöÇÄF»ìXÓ*fîÈ«’ÆÈéè&;B¹L9~-}i;d‹GÅoÅçÄñèÈøâKXlÃzVc¹Ç´B¨yFÂÉÄ,x‰ì§ï!µÔÝ€c ‰YÄ!ª>¼ô›—<L?{ÿç¡NbÁ¿}¾F–’·QµŒ¡»œ¢[>w3³™a¶€ÝËp›¹å½ªhÕZµÏ._KOV_éI.KžœÜ–Ü¬ðžTÒÁùÈ-D¯°YØ!P?QãOPùíœ?žñÛhé4gå,œ‰3p<§ã4œŠã8†£9’Cªœu³íoÕ”™…£œê nZ¹õi qý&KÚOë…Äò½á_`À´æ€¯½¥ÒZNÄÕøÆæ@G\K] ·×å-X¬±œ¨khÞËá]Åå¡ë>R­2T4·Ç$´”Ë—/Ù‰EßGo§1VA'<Nw†Ó$¶|K8MA6Ì
+§i (œV`y{8Í`
+ £Âb+s GÈô§‰˜rãˆéÆñÒ	MÐËðé¼_‚oäAdâÙñ£7íÞµËoÛ/¼=QÎ_†wËñ;V`ÞØï¾1z½´ô‡ñš-·!_~2vË Gf>	µ=sÆ£ìEx]†ÏæÁ|Ì[.ßuáUêçJd'dàðîû_Œ%ù ®†“ÿÛwîP¨aÝXÏ'ôü¿¨ïÇ½
+é`&½²èUà¡#ÀA—ÞÈRØ0Z–Ì‚™˜FgB%‡å«a2&ê$4R§!—„(¼Ï£>‹bú¦$z#Î¿ømW²Š‹*³IŒLöR-V„œÜHVJÐ4­  *îßÏ™'e3
+ü(”Oq£•)X|M­d.jÊ˜ØÿA>ËÈ‡$_)%P:£àP¾æ_“’¬¼”|–eðÃ°äË‡ÍÒª.R*3¦€|Õ%åsx²,‡Ê¥U˜ºÃ2J”¯SÿKòC-W_J>‡ò¹°|5;z¨°YzÍEJÛGBò5cæIò•xrœR’¯Á„ÜY>ÿ¯ÉWý¼|¥ŠSb£ò¥ºðPc³"´mlù!Íh/-_©R)•*t…V‰‡ÔNƒòº‹äíƒ!ùºKÉW©•j©
+I¾ëQÊ½Ñ`·ú‹œblù!Íè/%_­VáG¥–äëU*©/X‰›eâ/’?¶kÿù•«Ð ó)x¹*©7:”oæ/rºŸ“Ï_J¾F£Æ,ŸáÕj¹5Ê×€%â"ùc¡æ#.)_«ÖbZI~„FªJR˜åG.rº±å‡4c¸”|­N£ÓjBòšP5Ý¶ÿïäkuèÜ¬Q«Õjd…Iò}uf4M¯ñWV”÷••Ž+).òäçåædgez2Üéi©)ÉI.§àHL°ÇÛâbc¢£¬‘³Éhˆàõ(ý’cM‘¤ûUíö€«=@»55néÞÑ:~ô =`ÇGU?-°·ËÅì?-éÃ’s/*é•ô](Iðö(q§Ûý{àh¥Ã~€˜9¥Ó›*-öÀ°œž(§i—|£Å›„|Ãî·Î¯´ˆv»?Pµr~¿¿½åíU«*]*w:ìU©1©ÆT ÙÑ³—H.%ä™ì/Ú‹K@-¶*î¨ôÒ•R”ÓßÑh˜Òì¯ŒIHhq§ˆŠ9ŽÙp”ôir¨«	0V®Æ¾@êl°ïM?Ø¿ñ ³ÛÓ4ŽÎŽË›TG‹TGDZ ÅQH¹æ#«;ý ñ ®v•\õ>ébßÞ´¾ÊÊ,ÙOùûûoúiqwzÝÔælÃ¿Ñ.5pj³Ü6,NX=(½ëG]ØËG„z¼W§'4Ú'º.äÉ)¹¸”Â:F»LHµ8& ©ö9¸4ŸÚìÎB	]…Ð?§‹áÑB`Ý°íý|‘¤…“wØûÏÄ1üùOŸt„Ÿ0NþHIÉlLù£é@ZZ 5U²[*Æ–•Ê÷yîô•·£‡·Ü~lTC3¾ÔRäA%$HÚÞpÀ³ñ&Ð7¥9to‡Ù1O€Ï“Ö Û¥œƒ£9æéRNßhÎ…×ÛèV¿‘7«æ çºðÑó£~Q€°üLvW(ÝØoßK+œýÍ®Žþ1®öþ-hš*ýýU{U{Ç±o¶ÃÎ;ú÷ºÝý=þöÑ.nˆ	ø6¶Ì'P©œ6ü{ø³r¾5Ð7ÛŽy´Kþ8ñƒùh4Wûì9ó¥kGW¿£2äÐòÆª¾Ž°yý{3=X¾£-° ÕMix=“£<T È~¶ 1ähá×¦Š ´Ï	¿ðø+Cío¯5P’å˜‚#~°7×³/r¡EjGÀRCÁåïoîœˆoéÄ€1×Þ“ðµHft4wµHïà)„½+üöí¢Ò£…¥ž³NÎÞLÆP-’«á{ÂQ^‚<úš|+¹cy‰½™ˆÑbXK¸„”ú‰¼¡œ5R%½ZQƒ[Ë„Ðñ3MŠ	·Iáp?’Åãƒm
+ÕsÉ¦…JKJ±û»*ÔÀŸU„–6v;IIáŠñN2gÍhåÄPŠÏH#?’¬h•ÐÞìèr´8Ð‡|ÍRß$]Ëö­ktÔM™Ù\ò°÷O ú‡w¡!7ôôR^W÷S¼jcK€o—}œSXÝ´peÒHIHŠá;NÄ•’RâzC%Žà¬ªFªA‹ÔÈÔ‚^ü®$ê!ÉƒAü×Fñ<Î´`Fš iFþ,`EFBÒ
+1âw%3b‘1`CÆB<2ìHòo¤d‚ÌDp‰ß‚’$#Èsà‚Td†üs,32Äo Ufd"Óeº![<‹»ð¤r‘™'~YÌ†dx‘¹È¯ Š‘ù2`œø%B)ÒeâP>LÃxL—@rœÌR¨ÿ
+eàGú ZÆ=¦Ë‘ÃPµâçP	uH?Ô#«`"²&‰ŸA4`zò3¨…)â¨ƒ©Èz˜†œÓ‘“ IüL†ÈhFNñS˜
+3‘pr´"§Ã,ñh‚6ä™ÍÐ!~-09SæeÐ)ž†Ë¡Ù
+ó³d¶Á|ñ#h‡+2gÃ"ñÌ‘Ù	ÝÈ.™s¡Gü3ÌƒeÈù°¹ VˆÂB™WÀJä"¸¹ù,UÈn¸Ù«Å÷a©Ìepr9ôŠïÁ
+èC^	×#WÂZäUpƒø.\ë‘«àFä5p“ø\+s5Ü‚\ýÈë`ƒø'è…È>Ø„¼6‹oÃZ™7Àä:¸¹¶Š„áväM2o†_Š'á¸Ùw"7À¯Ä·`#lGn‚»¿¹~-ž€-2o…ÈÛàñ8l…{‘·Ã}Èmp?ò—ð€8wÈ¼Dþ
+ÁvØü/xy—Ì»á1ñMø5ìAî¹âàxy/ìCÞ‡|î‡ß wÁSÈd>Ä×á!xù0<‹Ü|çÂo‘ÁÈÇá xöÈÀ!ä^_…'dîƒ‘¿‘¹^_'e>Gàñ<¯"Ÿ×Ï"_†çàuäóðò·ð&ò8&¾eþŽ#Á	ñ÷pÞBÀIä üù"üI|~/ó%xù2¼+Âxù
+|€|UæQø³8 ¯Á)äëðò8-†?ÀÇÈ7áSä1ä!‚3Èã2OÀçÈ·à¯âïà¤Ì?ÂÈ·áKñ ü	¾F¾#ó]8‹|Î‰/Àûð-òøòCäoáÏpyJæGð=ò4üC|>† ò‘Ÿ"Ÿƒ¿òA!?C>Ÿ4r˜P ÿJ°È/ÏÀ—‡üŠP!¿&ÔâÓp–Ð ¿!´Ès„ù-¡Àßùa@þùœ'LÈïeþƒ° GˆHñIV¤HD#/Ó5ÿßÅô¯þ)¦y‰˜þÅ?Åô¿^ˆéU?‰éÃÿrLÿì?1ý?1ý?1ý?1ýÿ ¦K+÷> ª™”ôÛlNDB„3!"¡‚‘>‚ÀÌýûö>Å\ÜSŸ>DNGïŽ ~?­5ð¬?qø¡£Y™
+†e‰®¼Ü‚ü‚üœl‹ÙD²âëòj}Þ8gE^íêÙ…åéÑ×/óW¦›¤ë_'¾A¿Á80¦§`4íôù-N°'f&ö$Ò‰‚'H·:·°…ÜIÈƒ$M²y:²×E¸¡Ì€Ò>:3º=º'šŽ¶'$
+é‚]A(òø­Ã#%C­Ãøi…2þ›Öa~ØƒioV¦“IÀ6F¸’\¡fJ?³±k	]‰D6’µy¹I.cbRIÂ¢ÔŠ¿ï*i£HŠÓÝSxþ±WR¦vÔM¿µ#Ør}4A\–AdÏlÕ\¶ÿÑ—$µ¤)iF§—*+'æÍ2Y®ùÅñå“}<m¬¿j2=H½©¦­/W—ûGÆ±Á~¥7»hbI&ê¶G|Lñ!cÀˆ¿Þ×-ì(ØSðBU`ŠTºhÙ¯Ûª»O·OwXwLwFw^ÇéØ*ŸÂmv“ëÝÛÜ»ÜûÝƒîãîÓîsnÎMFXJ‹*ÕE‚EàªmÑy™B-¤Vñ'†‡×ðƒü o•ÓRjÀ
+e­KKøsÏðš¡VëpV&Á˜Mø!Í&&dÓ’h]4³tŽ>2ÈŸ°Á%F:QkÆÊU¼kR›,“ŠŠ›´äÝŸ<HjT“ŠŠ&94Õ¨r¢ïÃûh%é.¬ÎKIW\1!?öÊØ¶`Û„à{
+êëò'Âo:›ê*wll)¨¯/è"nëê#©>)]|½>ªºÜQ“ÌTÎ‰×:\^½äÑ…âoé:Ú„«7Œó%@Š pê-è l†šI·ÇEëã“Ç%Äs;9’Ë¼†
+éCRÿQ+nS‚Ž˜¤#‰dD.„ýEG˜M‘²Ë0Dn~Aæ¢>,9Ùù.j0£óòY_}Et~×¶æŽH•:†JKš<¦TšâÕ7¿ÚÞ^Úe+ïLwKå¯ˆùã›„˜äUS^˜¦lkÒäU‘ÛsTÊão¼)%ù¯Ø“™â	z!“„«74ûÊh°Ö$áKéj0ôcø|Cl†BoÖ“Wê×ë·éwé÷ëõÇõ§õçôJ=X™T!Öcv
+*ìçH	ÿÎ0”¡ÁqdHCƒ;²g~^D®d;Éö¥Äè¡ÑæF©‹ÒØ Ço¼Î™—?‘±'×^ÁÖÞ\öÙ­7Ý½óÅÜ›§Ä-³{ï¯¨JÍrÖä[çXéÅ5…Õ+´^mðú””Gv~ôé=»¨Ö’’¶à“Å¬];½ý^GÑI¸^+ñ9=¼ÝVÆgÚzùÃm1F‹6c1ÖÉ1šW¤@;ÑNü{£#[òßV¹rðm1öÆ‘(ùi¤ÔjÙ?Y†Ì~gÛÝ›vÍßðp¢àM[µjâÌ¦úš•‡¢ó'î¾³lÍº“¿úºÐ?3Ë•ÒzÇm”xçNÊž4É/yT–ø&=—)B;dB“¯Ð!Ä¥[,;-ËAma³´™&×ÓÛè]ô~z>NŸ¦ÏÑq‰6cuªl—…#?nf9¾Fr´J°#8ä£¡ÓÌËîåùöŒGç³p5)|¡·•kK‹kÜ‘TC^­PyÛ¤n¿ƒÈ<W·22aá„Ûoß¹pbrÌøž¤†‰ékWÖÜ:rèÖà¯¯æµÕå))›oû3¡%êìÁ]e¥<²h»A“«‹ÈÄ¾z°¯´#³Z|¥=Ö>ëëý´Ýê³6XÛ­=V…Õ‘`8“0ê†4°IcÑäÓ+œëœ´S!$t’søW‡ŽŽÆâ‘GÑbc˜ŒUØ©g’÷…\Nî$9ë‹;Zû÷/¿ãÚÂ‡ƒ{2on¾±µ1{þƒ´®K^ÚsSCEÆ²ëNì9TX{×’éIuÛrs²º–Õ”PSV¯ÎÊ—ë’þ¶É!¶SÇ™2´ÞÍ¾¹‰‘¤Éœ ”Þ¨'oÐoÕß§ß§?¬?¦?¥?«çôÉ LªlÑúb›*iNe‹¶‘½¶~ÛVÛnÛ3¶#¶·mglçmJ[$§JA%Ø#‰È,)¨Kö(y¨ué‹hn&%¯ÆQGÈ]MraÔ´ŒÔ?žJCó”Ù$93KŽ¿±èÙß—õÑ$±¸°‘´2]¦q³Óo 4±­+¾|j÷ª‚MiúÖ1¤záýŸ'<u¢¦@«Ù|ñÁ*ªKZã´´¡íýÅ7ß°vzÙhiÃÈ«t4¸sÊ†*_
+“jI%Õ:†™Íq±Œ.–q‘g5Ý$Af
+dBn’`Í‘Üø½aí9€†-Ã}ƒ¦•F"ÁP$Ë$ØCÓ‚ìªr Íãò²å¸é”Gæ¨g´"•SÍ¾!¸/xm•×ýÐømÕ•šœ¾úßÿýG	ç¬›S{ƒóž5mæÌ©“ÔÆ¨ÄrrÚgÁïƒÏßvx{Aeâe-‡rs	êÁ?ôx†GSÅÔî®{®ººmfsû+&Z~xˆžÅ”ãNk¥oJ’Êm ûÛ»ÏŽÞ6œ1œ7p›„/PŒÂkö’ë½Û¼»¼û½ƒÞãÞÓÞs^Î&g¶<?5g8äØs>È¡rÆ£‘Gp$òÒ¨F½¬²KóiÙ°`—JvÒÑ34°]Ir¸Åp*›–ÿÁæ.£ô¯ƒ.Yá…Éæ	¶=RW¨Q0<­3)¦{»lV“AA*Óºgf48’¦ÎP³
+K2Æ©EsCm­©n¯Ùvíê{Ýf¾pBç”­›.‹êŠªÕÌÍÙüeíÔºc¢å»—‰¡„•Éñ«â½–¬îœ7½bƒøgâÅÛ¸³wÀl_5e0J*Ûj¸Ï°ÏpØpÌpÊpÖÀ\#(lf¹Þ¶Í¶Ë¶ß6h;n;m;gãÀÆ(ÊcMÐk»5eBš’'Ø!ÔÐ‰Ö¥Ã8Í.Eý$ºF×ŒÑta(¸~¼¶ j}³fù|­­fvRIÉ$Ö$ÑD?ÑTZÚ$}GÞx‹êêŠðÒBhZ¤dKðiäß('¶3~ÐB¥/"$ÙOn%ï#÷‘‡Écä)ò,É‘¬N¡2«Èõªmª]ªýªAÕqÕiÕ9§… z´ªdÑPk&©u¡iÒb&¶÷—LJM..®ßúÛúÅ¼"gbu‘Të4qA7á®}—ïÚÍ{2^È 
+)ÞÈ“ýüv~7ÿ„?ÆŸâÏò\?™oã»ù^~3°}¡&U ­[Õ
+¥ Í2d¼ÅnÉ´ø,=–>Ëk‰‰œ1B|ª/µ'µ/•NÍ(!CÐÛ‹3‹Š{Š·,f‹=rÂH´æ„§œòCŠ†âì¢ò°•¼mÔQ–°‹JÞÉ°¦â®“FW€¡y6IRF8[Ì¹Ä‚;nÚ^3îö¦*]\l:ÝT´Üd0š´1©‘÷»bb%³e©W\©ÐÐtzrñt›™³'U6SWî¹2?ÿpò'÷oôÖ.›÷ÜkMû.OXvâO‹½õõÞeÄ³Ë|®Š»XÝ‘å±m‘ùñqµÙ‹‰Ù¿Ën©™9#×,ýE­ø4­ +¡–ùê=ž=TŒ
+¢ìÆ}:î¤q7zwtgà<({qsN[¢R=©ñæ0!gœÕìNHrv!Sð	B°=¼#÷°<´Kp˜óï¡‡—Ì!í•„§²ðxÆ¤2YC¹rÈËãeM[âˆpêšku:ž¥Ó.ß›‘S;U¤‰e§ß $n»÷ùšL"­¡zÕ¼ùK:¢¯‹f½†Æ·v%¸Ób—Æzëê¼xi'šÚmWÅN¸[½õ×Ug'};±°VZµâ u–Ö‚çr/6•wYI^à¬°6ŽñA±‚&Þ$Ð69¤‡vLè:%íð"Ð5ºžÂ e É§×ßÆ²}wú—V.\½áñk«K*ókfø&(´Å½>}÷±Wwn9þéýOQ>bi[ïÕ¾œbÿJ¢Û4yäYÚJ×alÉ†Ë|ÅcdÈ˜­Ì}Ì>æ0sŒ9Åœe8³ Ä¦a+s¤ˆŠJ"SRˆPz4eš6Íf­ñö\þ‘¡Öq}±f`P^MÉmG;IÛO…õo”7ræ°²?]ØZÌr—ä•mnS!¹(I’”ZïL›PXOTÜTùñÂÉkn¼«lm¹¦¥e^A¶&®Øœ_T__ä!ª¾þÕÉ»Þ24WÔç©\ÎÃ[ÏüiËQÅÅÅ¯½7¡¼ç¦Ük$;˜F†¨·èd\=f¡6P¬‘%o`·²÷±ûØÃì1ö{–åb”‰Q‰)‘T¢™*èÙlVÉ¸„2c›±×¸Ù¸Ã¨0f*µé™zšx~~Ÿþ‚Ñå3[nÍ ¨!tQô×QM´†UAŒnÙä	&4hq:VdGÊ
+á®ÃFZä9ÕþÈÈ¨I%ý”Ò˜’øéÖ{ž$òò‚wjðÍlÕÓ«J*¯ñ'º)–È{ò©#÷Õ?]sR¹âº÷×ož&b,ÓòƒP±ë–ÜÑQRN‘µ³ÏG–"c£ø<õmCœæG*,
+!Z¥ŽV“ýêíêÝêgÔGÔo«Ï¨Ï«¹^õf5©fmÑŒBˆµ²‚Oß o×÷èûô[ô;õ¬Þ&Í(%Ò\‚‘YZWH{Bê&Æ(£i48å‡¦RüF˜¨G•k¯S|ØV.M´Ó¥Ýæ½'_"ÿð«µ]Âá Ò[—,’›ã¯/¬[¶.øm¶7W ¶Ói
+¾²kR‰8.Šþaó¥ ZpZz¢ˆ(a3Oðlš“é…^æZSomb„ž˜¾˜Í	TB™#hÒÑPCG%„–Ã#­<F”Vk„Áë•¢p¢qG÷—áðšZGå†bÌè‚™rÍ1%§~uë‹U·î¼þ¹õK~yUÆãžWˆM¯m:¾FìÌ,'ßidË“Ê/ËY°îÑ–ê”ÂÅESsJ/Kžó‹—«R¢³¤¿’ˆRO(®òmKIŠ1
+!N¥‰ÖýšíšÝšg4G4okÎhÎk¸^¡a3‚Y ×Û„]Â~aP8.œÎ	œÄÄ1cÿ¡²F[IµßºÝºÛúŒõˆõmëëy«Òîîqo¶ö¹wX·¸ßp³n…Õ¬Rðæ$!N!$ÄÙÍ=æ>ó3mö´JÁWšª¤Àk•·{­K[—¢‹¿*OÉ’á‡ùAyk)ƒVCŠCËSDÈü¡ ki6¬@†J6{Í)ùòÖ‚ätÆPú}}‰s=AÓS‹n'K“–§6L¢œ\´Z[mù8QÈÇù`±‰ŠYQ8Ic¯õ9
+kÿ>U©å•þ/Gž >¥Sq|·ûJ‚r‹v§–Ô²Ù‘—ø†±GÇ	æxc7mÑH™LP§9q])O1GyŒgïJÃWZ2…ŸùFº—ö‰&ÃèÜ’ta)Þ:J“J¤¼Ê½ð”%©7IœO]}·ü¢c±9ÉfZ^45ÎhŒòXº×¤Q¿ªxe$Ë+‚_W˜Í…ê<%þuç×>¸tBaúsY›ŽùÕûÄÙWæÝvUmaðì¯E<I}MÛ!º}ÒÂeOñ ˆ-ÔN*@¤Þ > ¾¤XŠÓ0&Š×™¢tJ½¢<ÊÔ˜ne{T¯²'j³²/JJÜþ+ìŠE»¢GÑ§(X®[$SóGù£^^
+h¸úŠÆˆSÞ“Ôè
+Ù˜á7GŠ${5y]©‹Þ×Î(lrzwåµÆ§4Î¸w]m¶o>¡#­¶˜üºÉ«‚K?™ØßP[ ï¾-ÿñ¸b!Ðé+uª<TÓfè6ô6h[Ç¤0¸Jàb¹tî.'­Jòd¥9“<ñö,2>:+ŸäòÓL|tšàK"’¤¦K›Üw±íü»­^Ü¯´M’†ü€!Ò‹6$)Œ¸ò¯”¼`lí•|æGÓrJúA­kÁB[efÃu51N³"·SoKmô`¼Ž¯k,Z¥Uj(mLm{ÊÒnGTlŠRy»ežwµ4xuðàÌ¶r‚üêòïÓõ«ƒß§FUPdÓŒ[V;gæL¸¢pêJó¤½¯ko{ß°;žßT[ B½0#ÏÓ-4ÊóÅEk-œÎŽæŒÖÚÔVÁèPŒMà™Òá’™CÃü»ÃR,“:‹—Ñí`xwcÄþ%a7ºfñç}f·p¹·ihÉÖ¨˜¦Ârç/ž¿"²º2­W‡O£ƒß?ZzÍ¬ÚÂVâÈ‰\I®ü©YÏ×gm[ZS_ ÿù©ø
+endstream
+endobj
+364 0 obj
+<</Type /FontDescriptor
+/FontName /BAAAAA+ComicSansMS-Bold
+/Flags 4
+/Ascent 1102.05078
+/Descent -291.50391
+/StemV 76.171875
+/CapHeight 389.16016
+/ItalicAngle 0
+/FontBBox [-111.816406 -303.22266 1229.49219 1102.05078]
+/FontFile2 363 0 R>>
+endobj
+365 0 obj
+<</Type /Font
+/FontDescriptor 364 0 R
+/BaseFont /BAAAAA+ComicSansMS-Bold
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo <</Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0>>
+/W [15 [433.59375] 37 [630.37109] 43 [768.06641] 68 [555.66406 593.26172 513.67188 587.40234 559.08203 508.30078 530.76172 577.63672 280.27344 0 0 273.92578 776.85547 523.4375 525.87891 534.66797 520.01953 480.46875 486.81641 471.19141 520.01953 486.32813 684.08203 0 552.73438]]
+/DW 500>>
+endobj
+366 0 obj
+<</Filter /FlateDecode
+/Length 269>> stream
+xœ]‘Ëj…0†÷yŠYž.jÐ^@„SË½PÛˆÉh5	1.|ûæb-4À—™ÿŸÌ$k»§NIÙ›Õ¼G£TÂâ¢WËœ¤"!¹Û)ž|f†d^Üo‹Ã¹S£&u½ûèâì§‹ÐÞìÕ
+´RMpúl{ÏýjÌ7Î¨ä¤i@àèž™ya3BeçNø¸tÛÙkþ2>6ƒ@#é5\\ãh™šÔ¹_ÔW¿‚Jü‹—I5Œü‹Ù˜}õÙyNÛ&­"•4Ñc¢ûHUéî!úîô×ï(_–I”²o‹¨-S•ê’.ÛÝ"‰Â+Ã4ðÕZß}yl;4,¿b´	ª° Òâ‰<
+endstream
+endobj
+100 0 obj
+<</Type /Font
+/Subtype /Type0
+/BaseFont /BAAAAA+ComicSansMS-Bold
+/Encoding /Identity-H
+/DescendantFonts [365 0 R]
+/ToUnicode 366 0 R>>
+endobj
+xref
+0 367
+0000000000 65535 f 
+0000000015 00000 n 
+0000101887 00000 n 
+0000000112 00000 n 
+0000131279 00000 n 
+0000000149 00000 n 
+0000000234 00000 n 
+0000000447 00000 n 
+0000000661 00000 n 
+0000000844 00000 n 
+0000001027 00000 n 
+0000001264 00000 n 
+0000001484 00000 n 
+0000001704 00000 n 
+0000001924 00000 n 
+0000002156 00000 n 
+0000002390 00000 n 
+0000002568 00000 n 
+0000002746 00000 n 
+0000002984 00000 n 
+0000003222 00000 n 
+0000003421 00000 n 
+0000003620 00000 n 
+0000003858 00000 n 
+0000004037 00000 n 
+0000004216 00000 n 
+0000004455 00000 n 
+0000004654 00000 n 
+0000004853 00000 n 
+0000005052 00000 n 
+0000005284 00000 n 
+0000005517 00000 n 
+0000005696 00000 n 
+0000005875 00000 n 
+0000006114 00000 n 
+0000006357 00000 n 
+0000006600 00000 n 
+0000006843 00000 n 
+0000007086 00000 n 
+0000007323 00000 n 
+0000007561 00000 n 
+0000007740 00000 n 
+0000007919 00000 n 
+0000008158 00000 n 
+0000008397 00000 n 
+0000008595 00000 n 
+0000008793 00000 n 
+0000009022 00000 n 
+0000009251 00000 n 
+0000009430 00000 n 
+0000009609 00000 n 
+0000009848 00000 n 
+0000010058 00000 n 
+0000010268 00000 n 
+0000010478 00000 n 
+0000102450 00000 n 
+0000014436 00000 n 
+0000014516 00000 n 
+0000014713 00000 n 
+0000014940 00000 n 
+0000015167 00000 n 
+0000015345 00000 n 
+0000015523 00000 n 
+0000015761 00000 n 
+0000015982 00000 n 
+0000016203 00000 n 
+0000016426 00000 n 
+0000016656 00000 n 
+0000016887 00000 n 
+0000017066 00000 n 
+0000017245 00000 n 
+0000017484 00000 n 
+0000017683 00000 n 
+0000017882 00000 n 
+0000018080 00000 n 
+0000018319 00000 n 
+0000018558 00000 n 
+0000018737 00000 n 
+0000018915 00000 n 
+0000019154 00000 n 
+0000019393 00000 n 
+0000019625 00000 n 
+0000019858 00000 n 
+0000020091 00000 n 
+0000020324 00000 n 
+0000020557 00000 n 
+0000020791 00000 n 
+0000020970 00000 n 
+0000021149 00000 n 
+0000021387 00000 n 
+0000021593 00000 n 
+0000021799 00000 n 
+0000022004 00000 n 
+0000022240 00000 n 
+0000022474 00000 n 
+0000022710 00000 n 
+0000022944 00000 n 
+0000023181 00000 n 
+0000023430 00000 n 
+0000102981 00000 n 
+0000140970 00000 n 
+0000027414 00000 n 
+0000027664 00000 n 
+0000027915 00000 n 
+0000028166 00000 n 
+0000028417 00000 n 
+0000028669 00000 n 
+0000028906 00000 n 
+0000029142 00000 n 
+0000029379 00000 n 
+0000029616 00000 n 
+0000029852 00000 n 
+0000030089 00000 n 
+0000030328 00000 n 
+0000030566 00000 n 
+0000030792 00000 n 
+0000031019 00000 n 
+0000031199 00000 n 
+0000031379 00000 n 
+0000031619 00000 n 
+0000031859 00000 n 
+0000032202 00000 n 
+0000032545 00000 n 
+0000032887 00000 n 
+0000033230 00000 n 
+0000033573 00000 n 
+0000033808 00000 n 
+0000034044 00000 n 
+0000034224 00000 n 
+0000034404 00000 n 
+0000034644 00000 n 
+0000034853 00000 n 
+0000035061 00000 n 
+0000035241 00000 n 
+0000035419 00000 n 
+0000035659 00000 n 
+0000035939 00000 n 
+0000036217 00000 n 
+0000036497 00000 n 
+0000103524 00000 n 
+0000040338 00000 n 
+0000040617 00000 n 
+0000040852 00000 n 
+0000041088 00000 n 
+0000041268 00000 n 
+0000041448 00000 n 
+0000041687 00000 n 
+0000041927 00000 n 
+0000042206 00000 n 
+0000042485 00000 n 
+0000042764 00000 n 
+0000043014 00000 n 
+0000043262 00000 n 
+0000043442 00000 n 
+0000043620 00000 n 
+0000043860 00000 n 
+0000044098 00000 n 
+0000044334 00000 n 
+0000044570 00000 n 
+0000044807 00000 n 
+0000045043 00000 n 
+0000045281 00000 n 
+0000045530 00000 n 
+0000045781 00000 n 
+0000046032 00000 n 
+0000046283 00000 n 
+0000046534 00000 n 
+0000046786 00000 n 
+0000047021 00000 n 
+0000047257 00000 n 
+0000047437 00000 n 
+0000047617 00000 n 
+0000047857 00000 n 
+0000048073 00000 n 
+0000048289 00000 n 
+0000048505 00000 n 
+0000104038 00000 n 
+0000051784 00000 n 
+0000052021 00000 n 
+0000052260 00000 n 
+0000052439 00000 n 
+0000052619 00000 n 
+0000052858 00000 n 
+0000053098 00000 n 
+0000053345 00000 n 
+0000053593 00000 n 
+0000053841 00000 n 
+0000054089 00000 n 
+0000054337 00000 n 
+0000054571 00000 n 
+0000054806 00000 n 
+0000054986 00000 n 
+0000055166 00000 n 
+0000055406 00000 n 
+0000055609 00000 n 
+0000055812 00000 n 
+0000056032 00000 n 
+0000056253 00000 n 
+0000056474 00000 n 
+0000056704 00000 n 
+0000056935 00000 n 
+0000057115 00000 n 
+0000057295 00000 n 
+0000057535 00000 n 
+0000057776 00000 n 
+0000058016 00000 n 
+0000058257 00000 n 
+0000058436 00000 n 
+0000058616 00000 n 
+0000058856 00000 n 
+0000059096 00000 n 
+0000059331 00000 n 
+0000059567 00000 n 
+0000059747 00000 n 
+0000059927 00000 n 
+0000060164 00000 n 
+0000060391 00000 n 
+0000060619 00000 n 
+0000060799 00000 n 
+0000060979 00000 n 
+0000061216 00000 n 
+0000061442 00000 n 
+0000061669 00000 n 
+0000061849 00000 n 
+0000062029 00000 n 
+0000062266 00000 n 
+0000062503 00000 n 
+0000062717 00000 n 
+0000062931 00000 n 
+0000063145 00000 n 
+0000063375 00000 n 
+0000063605 00000 n 
+0000063785 00000 n 
+0000063963 00000 n 
+0000064200 00000 n 
+0000104728 00000 n 
+0000068266 00000 n 
+0000068488 00000 n 
+0000068667 00000 n 
+0000068847 00000 n 
+0000069083 00000 n 
+0000069317 00000 n 
+0000069552 00000 n 
+0000069732 00000 n 
+0000069912 00000 n 
+0000070149 00000 n 
+0000070383 00000 n 
+0000070618 00000 n 
+0000070798 00000 n 
+0000070978 00000 n 
+0000071215 00000 n 
+0000071452 00000 n 
+0000071691 00000 n 
+0000071871 00000 n 
+0000072051 00000 n 
+0000072288 00000 n 
+0000072525 00000 n 
+0000072755 00000 n 
+0000072985 00000 n 
+0000073164 00000 n 
+0000073343 00000 n 
+0000073579 00000 n 
+0000073803 00000 n 
+0000074030 00000 n 
+0000074208 00000 n 
+0000074388 00000 n 
+0000074623 00000 n 
+0000074860 00000 n 
+0000075085 00000 n 
+0000075265 00000 n 
+0000075445 00000 n 
+0000075682 00000 n 
+0000075916 00000 n 
+0000076096 00000 n 
+0000076275 00000 n 
+0000076512 00000 n 
+0000076744 00000 n 
+0000076978 00000 n 
+0000077158 00000 n 
+0000077338 00000 n 
+0000077575 00000 n 
+0000077792 00000 n 
+0000078010 00000 n 
+0000078228 00000 n 
+0000078408 00000 n 
+0000078588 00000 n 
+0000078825 00000 n 
+0000079062 00000 n 
+0000079293 00000 n 
+0000079473 00000 n 
+0000079653 00000 n 
+0000079890 00000 n 
+0000105402 00000 n 
+0000083437 00000 n 
+0000083635 00000 n 
+0000083866 00000 n 
+0000084046 00000 n 
+0000084226 00000 n 
+0000084463 00000 n 
+0000084696 00000 n 
+0000084930 00000 n 
+0000085110 00000 n 
+0000085290 00000 n 
+0000085527 00000 n 
+0000085755 00000 n 
+0000085984 00000 n 
+0000086163 00000 n 
+0000086343 00000 n 
+0000086579 00000 n 
+0000086807 00000 n 
+0000087036 00000 n 
+0000087216 00000 n 
+0000087396 00000 n 
+0000087633 00000 n 
+0000087860 00000 n 
+0000088086 00000 n 
+0000088266 00000 n 
+0000088445 00000 n 
+0000088682 00000 n 
+0000088918 00000 n 
+0000089118 00000 n 
+0000089317 00000 n 
+0000089540 00000 n 
+0000089764 00000 n 
+0000089988 00000 n 
+0000090167 00000 n 
+0000090347 00000 n 
+0000090583 00000 n 
+0000090782 00000 n 
+0000090982 00000 n 
+0000091207 00000 n 
+0000091432 00000 n 
+0000091612 00000 n 
+0000091791 00000 n 
+0000092026 00000 n 
+0000092262 00000 n 
+0000092495 00000 n 
+0000092729 00000 n 
+0000092909 00000 n 
+0000093088 00000 n 
+0000093325 00000 n 
+0000093561 00000 n 
+0000093765 00000 n 
+0000093968 00000 n 
+0000106048 00000 n 
+0000098057 00000 n 
+0000098289 00000 n 
+0000098522 00000 n 
+0000098702 00000 n 
+0000098881 00000 n 
+0000099118 00000 n 
+0000099355 00000 n 
+0000099589 00000 n 
+0000099824 00000 n 
+0000100004 00000 n 
+0000100184 00000 n 
+0000100421 00000 n 
+0000106370 00000 n 
+0000106481 00000 n 
+0000106602 00000 n 
+0000129665 00000 n 
+0000129914 00000 n 
+0000130904 00000 n 
+0000131424 00000 n 
+0000139876 00000 n 
+0000140131 00000 n 
+0000140629 00000 n 
+trailer
+<</Size 367
+/Root 358 0 R
+/Info 1 0 R>>
+startxref
+141122
+%%EOF
